@@ -22,17 +22,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>250</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1354</integer>
+    <integer>22</integer>
   </dict>
   <dict>
     <key>angle</key>

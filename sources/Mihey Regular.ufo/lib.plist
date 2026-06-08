@@ -376,6 +376,7 @@
     <string>Wdieresis</string>
     <string>Tcommaaccent</string>
     <string>Scommaaccent</string>
+    <string>encyr</string>
   </array>
 </dict>
 </plist>
