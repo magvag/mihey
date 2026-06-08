@@ -27,14 +27,14 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w271m68,188c68,46 66,-38 -30,-146l-13,-156c180,-36 211.5,78 211.5,280l211.5,655l255,655l255,700l23,700l23,655l68,655</string>
+    <string>w271m66,188c66,46 64,-38 -32,-146l-15,-156c178,-36 209.5,78 209.5,280l209.5,655l253,655l253,700l21,700l21,655l66,655</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 654 45</string>
-          <string>vstem -77.5 144.5</string>
+          <string>vstem -77 144</string>
         </array>
       </dict>
     </array>

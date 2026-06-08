@@ -55,7 +55,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>863a570c90f9fa30f14c3d099acf1e9244485a843f91499360181928ee1b4029eeba5fcca0c874e9346f88aedbef5846915d9ce6e3a558eb368b2ece0e98c92d</string>
+    <string>9334786bfcf37bf2f60ea6d8350ebddd5fc2d87a04b64de175e68b50fe3c298386a88414fd113b5b463dfc93da1d09cc8255ae57a2f60b72cd3fdc9a75e5a6aa</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -63,7 +63,7 @@
         <array>
           <string>hstem 21 -21</string>
           <string>hstem 655 45</string>
-          <string>vstem 582.5 50.5</string>
+          <string>vstem 582 50</string>
         </array>
       </dict>
     </array>

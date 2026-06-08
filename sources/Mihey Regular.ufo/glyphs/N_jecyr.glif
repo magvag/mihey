@@ -74,13 +74,13 @@
         <array>
           <string>hstem -1 45</string>
           <string>hstem 0 45</string>
-          <string>hstem 352.5 45</string>
+          <string>hstem 352 45</string>
           <string>hstem 417 45</string>
           <string>hstem 654 45</string>
           <string>hstem 655 45</string>
-          <string>vstem -74 141.5</string>
-          <string>vstem 205 141.5</string>
-          <string>vstem 344 141.5</string>
+          <string>vstem -74 141</string>
+          <string>vstem 205 141</string>
+          <string>vstem 344 141</string>
         </array>
       </dict>
     </array>

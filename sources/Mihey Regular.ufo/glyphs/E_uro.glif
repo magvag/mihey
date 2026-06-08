@@ -33,11 +33,11 @@
         <key>stems</key>
         <array>
           <string>hstem -12 91</string>
-          <string>hstem 367 39.5</string>
+          <string>hstem 367 39</string>
           <string>hstem 660 52</string>
           <string>vstem 2 44</string>
-          <string>vstem 21 46.5</string>
-          <string>vstem 301 7.5</string>
+          <string>vstem 21 46</string>
+          <string>vstem 301 7</string>
         </array>
       </dict>
     </array>

@@ -11,9 +11,19 @@
   <key>descender</key>
   <integer>-200</integer>
   <key>familyName</key>
-  <string>MIHEY</string>
+  <string>Mihey</string>
   <key>guidelines</key>
   <array>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>250</integer>
+  </dict>
   <dict>
     <key>angle</key>
     <integer>0</integer>
@@ -69,7 +79,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>magvag.ru</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>MIHEY</string>
+  <string>Mihey</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
@@ -154,11 +164,11 @@
     <integer>712</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>MIHEY-Regular</string>
+  <string>Mihey-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>MIHEY Regular</string>
+  <string>Mihey Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptStemSnapH</key>
@@ -178,7 +188,7 @@
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>MIHEY</string>
+  <string>Mihey</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>

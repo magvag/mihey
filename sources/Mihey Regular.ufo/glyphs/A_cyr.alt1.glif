@@ -22,7 +22,7 @@
           <string>hstem 161 45</string>
           <string>hstem 704 -20</string>
           <string>vstem -31 45</string>
-          <string>vstem -26.5 86.5</string>
+          <string>vstem -26 86</string>
         </array>
       </dict>
     </array>

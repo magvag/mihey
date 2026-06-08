@@ -41,15 +41,15 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f762a811caec2e468eba9c87e5eed8181f2ae2c68626d53167121a0f04640a9dbf5e5016d7f2f0e7e3a17bcfd6494e0dccc408eff14632e4bd725ff45d1547bd</string>
+    <string>22fd803dfe36d136dc3d303ffd43bb339fc2bfab6738b44ea8ea413b9a4851eeffc32afb9756e178cb1c4c93c87fb34e4f469f0dcba93314db15ef52c90a369f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 45</string>
-          <string>hstem 655.5 45</string>
-          <string>vstem 68 142.5</string>
+          <string>hstem 655 45</string>
+          <string>vstem 68 142</string>
         </array>
       </dict>
     </array>

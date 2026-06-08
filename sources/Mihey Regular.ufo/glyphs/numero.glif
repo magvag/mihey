@@ -83,11 +83,11 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 655 45</string>
-          <string>vstem -20 80.5</string>
-          <string>vstem 59 49.5</string>
-          <string>vstem 377 49.5</string>
+          <string>vstem -20 80</string>
+          <string>vstem 59 49</string>
+          <string>vstem 377 49</string>
           <string>vstem 380 3</string>
-          <string>vstem 384 42.5</string>
+          <string>vstem 384 42</string>
         </array>
       </dict>
     </array>
