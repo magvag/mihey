@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute.alt2" format="2">
+  <advance width="465"/>
+  <outline>
+    <component base="acute" xOffset="96"/>
+    <component base="Acyr.alt2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+acute</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="2">
+  <advance width="752"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="330" y="0" type="line" smooth="yes"/>
+      <point x="134" y="0"/>
+      <point x="23.8101" y="122"/>
+      <point x="23.8101" y="356.93" type="curve" smooth="yes"/>
+      <point x="24.4965" y="556"/>
+      <point x="105" y="700"/>
+      <point x="330" y="700" type="curve" smooth="yes"/>
+      <point x="518" y="700" type="line"/>
+      <point x="518" y="654.182" type="line"/>
+      <point x="471" y="654.182" type="line"/>
+      <point x="471" y="45.9184" type="line"/>
+      <point x="518" y="45.9184" type="line"/>
+      <point x="518" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="50" type="curve"/>
+      <point x="330" y="644" type="line"/>
+      <point x="212" y="644"/>
+      <point x="178.493" y="494"/>
+      <point x="178.241" y="350.742" type="curve" smooth="yes"/>
+      <point x="178" y="214"/>
+      <point x="208" y="50"/>
+    </contour>
+    <contour>
+      <point x="472" y="418" type="line"/>
+      <point x="509" y="440"/>
+      <point x="542" y="482"/>
+      <point x="539" y="533" type="curve"/>
+      <point x="582" y="545" type="line"/>
+      <point x="642" y="281" type="line"/>
+      <point x="599" y="266" type="line"/>
+      <point x="572" y="327"/>
+      <point x="533" y="361"/>
+      <point x="472" y="373" type="curve"/>
+      <point x="472" y="50" type="line"/>
+      <point x="625" y="50"/>
+      <point x="694" y="178"/>
+      <point x="720" y="287" type="curve"/>
+      <point x="763" y="278" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="330.5" y="700" type="line"/>
+      <point x="668" y="700" type="line"/>
+      <point x="729" y="512" type="line"/>
+      <point x="694" y="500" type="line"/>
+      <point x="653" y="610"/>
+      <point x="509" y="644"/>
+      <point x="472" y="644" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O_E</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>286c4b13961399a622de7e0fdae2a3f43a52bae2aab26ca2f9093ccf7874cf951bc44b90c1ef53987c3f64e1fddb658f7dc0b67c0b19fa5a069d23b91a63d3d2</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 45</string>
+          <string>hstem 0 49</string>
+          <string>hstem 650 50</string>
+          <string>vstem 28 150.5</string>
+          <string>vstem 320 143</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

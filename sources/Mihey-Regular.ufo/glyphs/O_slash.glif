@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+  <advance width="503"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="47" y="-10" type="line"/>
+      <point x="413" y="710" type="line"/>
+      <point x="462" y="710" type="line"/>
+      <point x="96" y="-10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+slash</string>
+  </dict>
+  </lib>
+</glyph>

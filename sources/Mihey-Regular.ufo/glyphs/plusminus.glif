@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="2">
+  <advance width="566"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <component base="minus" yOffset="48"/>
+    <component base="minusline" xOffset="-101" yOffset="-242"/>
+    <contour>
+      <point x="257" y="627" type="line"/>
+      <point x="308" y="627" type="line"/>
+      <point x="308" y="176" type="line"/>
+      <point x="257" y="176" type="line"/>
+    </contour>
+  </outline>
+</glyph>

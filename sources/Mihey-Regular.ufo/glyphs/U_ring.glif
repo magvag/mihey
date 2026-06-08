@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+  <advance width="457"/>
+  <unicode hex="016E"/>
+  <outline>
+    <component base="U"/>
+    <contour>
+      <point x="282" y="831" type="curve" smooth="yes"/>
+      <point x="314.874" y="831"/>
+      <point x="331.126" y="814.626"/>
+      <point x="331.126" y="798.189" type="curve" smooth="yes"/>
+      <point x="331.126" y="781.626"/>
+      <point x="314.624" y="765"/>
+      <point x="282" y="765" type="curve" smooth="yes"/>
+      <point x="249.376" y="765"/>
+      <point x="232.874" y="781.626"/>
+      <point x="232.874" y="798.189" type="curve" smooth="yes"/>
+      <point x="232.874" y="814.626"/>
+      <point x="249.126" y="831"/>
+    </contour>
+    <contour>
+      <point x="282" y="720" type="curve" smooth="yes"/>
+      <point x="344.5" y="720"/>
+      <point x="375.75" y="759"/>
+      <point x="375.75" y="798" type="curve" smooth="yes"/>
+      <point x="375.75" y="837"/>
+      <point x="344.5" y="876"/>
+      <point x="282" y="876" type="curve" smooth="yes"/>
+      <point x="219.5" y="876"/>
+      <point x="188.25" y="837"/>
+      <point x="188.25" y="798" type="curve" smooth="yes"/>
+      <point x="188.25" y="759"/>
+      <point x="219.5" y="720"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+ring</string>
+  </dict>
+  </lib>
+</glyph>

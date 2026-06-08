@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acyr.alt2" format="2">
+  <advance width="465"/>
+  <outline>
+    <contour>
+      <point x="235" y="700" type="line"/>
+      <point x="185" y="700" type="line"/>
+      <point x="25" y="45" type="line"/>
+      <point x="77" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="700" type="line"/>
+      <point x="272" y="205" type="line"/>
+      <point x="111" y="205" type="line"/>
+      <point x="101" y="160" type="line"/>
+      <point x="283" y="160" type="line"/>
+      <point x="310" y="45" type="line"/>
+      <point x="259" y="45" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="300" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="45" type="line"/>
+      <point x="-10" y="45" type="line"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>53ff097bf9e942c6c5b03df561f5c1a31b1615d68b905a54240bc1921a1fdd73f93864069619efa8a1553beb1110b362173ca7c796128b10d67b31a10f035eee</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 45</string>
+          <string>hstem 24 60</string>
+          <string>hstem 161 45</string>
+          <string>hstem 704 -20</string>
+          <string>vstem -57 45</string>
+          <string>vstem -53.5 86.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

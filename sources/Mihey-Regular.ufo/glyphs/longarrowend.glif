@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longarrowend" format="2">
+  <advance width="797"/>
+  <outline>
+    <component base="half-arrow-end" xOffset="30" yOffset="18"/>
+    <component base="half-arrow-end" yScale="-1" xOffset="30" yOffset="711"/>
+    <contour>
+      <point x="13" y="396.5" type="line"/>
+      <point x="837" y="396.5" type="line"/>
+      <point x="837" y="331.5" type="line"/>
+      <point x="13" y="331.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

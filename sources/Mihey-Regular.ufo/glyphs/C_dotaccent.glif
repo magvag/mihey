@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="417"/>
+  <unicode hex="010A"/>
+  <outline>
+    <component base="C" xOffset="-5"/>
+    <component base="dotaccent" xOffset="115"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>C+dotaccent</string>
+  </dict>
+  </lib>
+</glyph>

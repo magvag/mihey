@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="561"/>
+  <unicode hex="003C"/>
+  <outline>
+    <component base="half-greater-than" xOffset="-67"/>
+    <component base="half-greater-than" xOffset="-67"/>
+    <component base="half-greater-than" yScale="-1" xOffset="-67" yOffset="700"/>
+  </outline>
+</glyph>

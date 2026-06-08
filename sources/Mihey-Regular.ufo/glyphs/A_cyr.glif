@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acyr" format="2">
+  <advance width="484"/>
+  <unicode hex="0410"/>
+  <outline>
+    <component base="A"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w484</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 45</string>
+          <string>hstem 24 60</string>
+          <string>hstem 161 45</string>
+          <string>hstem 704 -20</string>
+          <string>vstem -57 45</string>
+          <string>vstem -53.5 86.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

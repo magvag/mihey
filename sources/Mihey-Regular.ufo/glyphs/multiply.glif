@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="2">
+  <advance width="572"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <component base="minus" xScale="0.707511" xyScale="0.706702" yxScale="-0.706702" yScale="0.707511" xOffset="330" yOffset="-97"/>
+    <component base="minusline" xScale="0.707511" xyScale="0.706702" yxScale="-0.706702" yScale="0.707511" xOffset="259" yOffset="-169"/>
+    <component base="minusline" xScale="0.706702" xyScale="-0.707511" yxScale="0.707511" yScale="0.706702" xOffset="-234" yOffset="374"/>
+  </outline>
+</glyph>

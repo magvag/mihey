@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacyr.alt" format="2">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="341" y="528" type="line"/>
+      <point x="219" y="376" type="line"/>
+      <point x="254.975" y="283.137" type="line" smooth="yes"/>
+      <point x="344.053" y="53.2003"/>
+      <point x="394.648" y="-17.1778"/>
+      <point x="511" y="-73" type="curve"/>
+      <point x="527" y="-66" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="315" type="line"/>
+      <point x="449" y="655" type="line"/>
+      <point x="496" y="655" type="line"/>
+      <point x="496" y="700" type="line"/>
+      <point x="329" y="700" type="line"/>
+      <point x="329" y="655" type="line"/>
+      <point x="380" y="655" type="line"/>
+      <point x="210" y="387" type="line"/>
+      <point x="210" y="656" type="line"/>
+      <point x="255" y="656" type="line"/>
+      <point x="255" y="701" type="line"/>
+      <point x="24" y="701" type="line"/>
+      <point x="24" y="656" type="line"/>
+      <point x="68" y="656" type="line"/>
+      <point x="68" y="45" type="line"/>
+      <point x="23" y="45" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="254" y="45" type="line"/>
+      <point x="210" y="45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f762a811caec2e468eba9c87e5eed8181f2ae2c68626d53167121a0f04640a9dbf5e5016d7f2f0e7e3a17bcfd6494e0dccc408eff14632e4bd725ff45d1547bd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 45</string>
+          <string>hstem 655.5 45</string>
+          <string>vstem 68 142.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

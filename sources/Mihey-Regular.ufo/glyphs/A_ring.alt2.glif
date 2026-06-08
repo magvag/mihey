@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring.alt2" format="2">
+  <advance width="471"/>
+  <outline>
+    <component base="ring" xOffset="111" yOffset="-10"/>
+    <contour>
+      <point x="240" y="700" type="line"/>
+      <point x="190" y="700" type="line"/>
+      <point x="30" y="45" type="line"/>
+      <point x="82" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="633" type="line"/>
+      <point x="277" y="205" type="line"/>
+      <point x="116" y="205" type="line"/>
+      <point x="106" y="160" type="line"/>
+      <point x="288" y="160" type="line"/>
+      <point x="315" y="45" type="line"/>
+      <point x="264" y="45" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="305" y="700" type="line"/>
+      <point x="226" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="45" type="line"/>
+      <point x="-10" y="45" type="line"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+ring</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e1d790302b51530f6a7efe3a30cb9545af837daf894cd4904cb562c6fcf657ff67c7ba5aea2c42622ab3d9e1453a852ce5f87a3f18119fe051426273c0a57964</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 45</string>
+          <string>hstem 160 45</string>
+          <string>hstem 701 -21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

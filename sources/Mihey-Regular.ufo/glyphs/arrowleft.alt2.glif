@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowleft.alt2" format="2">
+  <advance width="797"/>
+  <outline>
+    <component base="longarrowend" xScale="-1" xOffset="797"/>
+  </outline>
+</glyph>

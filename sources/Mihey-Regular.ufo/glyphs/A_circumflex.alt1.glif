@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex.alt1" format="2">
+  <advance width="483"/>
+  <outline>
+    <component base="A.alt1"/>
+    <component base="circumflex" xOffset="73"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+circumflex</string>
+  </dict>
+  </lib>
+</glyph>

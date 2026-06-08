@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="half-guillemet" format="2">
+  <advance width="310"/>
+  <outline>
+    <contour>
+      <point x="128" y="350" type="line"/>
+      <point x="22" y="350" type="line"/>
+      <point x="22" y="323" type="line"/>
+      <point x="265" y="148" type="line"/>
+      <point x="265" y="182" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+  <advance width="566"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="minus"/>
+    <contour>
+      <point x="236" y="546" type="curve" smooth="yes"/>
+      <point x="236" y="572"/>
+      <point x="256" y="592"/>
+      <point x="283" y="592" type="curve" smooth="yes"/>
+      <point x="309" y="592"/>
+      <point x="329" y="572"/>
+      <point x="329" y="546" type="curve" smooth="yes"/>
+      <point x="329" y="520"/>
+      <point x="309" y="500"/>
+      <point x="283" y="500" type="curve" smooth="yes"/>
+      <point x="256" y="500"/>
+      <point x="236" y="520"/>
+    </contour>
+    <contour>
+      <point x="236" y="151" type="curve" smooth="yes"/>
+      <point x="236" y="177"/>
+      <point x="256" y="197"/>
+      <point x="283" y="197" type="curve" smooth="yes"/>
+      <point x="309" y="197"/>
+      <point x="329" y="177"/>
+      <point x="329" y="151" type="curve" smooth="yes"/>
+      <point x="329" y="125"/>
+      <point x="309" y="105"/>
+      <point x="283" y="105" type="curve" smooth="yes"/>
+      <point x="256" y="105"/>
+      <point x="236" y="125"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>colon+minus</string>
+  </dict>
+  </lib>
+</glyph>

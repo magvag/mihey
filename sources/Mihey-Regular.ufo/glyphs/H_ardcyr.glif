@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardcyr" format="2">
+  <advance width="590"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="172" y="652" type="curve"/>
+      <point x="172" y="42" type="line"/>
+      <point x="127" y="42" type="line"/>
+      <point x="127" y="-3" type="line"/>
+      <point x="314" y="-3" type="line" smooth="yes"/>
+      <point x="463.52" y="-3"/>
+      <point x="588.923" y="71.8011"/>
+      <point x="589.007" y="228.534" type="curve" smooth="yes"/>
+      <point x="589.087" y="376.369"/>
+      <point x="477.602" y="460.293"/>
+      <point x="342.039" y="460.292" type="curve" smooth="yes"/>
+      <point x="332.909" y="460.292"/>
+      <point x="323.558" y="459.877"/>
+      <point x="314" y="459" type="curve"/>
+      <point x="314" y="652" type="line" smooth="yes"/>
+      <point x="314" y="655"/>
+      <point x="353.6" y="655"/>
+      <point x="358" y="655" type="curve"/>
+      <point x="358" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="-12" y="459" type="line"/>
+      <point x="29" y="451" type="line"/>
+      <point x="48" y="516"/>
+      <point x="107" y="644"/>
+    </contour>
+    <contour>
+      <point x="314" y="42" type="curve"/>
+      <point x="314" y="414" type="line"/>
+      <point x="435" y="414"/>
+      <point x="445" y="273"/>
+      <point x="445" y="237" type="curve" smooth="yes"/>
+      <point x="445" y="102"/>
+      <point x="388" y="42"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8355b46f5db2b7ef2fc6c742dae40dbc7b187bf2dd097dc1dcf41d8b85827a98333b3f08ceb4e5e5cd350e9c2e90dfa42f2c3ba2d4d43f40b018cad6aab3e398</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -3 45</string>
+          <string>hstem 413.5 45</string>
+          <string>hstem 700 -20</string>
+          <string>vstem -52 40.5</string>
+          <string>vstem 172 141.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

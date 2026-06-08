@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde.alt2" format="2">
+  <advance width="465"/>
+  <outline>
+    <component base="tilde" xOffset="67"/>
+    <component base="Acyr.alt2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+tilde</string>
+  </dict>
+  </lib>
+</glyph>

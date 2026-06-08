@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="half-of-figure-bracket" format="2">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="0" y="330" type="line"/>
+      <point x="135.619" y="348.342"/>
+      <point x="142.105" y="473.575"/>
+      <point x="148.239" y="592.026" type="curve" smooth="yes"/>
+      <point x="153.141" y="686.687"/>
+      <point x="157.819" y="777.017"/>
+      <point x="228" y="805" type="curve"/>
+      <point x="211" y="833" type="line"/>
+      <point x="101.517" y="779.037"/>
+      <point x="96.7657" y="654.535"/>
+      <point x="92.6704" y="547.224" type="curve" smooth="yes"/>
+      <point x="88.8731" y="447.722"/>
+      <point x="85.6399" y="363"/>
+      <point x="0" y="363" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

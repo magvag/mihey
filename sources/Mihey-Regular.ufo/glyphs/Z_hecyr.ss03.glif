@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhecyr.ss03" format="2">
+  <advance width="798"/>
+  <outline>
+    <contour>
+      <point x="470" y="656" type="line"/>
+      <point x="515" y="656" type="line"/>
+      <point x="515" y="701" type="line"/>
+      <point x="283" y="701" type="line"/>
+      <point x="283" y="656" type="line"/>
+      <point x="328" y="656" type="line"/>
+      <point x="328" y="45" type="line"/>
+      <point x="284" y="45" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="515" y="45" type="line"/>
+      <point x="470" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="303" type="line"/>
+      <point x="698" y="656" type="line"/>
+      <point x="739" y="656" type="line"/>
+      <point x="739" y="701" type="line"/>
+      <point x="591" y="701" type="line"/>
+      <point x="591" y="656" type="line"/>
+      <point x="638" y="656" type="line"/>
+      <point x="462" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="303" type="line"/>
+      <point x="336" y="381" type="line"/>
+      <point x="160" y="656" type="line"/>
+      <point x="207" y="656" type="line"/>
+      <point x="207" y="701" type="line"/>
+      <point x="59" y="701" type="line"/>
+      <point x="59" y="656" type="line"/>
+      <point x="100" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="598" y="556" type="line"/>
+      <point x="497" y="401" type="line"/>
+      <point x="595" y="45" type="line"/>
+      <point x="560" y="45" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="781" y="45" type="line"/>
+      <point x="747" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="556" type="line"/>
+      <point x="51" y="45" type="line"/>
+      <point x="17" y="45" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="238" y="45" type="line"/>
+      <point x="203" y="45" type="line"/>
+      <point x="301" y="401" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>k_k%</string>
+  </dict>
+  </lib>
+</glyph>

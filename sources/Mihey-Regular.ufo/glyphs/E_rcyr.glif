@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ercyr" format="2">
+  <advance width="488"/>
+  <unicode hex="0420"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="45" type="line"/>
+      <point x="210" y="45" type="line"/>
+      <point x="210" y="239" type="line"/>
+      <point x="222.853" y="237.468"/>
+      <point x="235.347" y="236.725"/>
+      <point x="247.462" y="236.714" type="curve" smooth="yes"/>
+      <point x="395.508" y="236.583"/>
+      <point x="487.064" y="345.844"/>
+      <point x="487.044" y="471.819" type="curve" smooth="yes"/>
+      <point x="487.019" y="621.213"/>
+      <point x="358.217" y="700"/>
+      <point x="211" y="700" type="curve" smooth="yes"/>
+      <point x="23" y="700" type="line"/>
+      <point x="23" y="655" type="line"/>
+      <point x="69" y="655" type="line"/>
+      <point x="69" y="45" type="line"/>
+      <point x="24" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="284" type="curve"/>
+      <point x="210" y="655" type="line"/>
+      <point x="305" y="660"/>
+      <point x="332" y="538.315"/>
+      <point x="336.407" y="499.956" type="curve" smooth="yes"/>
+      <point x="337.5" y="490.444"/>
+      <point x="338.472" y="475.013"/>
+      <point x="338.472" y="458.991" type="curve" smooth="yes"/>
+      <point x="338.472" y="378.883"/>
+      <point x="314.167" y="284"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4ab89b4c0e62685d4cb18716ad918ef70cc9dcdcad55eda2a5dbe56d8ad6c7e13bebc80be2ff42bda6ecfbc73bc5da3b0d06a622b7ed16b6ffc2f48d32867b5f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 45</string>
+          <string>hstem 239 44</string>
+          <string>hstem 655 45</string>
+          <string>vstem -73 141.5</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

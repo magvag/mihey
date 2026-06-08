@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis.alt1" format="2">
+  <advance width="473"/>
+  <outline>
+    <component base="A.alt1"/>
+    <component base="dieresis" xOffset="31"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+dieresis</string>
+  </dict>
+  </lib>
+</glyph>

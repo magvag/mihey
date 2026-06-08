@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="433"/>
+  <unicode hex="002A"/>
+  <outline>
+    <component base="leaf-of-asterisk" xOffset="-16" yOffset="16"/>
+    <component base="leaf-of-asterisk" xScale="0.309081" xyScale="-0.951036" yxScale="0.951036" yScale="0.309081" xOffset="-346" yOffset="593"/>
+    <component base="leaf-of-asterisk" xScale="-0.808688" xyScale="-0.588238" yxScale="0.588238" yScale="-0.808688" xOffset="101" yOffset="1086"/>
+    <component base="leaf-of-asterisk" xScale="0.308703" xyScale="0.951158" yxScale="-0.951158" yScale="0.308703" xOffset="636" yOffset="152"/>
+    <component base="leaf-of-asterisk" xScale="-0.809171" xyScale="0.587573" yxScale="-0.587573" yScale="-0.809171" xOffset="708" yOffset="813"/>
+    <component base="leaf-of-asterisk" xScale="-0.809171" xyScale="0.587573" yxScale="-0.587573" yScale="-0.809171" xOffset="708" yOffset="813"/>
+  </outline>
+</glyph>
