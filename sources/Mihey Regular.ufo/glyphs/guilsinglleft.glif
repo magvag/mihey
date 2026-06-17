@@ -3,7 +3,19 @@
   <advance width="270"/>
   <unicode hex="2039"/>
   <outline>
-    <component base="half-guillemet"/>
-    <component base="half-guillemet" yScale="-1" yOffset="698"/>
+    <contour>
+      <point x="128" y="350" type="line"/>
+      <point x="22" y="350" type="line"/>
+      <point x="22" y="323" type="line"/>
+      <point x="265" y="148" type="line"/>
+      <point x="265" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="348" type="line"/>
+      <point x="22" y="348" type="line"/>
+      <point x="22" y="375" type="line"/>
+      <point x="265" y="550" type="line"/>
+      <point x="265" y="516" type="line"/>
+    </contour>
   </outline>
 </glyph>

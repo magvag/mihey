@@ -2,13 +2,23 @@
 <glyph name="longarrowend" format="2">
   <advance width="797"/>
   <outline>
-    <component base="half-arrow-end" xOffset="30" yOffset="18"/>
-    <component base="half-arrow-end" yScale="-1" xOffset="30" yOffset="711"/>
     <contour>
       <point x="13" y="396.5" type="line"/>
       <point x="837" y="396.5" type="line"/>
       <point x="837" y="331.5" type="line"/>
       <point x="13" y="331.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="338" type="line"/>
+      <point x="407" y="238" type="line"/>
+      <point x="49" y="212" type="line"/>
+      <point x="93" y="338" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="391" type="line"/>
+      <point x="407" y="491" type="line"/>
+      <point x="49" y="517" type="line"/>
+      <point x="93" y="391" type="line"/>
     </contour>
   </outline>
 </glyph>

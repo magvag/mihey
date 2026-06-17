@@ -3,8 +3,14 @@
   <advance width="561"/>
   <unicode hex="003C"/>
   <outline>
-    <component base="half-greater-than" xOffset="-67"/>
-    <component base="half-greater-than" xOffset="-67"/>
-    <component base="half-greater-than" yScale="-1" xOffset="-67" yOffset="700"/>
+    <component base="greater" xScale="-1" xOffset="561"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|greater</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|greater</string>
+  </dict>
+  </lib>
 </glyph>
