@@ -27,13 +27,13 @@
     </contour>
     <contour>
       <point x="0" y="448" type="line"/>
-      <point x="31" y="700" type="line"/>
-      <point x="252" y="700" type="line"/>
-      <point x="252" y="660" type="line"/>
-      <point x="216.211" y="659.508" type="line"/>
-      <point x="109" y="647"/>
+      <point x="42" y="440" type="line"/>
       <point x="53" y="480"/>
-      <point x="42" y="440" type="curve"/>
+      <point x="109" y="647"/>
+      <point x="216.211" y="659.508" type="curve"/>
+      <point x="252" y="660" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="31" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>97fdac22767dc6d209d2682018bc32792cbe7131cbeb950dc4f153faea7c3f07193a075ab82a550b0a0d8e2719af26c6730ddd6d52c895b855c3664b646e6e92</string>
+    <string>c3fb9d16005023db90ed2e0fbb1a72d5bcb65c3db726986b2ab7ac43aa68f4a2444d8fde02c9470e810fd17d55ad7e82d6d9e0447b89a7c9c155f1abcacd7669</string>
     <key>hintSetList</key>
     <array>
       <dict>
