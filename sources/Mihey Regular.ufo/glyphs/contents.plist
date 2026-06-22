@@ -142,8 +142,6 @@
   <string>E_reversedcyr.glif</string>
   <key>Escyr</key>
   <string>E_scyr.glif</string>
-  <key>Escyr.old</key>
-  <string>E_scyr.old.glif</string>
   <key>Eth</key>
   <string>E_th.glif</string>
   <key>Eukrcyr</key>
@@ -218,8 +216,6 @@
   <string>J_ecyr.glif</string>
   <key>K</key>
   <string>K_.glif</string>
-  <key>K.old</key>
-  <string>K_.old.glif</string>
   <key>K.ss03</key>
   <string>K_.ss03.glif</string>
   <key>Kacyr</key>
@@ -346,8 +342,6 @@
   <string>T_secyr.ss01.glif</string>
   <key>U</key>
   <string>U_.glif</string>
-  <key>U.old</key>
-  <string>U_.old.glif</string>
   <key>Uacute</key>
   <string>U_acute.glif</string>
   <key>Ubreve</key>
@@ -356,6 +350,8 @@
   <string>U_circumflex.glif</string>
   <key>Ucyr</key>
   <string>U_cyr.glif</string>
+  <key>Ucyr.alt1</key>
+  <string>U_cyr.alt1.glif</string>
   <key>Udieresis</key>
   <string>U_dieresis.glif</string>
   <key>Ugrave</key>
@@ -528,8 +524,6 @@
   <string>hyphen.glif</string>
   <key>kratka</key>
   <string>kratka.glif</string>
-  <key>leaf-of-asterisk</key>
-  <string>leaf-of-asterisk.glif</string>
   <key>left-round-bracket</key>
   <string>left-round-bracket.glif</string>
   <key>less</key>

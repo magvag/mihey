@@ -170,7 +170,6 @@
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
     <string>Escyr</string>
-    <string>Escyr.old</string>
     <string>Eukrcyr</string>
     <string>Euro</string>
   </array>
@@ -229,7 +228,6 @@
   <array>
     <string>Hacyr</string>
     <string>K</string>
-    <string>K.old</string>
     <string>K.ss03</string>
     <string>Kacyr</string>
     <string>Kacyr.alt</string>
@@ -301,7 +299,6 @@
   <key>public.kern1.U</key>
   <array>
     <string>U</string>
-    <string>U.old</string>
     <string>Uacute</string>
     <string>Ubreve</string>
     <string>Ucircumflex</string>
@@ -403,7 +400,6 @@
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
     <string>Escyr</string>
-    <string>Escyr.old</string>
     <string>Eukrcyr</string>
     <string>G</string>
     <string>Gbreve</string>
@@ -500,7 +496,6 @@
   <key>public.kern2.U1</key>
   <array>
     <string>U</string>
-    <string>U.old</string>
     <string>Uacute</string>
     <string>Ubreve</string>
     <string>Ucircumflex</string>

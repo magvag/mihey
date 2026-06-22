@@ -32,7 +32,7 @@
       <point x="319" y="545" type="line"/>
       <point x="276" y="533" type="line"/>
       <point x="279.322" y="476.532"/>
-      <point x="238.51" y="431.097"/>
+      <point x="236.247" y="418.933"/>
       <point x="197" y="411.627" type="curve"/>
     </contour>
   </outline>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>41c8c61f4de5f42fe97e923f73772db333ed61e46f9c22bb16719fbbb4ef2fd91bee3bcf9b62bd1778e030775bcf3bdcdb1803bc8638cc6065726e53a48ac4ae</string>
+    <string>b343ed0c88381af2470b69eb15087ae10f5e5e8f5d1324ca61bd9bc34e2de3133f99015aa3e3c2484fd7343eca406f2beb05e31a91622da22b0d334d0f0fbb44</string>
     <key>hintSetList</key>
     <array>
       <dict>

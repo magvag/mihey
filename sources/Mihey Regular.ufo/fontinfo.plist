@@ -22,7 +22,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>22</integer>
+    <integer>679</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -176,8 +176,8 @@
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>141</integer>
-    <integer>149</integer>
+    <integer>145</integer>
+    <integer>150</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-75</integer>
