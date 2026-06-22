@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyr" format="2">
+  <advance width="513"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="198" y="44.5" type="line"/>
+      <point x="243" y="44.5" type="line"/>
+      <point x="243" y="0.25" type="line"/>
+      <point x="20" y="0.25" type="line"/>
+      <point x="20" y="44.5" type="line"/>
+      <point x="65" y="44.5" type="line"/>
+      <point x="65" y="500.25" type="line"/>
+      <point x="20" y="500.25" type="line"/>
+      <point x="20" y="545.5" type="line"/>
+      <point x="493" y="545.5" type="line"/>
+      <point x="493" y="500.25" type="line"/>
+      <point x="448" y="500.25" type="line"/>
+      <point x="448" y="44.5" type="line"/>
+      <point x="493" y="44.5" type="line"/>
+      <point x="493" y="0.25" type="line"/>
+      <point x="270" y="0.25" type="line"/>
+      <point x="270" y="44.5" type="line"/>
+      <point x="315" y="44.5" type="line"/>
+      <point x="315" y="500.25" type="line"/>
+      <point x="198" y="500.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=n</string>
+  </dict>
+  </lib>
+</glyph>
