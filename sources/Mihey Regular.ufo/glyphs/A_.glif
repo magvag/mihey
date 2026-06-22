@@ -4,18 +4,8 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="235" y="700" type="line"/>
-      <point x="185" y="700" type="line"/>
-      <point x="25" y="45" type="line"/>
-      <point x="77" y="45" type="line"/>
-    </contour>
-    <contour>
       <point x="155" y="700" type="line"/>
-      <point x="272" y="205" type="line"/>
-      <point x="111" y="205" type="line"/>
-      <point x="101" y="160" type="line"/>
-      <point x="283" y="160" type="line"/>
-      <point x="310" y="45" type="line"/>
+      <point x="310" y="45" type="line" name=".av03"/>
       <point x="259" y="45" type="line"/>
       <point x="259" y="0" type="line"/>
       <point x="490" y="0" type="line"/>
@@ -24,9 +14,21 @@
       <point x="300" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="123" y="45" type="line"/>
-      <point x="-10" y="45" type="line"/>
-      <point x="-10" y="0" type="line"/>
+      <point x="235" y="700" type="line" name=".at01"/>
+      <point x="185" y="700" type="line"/>
+      <point x="25" y="45" type="line"/>
+      <point x="77" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="205" type="line"/>
+      <point x="111" y="205" type="line"/>
+      <point x="101" y="160" type="line"/>
+      <point x="298" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="45" type="line" name=".sv02"/>
+      <point x="-10" y="45" type="line" name=".sv03"/>
+      <point x="-10" y="0" type="line" name=".ab02"/>
       <point x="123" y="0" type="line"/>
     </contour>
   </outline>
@@ -37,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fd3703df369809694e88789aeae3e4a0ce4e2f36c997e76805bc2dd4e97c17d77f6b98bbe71bb086dbce157c615e6c5f297ed869b7313f9fb23a508fd06f1eeb</string>
+    <string>dac908aedfaec93d4d7e31adf07ff18e34807ef7a9d7cafe1cff4af7d7fe02512a0407be39ff51f2b7cf2b409057ff965f2a732534870bcc930165dbb8b6c0ef</string>
     <key>hintSetList</key>
     <array>
       <dict>

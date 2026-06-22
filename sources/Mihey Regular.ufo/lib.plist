@@ -153,7 +153,6 @@
     <string>left-round-bracket</string>
     <string>braceright</string>
     <string>braceleft</string>
-    <string>half-of-figure-bracket</string>
     <string>backslash</string>
     <string>slash</string>
     <string>guillemotright</string>
@@ -164,7 +163,6 @@
     <string>equal</string>
     <string>less</string>
     <string>greater</string>
-    <string>half-greater-than</string>
     <string>plusminus</string>
     <string>notequal</string>
     <string>multiply</string>
@@ -176,20 +174,16 @@
     <string>underscore</string>
     <string>exclamdown</string>
     <string>questiondown</string>
-    <string>half-guillemet</string>
     <string>guilsinglright</string>
     <string>asterisk</string>
-    <string>leaf-of-asterisk</string>
     <string>asciicircum</string>
     <string>percent</string>
-    <string>o-percent</string>
     <string>perthousand</string>
     <string>dollar</string>
     <string>Euro</string>
     <string>ruble</string>
     <string>yen</string>
     <string>section</string>
-    <string>t-arm</string>
     <string>Tsecyr.ss01</string>
     <string>Shchacyr.ss01</string>
     <string>Zhecyr.ss02</string>
@@ -354,8 +348,6 @@
     <string>Emcyr.alt2</string>
     <string>U.old</string>
     <string>arrowleft</string>
-    <string>half-arrow-tip</string>
-    <string>half-arrow-end</string>
     <string>arrowright</string>
     <string>arrowup</string>
     <string>arrowdown</string>
@@ -377,6 +369,10 @@
     <string>Tcommaaccent</string>
     <string>Scommaaccent</string>
     <string>encyr</string>
+    <string>pecyr</string>
+    <string>n</string>
+    <string>ocyr</string>
+    <string>leaf-of-asterisk</string>
   </array>
 </dict>
 </plist>

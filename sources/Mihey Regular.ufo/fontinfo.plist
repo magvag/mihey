@@ -27,6 +27,14 @@
   <dict>
     <key>angle</key>
     <integer>0</integer>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>545</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
     <key>name</key>
     <string>m1</string>
     <key>x</key>
@@ -168,8 +176,8 @@
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>145</integer>
-    <integer>150</integer>
+    <integer>141</integer>
+    <integer>149</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-75</integer>

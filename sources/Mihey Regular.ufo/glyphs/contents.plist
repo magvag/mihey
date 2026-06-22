@@ -522,16 +522,6 @@
   <string>guilsinglleft.glif</string>
   <key>guilsinglright</key>
   <string>guilsinglright.glif</string>
-  <key>half-arrow-end</key>
-  <string>half-arrow-end.glif</string>
-  <key>half-arrow-tip</key>
-  <string>half-arrow-tip.glif</string>
-  <key>half-greater-than</key>
-  <string>half-greater-than.glif</string>
-  <key>half-guillemet</key>
-  <string>half-guillemet.glif</string>
-  <key>half-of-figure-bracket</key>
-  <string>half-of-figure-bracket.glif</string>
   <key>hungarumlaut</key>
   <string>hungarumlaut.glif</string>
   <key>hyphen</key>
@@ -560,6 +550,8 @@
   <string>minute.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
+  <key>n</key>
+  <string>n.glif</string>
   <key>narrownobreakspace</key>
   <string>narrownobreakspace.glif</string>
   <key>nine</key>
@@ -572,8 +564,8 @@
   <string>numbersign.glif</string>
   <key>numero</key>
   <string>numero.glif</string>
-  <key>o-percent</key>
-  <string>o-percent.glif</string>
+  <key>ocyr</key>
+  <string>ocyr.glif</string>
   <key>ogonek</key>
   <string>ogonek.glif</string>
   <key>one</key>
@@ -582,6 +574,8 @@
   <string>parenleft.glif</string>
   <key>parenright</key>
   <string>parenright.glif</string>
+  <key>pecyr</key>
+  <string>pecyr.glif</string>
   <key>percent</key>
   <string>percent.glif</string>
   <key>period</key>
@@ -634,8 +628,6 @@
   <string>slash.glif</string>
   <key>space</key>
   <string>space.glif</string>
-  <key>t-arm</key>
-  <string>t-arm.glif</string>
   <key>three</key>
   <string>three.glif</string>
   <key>tilde</key>

@@ -1,5 +1,138 @@
 #/> classes
 #/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
+@A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
+@A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
+@A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
+@El_base = [Elcyr Ljecyr];
+@El_conflictor = [Iocyr Becyr Vecyr Iecyr Zecyr Ocyr Hardcyr Softcyr Dzecyr Ljecyr Njecyr Yucyr Ereversedcyr Efcyr C Escyr Euro Ccaron Cacute Ccircumflex Cdotaccent Eukrcyr Ccedilla];
+@El_left_changed = [Elcyr.alt1 Ljecyr.alt1];
+@M_base = [M Emcyr];
+@M_right_cropped = [Emcyr.alt2 M.alt2];
+@N_base = [N Nacute Ncaron Ntilde Ncommaaccent];
+@Z_base = [Z Zcaron Zdotaccent Zacute];
+@arrow_base = [arrowleft arrowright];
+@arrow_end = [arrowleft.alt2 arrowright.alt2];
+@arrow_start = [arrowleft.alt1 arrowright.alt1];
+@dash = [emdash endash];
+#/< otclasses
+#/< classes
+
+#/> classes
+#/> otclasses
 @A_left_cropped = [A.alt1 Aacute.alt1 Abreve.alt1 Acircumflex.alt1 Adieresis.alt1 Agrave.alt1 Amacron.alt1 Aogonek.alt1 Aring.alt1 Atilde.alt1 Acyr.alt1];
 @A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];
 @A_right_cropped = [A.alt2 Aacute.alt2 Abreve.alt2 Acircumflex.alt2 Adieresis.alt2 Agrave.alt2 Amacron.alt2 Aogonek.alt2 Aring.alt2 Atilde.alt2 Acyr.alt2];
