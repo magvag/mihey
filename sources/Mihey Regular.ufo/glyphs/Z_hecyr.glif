@@ -3,6 +3,8 @@
   <advance width="745"/>
   <unicode hex="0416"/>
   <outline>
+    <component base="_Zhe_half" xOffset="420"/>
+    <component base="_Zhe_half" xScale="-1" xOffset="324.53"/>
     <contour>
       <point x="300" y="44" type="line" name=".sk1"/>
       <point x="256" y="44" type="line"/>
@@ -10,46 +12,12 @@
       <point x="486" y="0" type="line"/>
       <point x="486" y="44" type="line"/>
       <point x="442" y="44" type="line"/>
-      <point x="442" y="306" type="line"/>
-      <point x="473" y="352" type="line"/>
-      <point x="507" y="263" type="line" smooth="yes"/>
-      <point x="569" y="102"/>
-      <point x="610" y="-13"/>
-      <point x="756" y="-77" type="curve"/>
-      <point x="772" y="-70" type="line"/>
-      <point x="661" y="187"/>
-      <point x="600" y="440"/>
-      <point x="583" y="515" type="curve"/>
-      <point x="672" y="656" type="line"/>
-      <point x="713" y="656" type="line"/>
-      <point x="713" y="701" type="line"/>
-      <point x="560" y="701" type="line"/>
-      <point x="560" y="656" type="line"/>
-      <point x="607" y="656" type="line"/>
-      <point x="442" y="381" type="line"/>
       <point x="442" y="656" type="line" name=".sk3"/>
       <point x="486" y="656" type="line"/>
       <point x="486" y="700" type="line"/>
       <point x="256" y="700" type="line"/>
       <point x="256" y="656" type="line"/>
       <point x="300" y="656" type="line"/>
-      <point x="300" y="388" type="line"/>
-      <point x="141" y="656" type="line"/>
-      <point x="188" y="656" type="line"/>
-      <point x="188" y="701" type="line"/>
-      <point x="33" y="701" type="line"/>
-      <point x="33" y="656" type="line"/>
-      <point x="74" y="656" type="line"/>
-      <point x="162" y="516" type="line"/>
-      <point x="145" y="443"/>
-      <point x="85" y="188"/>
-      <point x="-27" y="-70" type="curve"/>
-      <point x="-10" y="-77" type="line"/>
-      <point x="136" y="-13"/>
-      <point x="177" y="102"/>
-      <point x="239" y="263" type="curve" smooth="yes"/>
-      <point x="273" y="352" type="line"/>
-      <point x="300" y="312" type="line"/>
     </contour>
   </outline>
 </glyph>

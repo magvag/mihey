@@ -371,10 +371,12 @@
     <string>ocyr</string>
     <string>Ucyr.alt1</string>
     <string>_corner.s_I</string>
+    <string>_Zhe_half</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
     <string>_corner.s_I</string>
+    <string>_Zhe_half</string>
   </array>
 </dict>
 </plist>
