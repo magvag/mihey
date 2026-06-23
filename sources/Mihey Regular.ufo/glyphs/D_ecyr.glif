@@ -4,55 +4,62 @@
   <unicode hex="0414"/>
   <outline>
     <contour>
-      <point x="482" y="654" type="line"/>
-      <point x="482" y="699" type="line"/>
-      <point x="81" y="699" type="line"/>
-      <point x="81" y="654" type="line"/>
-      <point x="147" y="654" type="line"/>
-      <point x="147" y="546"/>
-      <point x="122" y="213"/>
-      <point x="87" y="45" type="curve"/>
-      <point x="1" y="45" type="line"/>
-      <point x="19" y="-204" type="line"/>
-      <point x="65" y="-199" type="line"/>
-      <point x="65" y="-113"/>
-      <point x="99" y="0"/>
-      <point x="207" y="0" type="curve" smooth="yes"/>
-      <point x="325" y="0" type="line" smooth="yes"/>
-      <point x="409" y="0"/>
-      <point x="453" y="-89"/>
-      <point x="456" y="-199" type="curve"/>
-      <point x="503" y="-204" type="line"/>
-      <point x="520" y="45" type="line"/>
-      <point x="437" y="45" type="line"/>
-      <point x="437" y="654" type="line"/>
+      <point x="438" y="656" type="line"/>
+      <point x="482" y="656" type="line"/>
+      <point x="482" y="700" type="line"/>
+      <point x="172" y="700" type="line" name=".sk4"/>
+      <point x="76" y="699" type="line"/>
+      <point x="77" y="655" type="line"/>
+      <point x="142" y="656" type="line"/>
+      <point x="143" y="554"/>
+      <point x="141" y="159"/>
+      <point x="79" y="44" type="curve" name=".sk3"/>
+      <point x="-4" y="44" type="line"/>
+      <point x="7" y="-161" type="line"/>
+      <point x="51" y="-157" type="line"/>
+      <point x="54" y="-52"/>
+      <point x="85" y="-5"/>
+      <point x="174" y="0" type="curve"/>
+      <point x="343" y="0" type="line"/>
+      <point x="432" y="-5"/>
+      <point x="463" y="-52"/>
+      <point x="466" y="-157" type="curve"/>
+      <point x="510" y="-161" type="line"/>
+      <point x="521" y="44" type="line"/>
+      <point x="438" y="44" type="line" name=".sk2"/>
     </contour>
     <contour>
-      <point x="198" y="654" type="curve"/>
-      <point x="296" y="654" type="line"/>
-      <point x="296" y="45" type="line"/>
-      <point x="138" y="45" type="line"/>
-      <point x="171" y="202"/>
-      <point x="198" y="578"/>
+      <point x="194" y="656" type="curve"/>
+      <point x="296" y="656" type="line" name=".sk5"/>
+      <point x="296" y="44" type="line"/>
+      <point x="139" y="44" type="line"/>
+      <point x="194" y="222"/>
+      <point x="194" y="562"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5b450125d842fd1188d8ed60a5500c9d11c445df517f7b10f370510e85f4a403c947220c0c6d10b60d176685a2ed0d2169ad9b821cacbead51876fe9c333ee76</string>
+    <string>2598f369908ac998b1c84ae69d4cb114cd3d289e550317d846a58167abd5b633ee23d63ecd132d30304515309b22045493e9e450c8eabf90e7716ee25426f21f</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 45</string>
-          <string>vstem 29 46</string>
-          <string>vstem 193 51</string>
-          <string>vstem 506 46</string>
+          <string>vstem 30 46</string>
+          <string>vstem 194 51</string>
+          <string>vstem 507 46</string>
         </array>
       </dict>
     </array>

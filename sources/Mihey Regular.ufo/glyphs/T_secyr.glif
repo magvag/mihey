@@ -1,50 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tsecyr" format="2">
-  <advance width="570"/>
+  <advance width="565"/>
   <unicode hex="0426"/>
   <outline>
     <contour>
-      <point x="363" y="0" type="curve" smooth="yes"/>
-      <point x="23" y="0" type="line"/>
-      <point x="23" y="45" type="line"/>
-      <point x="68" y="45" type="line"/>
-      <point x="68" y="655" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="23" y="700" type="line"/>
-      <point x="254" y="700" type="line"/>
-      <point x="254" y="655" type="line"/>
-      <point x="209" y="655" type="line"/>
-      <point x="209" y="45" type="line"/>
-      <point x="344" y="45" type="line"/>
-      <point x="344" y="655" type="line"/>
-      <point x="299" y="655" type="line"/>
-      <point x="299" y="700" type="line"/>
-      <point x="530" y="700" type="line"/>
-      <point x="530" y="655" type="line"/>
-      <point x="485" y="655" type="line"/>
-      <point x="485" y="45" type="line"/>
-      <point x="569" y="45" type="line"/>
-      <point x="541" y="-245" type="line"/>
-      <point x="495" y="-239" type="line"/>
-      <point x="495" y="-104"/>
-      <point x="463" y="0"/>
+      <point x="482" y="656" type="line"/>
+      <point x="526" y="656" type="line"/>
+      <point x="526" y="700" type="line"/>
+      <point x="296" y="700" type="line"/>
+      <point x="296" y="656" type="line"/>
+      <point x="340" y="656" type="line" name=".sk5"/>
+      <point x="340" y="44" type="line"/>
+      <point x="208" y="44" type="line"/>
+      <point x="208" y="656" type="line" name=".sk3"/>
+      <point x="252" y="656" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
+      <point x="66" y="44" type="line" name=".sk1"/>
+      <point x="22" y="44" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="373" y="0" type="line" smooth="yes"/>
+      <point x="473" y="0"/>
+      <point x="507" y="-47"/>
+      <point x="510" y="-157" type="curve"/>
+      <point x="554" y="-161" type="line"/>
+      <point x="565" y="44" type="line"/>
+      <point x="482" y="44" type="line" name=".sk2"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Д</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6c62b7d999088fb768db74ca64d5537128abc7082aff69253eac79f3efe72af1ec291d09cab82fdf765f69d374a74ca2810d07b86f3fc518cd21d96e09c2d064</string>
+    <string>78c8fe01867e118b9c9649b0ec9a882bd4d8eec4a0e90539fd836c5359b3bf54adb7f1044ff2bf871359964fa34b548b7c8aa01ebcab1fad13684ba69f4bdc06</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 -20</string>
-          <string>vstem 495 46</string>
+          <string>vstem 491 46</string>
         </array>
       </dict>
     </array>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.s_De" format="2">
+  <advance width="195"/>
+  <anchor x="109" y="0" name="origin"/>
+  <anchor x="0" y="0" name="left"/>
+  <anchor x="109" y="44" name="right"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move"/>
+      <point x="99.7737" y="0"/>
+      <point x="133.899" y="-46.5831"/>
+      <point x="137" y="-157" type="curve"/>
+      <point x="181" y="-161" type="line"/>
+      <point x="192" y="44" type="line"/>
+      <point x="109" y="44" type="line"/>
+    </contour>
+  </outline>
+</glyph>
