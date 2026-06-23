@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcedilla" format="2">
-  <advance width="504"/>
+  <advance width="480"/>
   <unicode hex="0162"/>
   <outline>
-    <component base="T" xOffset="126"/>
-    <component base="cedilla" xOffset="121"/>
+    <component base="T"/>
+    <component base="cedilla" xOffset="96.287"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>T</string>
   <key>com.fontlab.recipe</key>
   <string>T+uni0326</string>
   </dict>
