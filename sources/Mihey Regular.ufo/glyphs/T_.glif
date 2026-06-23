@@ -11,7 +11,7 @@
       <point x="12" y="448" type="line"/>
       <point x="50" y="442" type="line"/>
       <point x="60" y="479"/>
-      <point x="110" y="660"/>
+      <point x="115" y="659"/>
       <point x="169" y="656" type="curve"/>
       <point x="169" y="44" type="line" name=".sk1"/>
       <point x="125" y="44" type="line"/>
@@ -20,7 +20,7 @@
       <point x="355" y="44" type="line"/>
       <point x="311" y="44" type="line"/>
       <point x="311" y="656" type="line"/>
-      <point x="370" y="660"/>
+      <point x="365" y="659"/>
       <point x="420" y="479"/>
     </contour>
   </outline>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c461cd11b9bf612c21755b4ba34b16e13f963089c6416d5a2e27146c94d3bd3f2efa2c0fc686fdd9cf98d5b7e76a6f9fab5d99673a1ad2e1034c8c0969fc98eb</string>
+    <string>af2b995172d084badf7ff4eb170b4af2e0b95b278a0e1ee7f84c2d89d295e9af888b84d92b3594e6e54dc761db63c374eab5dd5d75af9ef69873a899a92e8cc6</string>
     <key>hintSetList</key>
     <array>
       <dict>

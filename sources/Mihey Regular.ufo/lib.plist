@@ -372,11 +372,13 @@
     <string>Ucyr.alt1</string>
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
+    <string>_corner.s_De</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
+    <string>_corner.s_De</string>
   </array>
 </dict>
 </plist>

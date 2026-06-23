@@ -16,8 +16,8 @@
       <point x="301" y="700" type="line"/>
       <point x="301" y="656" type="line"/>
       <point x="345" y="656" type="line"/>
-      <point x="345" y="398" type="line"/>
-      <point x="209" y="398" type="line"/>
+      <point x="345" y="395" type="line"/>
+      <point x="209" y="395" type="line"/>
       <point x="209" y="656" type="line" name=".sk3"/>
       <point x="253" y="656" type="line"/>
       <point x="253" y="700" type="line"/>
@@ -30,8 +30,8 @@
       <point x="253" y="0" type="line"/>
       <point x="253" y="44" type="line"/>
       <point x="209" y="44" type="line"/>
-      <point x="209" y="353" type="line"/>
-      <point x="345" y="353" type="line"/>
+      <point x="209" y="351" type="line"/>
+      <point x="345" y="351" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f0e75048a5eb5a36390549cde975b51f6534165205a4f815ddd90291e57ec79641b5814219dad88c0749ae84a124c56cc8197b1320290248ffc9786436576d2e</string>
+    <string>da380d0a547cefde018380b86ea02ce1e5552ef140d65098adf27885ccd6c7153a66029e659a05d5ab55534176179427094d2ea4a8ac8fb8b12a188ec8c85c6e</string>
     <key>hintSetList</key>
     <array>
       <dict>
