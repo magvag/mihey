@@ -1,60 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yucyr" format="2">
-  <advance width="752"/>
+  <advance width="743"/>
   <unicode hex="042E"/>
   <outline>
+    <component base="O" xOffset="241" yOffset="0.5"/>
     <contour>
-      <point x="212" y="655" type="line"/>
-      <point x="257" y="655" type="line"/>
-      <point x="257" y="700" type="line"/>
-      <point x="26" y="700" type="line"/>
-      <point x="26" y="655" type="line"/>
-      <point x="71" y="655" type="line"/>
-      <point x="71" y="45" type="line"/>
-      <point x="26" y="45" type="line"/>
-      <point x="26" y="0" type="line"/>
-      <point x="257" y="0" type="line"/>
-      <point x="257" y="45" type="line"/>
-      <point x="212" y="45" type="line"/>
-      <point x="212" y="353" type="line"/>
-      <point x="285" y="353" type="line"/>
-      <point x="285" y="201"/>
-      <point x="311" y="-12"/>
-      <point x="506" y="-12" type="curve" smooth="yes"/>
-      <point x="702" y="-12"/>
-      <point x="728" y="203"/>
-      <point x="728" y="355" type="curve" smooth="yes"/>
-      <point x="728" y="506"/>
-      <point x="702" y="712"/>
-      <point x="506" y="712" type="curve" smooth="yes"/>
-      <point x="328" y="712"/>
-      <point x="291" y="543"/>
-      <point x="286" y="398" type="curve"/>
-      <point x="212" y="398" type="line"/>
-    </contour>
-    <contour>
-      <point x="506" y="670" type="curve" smooth="yes"/>
-      <point x="577" y="670"/>
-      <point x="578" y="554"/>
-      <point x="578" y="354" type="curve" smooth="yes"/>
-      <point x="578" y="154"/>
-      <point x="577" y="30"/>
-      <point x="506" y="30" type="curve" smooth="yes"/>
-      <point x="435" y="30"/>
-      <point x="435" y="154"/>
-      <point x="435" y="354" type="curve" smooth="yes"/>
-      <point x="435" y="554"/>
-      <point x="435" y="670"/>
+      <point x="66" y="44" type="line" name=".sk1"/>
+      <point x="22" y="44" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="208" y="44" type="line"/>
+      <point x="208" y="351" type="line"/>
+      <point x="328" y="351" type="line"/>
+      <point x="328" y="395" type="line"/>
+      <point x="208" y="395" type="line"/>
+      <point x="208" y="656" type="line" name=".sk3"/>
+      <point x="252" y="656" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8f422857fc68e8b39d6957d9d56a6eab4bb6bc5f631f6343618f2cbb81f59278ff3c76c8f2e1970688dc47cf356b480c35ed9a1e52f4aa3924a5d2201483e167</string>
+    <string>w743m66,44l22,44l22,0l252,0l252,44l208,44l208,351l328,351l328,395l208,395l208,656l252,656l252,700l22,700l22,656l66,656</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -65,11 +45,11 @@
           <string>hstem 353 45</string>
           <string>hstem 655 45</string>
           <string>hstem 670 42</string>
-          <string>vstem -294 364</string>
-          <string>vstem 164 48</string>
-          <string>vstem 212 45</string>
-          <string>vstem 285 65</string>
-          <string>vstem 579 149</string>
+          <string>vstem -295 364</string>
+          <string>vstem 163 48</string>
+          <string>vstem 211 45</string>
+          <string>vstem 284 65</string>
+          <string>vstem 578 149</string>
         </array>
       </dict>
     </array>
