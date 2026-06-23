@@ -2,7 +2,7 @@
 <glyph name="Aogonek.alt2" format="2">
   <advance width="465"/>
   <outline>
-    <component base="ogonek" xOffset="221" yOffset="1"/>
+    <component base="ogonek" xOffset="248" yOffset="1"/>
     <component base="Acyr.alt2"/>
   </outline>
   <lib>
