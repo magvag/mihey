@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.s_I" format="2">
+  <advance width="64"/>
+  <anchor x="44" y="0" name="origin"/>
+  <anchor x="44" y="44" name="left"/>
+  <anchor x="64" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="44" y="44" type="move"/>
+      <point x="0" y="44" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="64.4833" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

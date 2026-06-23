@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gecyr" format="2">
-  <advance width="428"/>
+  <advance width="427"/>
   <unicode hex="0413"/>
   <outline>
     <contour>
-      <point x="68" y="670" type="line"/>
-      <point x="68" y="44" type="line"/>
-      <point x="23" y="44" type="line"/>
-      <point x="23" y="-1" type="line"/>
-      <point x="254" y="-1" type="line"/>
-      <point x="254" y="44" type="line"/>
-      <point x="209" y="44" type="line"/>
-      <point x="209" y="670" type="line"/>
+      <point x="396" y="700" type="line"/>
+      <point x="152" y="700" type="line"/>
+      <point x="152" y="656" type="line"/>
+      <point x="207.123" y="655.807" type="line" smooth="yes"/>
+      <point x="310.486" y="655.444"/>
+      <point x="360.123" y="525.387"/>
+      <point x="387.123" y="425.058" type="curve"/>
+      <point x="431" y="430.264" type="line"/>
     </contour>
     <contour>
-      <point x="397" y="700" type="line"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="68" y="655" type="line"/>
-      <point x="209" y="655" type="line"/>
-      <point x="312" y="650.987"/>
-      <point x="362" y="526.58"/>
-      <point x="389" y="426.251" type="curve"/>
-      <point x="432" y="430.264" type="line"/>
+      <point x="66.1781" y="44" type="line" name=".sk1"/>
+      <point x="22.1781" y="44" type="line"/>
+      <point x="22.1781" y="0" type="line"/>
+      <point x="86.6614" y="0" type="line"/>
+      <point x="187.517" y="0" type="line" name=".sk2"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="208" y="44" type="line"/>
+      <point x="208" y="700" type="line" name=".sk3"/>
+      <point x="86.4833" y="700" type="line" name=".sk4"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dec7608efa3de377a8096765e3a7ddea860443d89a8a13ce4c26e7a2a037533bcdca5a570890c67e0f79923d421eb342a143f8f33688e8bd8a1d6c0d1d72f589</string>
+    <string>facfe8817d1e6e1f630d93a385a5b92132cdb6623777602651a04b65fd98f49cb36bc89da36bcc4e1cbc660885ceb1a0faa831de1a773e744fa5d5d983d4d9e7</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 655 45</string>
-          <string>vstem 389 43</string>
+          <string>vstem 388 43</string>
         </array>
       </dict>
     </array>

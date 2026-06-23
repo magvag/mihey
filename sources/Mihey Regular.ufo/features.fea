@@ -1,3 +1,9 @@
+#> classes
+#/> tags
+@noexport = [_corner.s_I];
+#/< tags
+#< classes
+
 #/> classes
 #/> otclasses
 @A_base = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde Acyr];

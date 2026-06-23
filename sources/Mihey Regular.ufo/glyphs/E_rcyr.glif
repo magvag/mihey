@@ -1,48 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ercyr" format="2">
-  <advance width="488"/>
+  <advance width="487"/>
   <unicode hex="0420"/>
   <outline>
     <contour>
-      <point x="210" y="45" type="line"/>
-      <point x="210" y="655" type="line"/>
-      <point x="305" y="660"/>
-      <point x="332" y="538.315"/>
-      <point x="336.407" y="499.956" type="curve" smooth="yes"/>
-      <point x="337.5" y="490.444"/>
-      <point x="338.472" y="475.013"/>
-      <point x="338.472" y="458.991" type="curve" smooth="yes"/>
-      <point x="338.472" y="373.999"/>
-      <point x="311.113" y="272.375"/>
-      <point x="190.043" y="285.083" type="curve"/>
-      <point x="194.428" y="241.217" type="line"/>
-      <point x="212.812" y="238.178"/>
-      <point x="230.508" y="236.729"/>
-      <point x="247.462" y="236.714" type="curve" smooth="yes"/>
-      <point x="395.508" y="236.583"/>
-      <point x="487.064" y="345.844"/>
-      <point x="487.044" y="471.819" type="curve" smooth="yes"/>
-      <point x="487.019" y="621.213"/>
-      <point x="358.217" y="700"/>
-      <point x="211" y="700" type="curve" smooth="yes"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="69" y="655" type="line"/>
-      <point x="69" y="45" type="line"/>
-      <point x="24" y="45" type="line"/>
-      <point x="24" y="0" type="line"/>
-      <point x="255" y="0" type="line"/>
-      <point x="255" y="45" type="line"/>
+      <point x="188.659" y="652.156" type="line"/>
+      <point x="197.934" y="654.216"/>
+      <point x="206.648" y="655.165"/>
+      <point x="214.834" y="655.15" type="curve" smooth="yes"/>
+      <point x="305.112" y="654.98"/>
+      <point x="331.092" y="537.518"/>
+      <point x="335.407" y="499.956" type="curve" smooth="yes"/>
+      <point x="336.5" y="490.444"/>
+      <point x="337.472" y="475.013"/>
+      <point x="337.472" y="458.991" type="curve" smooth="yes"/>
+      <point x="337.472" y="373.999"/>
+      <point x="310.113" y="272.375"/>
+      <point x="189.043" y="285.083" type="curve"/>
+      <point x="193.428" y="241.217" type="line"/>
+      <point x="211.812" y="238.178"/>
+      <point x="229.508" y="236.73"/>
+      <point x="246.462" y="236.714" type="curve" smooth="yes"/>
+      <point x="394.508" y="236.583"/>
+      <point x="486.064" y="345.844"/>
+      <point x="486.044" y="471.819" type="curve" smooth="yes"/>
+      <point x="486.018" y="626.791"/>
+      <point x="347.42" y="705.785"/>
+      <point x="193.439" y="699.67" type="curve"/>
+    </contour>
+    <contour>
+      <point x="66.1781" y="44" type="line" name=".sk1"/>
+      <point x="22.1781" y="44" type="line"/>
+      <point x="22.1781" y="0" type="line"/>
+      <point x="86.6614" y="0" type="line"/>
+      <point x="187.517" y="0" type="line" name=".sk2"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="208" y="44" type="line"/>
+      <point x="208" y="700" type="line" name=".sk3"/>
+      <point x="86.4833" y="700" type="line" name=".sk4"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5b55a8cee313ff0435a289552b7a44652b5272ae6309380bd3bc5df6e5f65e8b6ec39c9322cbd4086893c153459b21c74008e1ff6a66797a36859cf8aedc3b39</string>
+    <string>8a960131f9579e95e7b238a38dbfa68af619ff3b7a14d3e9723f1ffaec6fc0ba6b6e3cba5ad6e862b089acf617d7b8eecc5b1e34dfbc47fe19d431ef749d290b</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -51,7 +62,7 @@
           <string>hstem 0 45</string>
           <string>hstem 239 44</string>
           <string>hstem 655 45</string>
-          <string>vstem -73 141</string>
+          <string>vstem -74 141</string>
         </array>
       </dict>
     </array>

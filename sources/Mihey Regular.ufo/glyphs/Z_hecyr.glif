@@ -4,18 +4,22 @@
   <unicode hex="0416"/>
   <outline>
     <contour>
-      <point x="444" y="656" type="line"/>
-      <point x="489" y="656" type="line"/>
-      <point x="489" y="701" type="line"/>
-      <point x="257" y="701" type="line"/>
-      <point x="257" y="656" type="line"/>
-      <point x="302" y="656" type="line"/>
-      <point x="302" y="45" type="line"/>
-      <point x="258" y="45" type="line"/>
-      <point x="258" y="0" type="line"/>
-      <point x="489" y="0" type="line"/>
-      <point x="489" y="45" type="line"/>
-      <point x="444" y="45" type="line"/>
+      <point x="300.178" y="44" type="line" name=".sk1"/>
+      <point x="256.178" y="44" type="line"/>
+      <point x="256.178" y="0" type="line"/>
+      <point x="320.661" y="0" type="line"/>
+      <point x="421.517" y="0" type="line" name=".sk2"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="44" type="line"/>
+      <point x="442" y="44" type="line"/>
+      <point x="442" y="656" type="line" name=".sk3"/>
+      <point x="486" y="656" type="line"/>
+      <point x="486" y="700" type="line"/>
+      <point x="421.517" y="700" type="line"/>
+      <point x="320.483" y="700" type="line" name=".sk4"/>
+      <point x="256" y="700" type="line"/>
+      <point x="256" y="656" type="line"/>
+      <point x="300" y="656" type="line"/>
     </contour>
     <contour>
       <point x="436" y="297" type="line"/>

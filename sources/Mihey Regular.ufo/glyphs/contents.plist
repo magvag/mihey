@@ -420,6 +420,8 @@
   <string>Z_hecyr.ss02.glif</string>
   <key>Zhecyr.ss03</key>
   <string>Z_hecyr.ss03.glif</string>
+  <key>_corner.s_I</key>
+  <string>_corner.s_I_.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
   <key>ampersand</key>

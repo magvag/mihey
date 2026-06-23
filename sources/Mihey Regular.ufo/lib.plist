@@ -370,6 +370,11 @@
     <string>n</string>
     <string>ocyr</string>
     <string>Ucyr.alt1</string>
+    <string>_corner.s_I</string>
+  </array>
+  <key>public.skipExportGlyphs</key>
+  <array>
+    <string>_corner.s_I</string>
   </array>
 </dict>
 </plist>

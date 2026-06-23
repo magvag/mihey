@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="278"/>
+  <advance width="274"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="210" y="45" type="line"/>
-      <point x="210" y="655" type="line"/>
-      <point x="255" y="655" type="line"/>
-      <point x="255" y="700" type="line"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="68" y="655" type="line"/>
-      <point x="68" y="45" type="line"/>
-      <point x="23" y="45" type="line"/>
-      <point x="23" y="0" type="line"/>
-      <point x="255" y="0" type="line"/>
-      <point x="255" y="45" type="line"/>
+      <point x="66.1781" y="44" type="line" name=".sk1"/>
+      <point x="22.1781" y="44" type="line"/>
+      <point x="22.1781" y="0" type="line"/>
+      <point x="86.6614" y="0" type="line"/>
+      <point x="187.517" y="0" type="line" name=".sk2"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="208" y="44" type="line"/>
+      <point x="208" y="656" type="line" name=".sk3"/>
+      <point x="252" y="656" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="187.517" y="700" type="line"/>
+      <point x="86.4833" y="700" type="line" name=".sk4"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w278m210,45l210,655l255,655l255,700l23,700l23,655l68,655l68,45l23,45l23,0l255,0l255,45</string>
+    <string>61c47873ba92bbe146e8116d2b370ed1af0eb2cb57f771a7c74419e6ae0b63b32e34d1c8aff0b27ebccc382bd4d6a8b9ffb413e3f2606f3e217585f7e06cc471</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -33,7 +41,7 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 655 45</string>
-          <string>vstem -73 141</string>
+          <string>vstem -74 141</string>
         </array>
       </dict>
     </array>

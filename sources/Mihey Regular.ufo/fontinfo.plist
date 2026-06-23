@@ -171,12 +171,12 @@
   <false/>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>45</integer>
+    <integer>44</integer>
     <integer>24</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>145</integer>
+    <integer>142</integer>
     <integer>150</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
