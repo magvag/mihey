@@ -8,11 +8,6 @@
       <point x="390" y="350" type="line"/>
       <point x="446" y="350" type="line"/>
       <point x="260" y="700" type="line"/>
-      <point x="238" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="238" y="636" type="line"/>
-      <point x="238" y="700" type="line"/>
       <point x="216" y="700" type="line"/>
       <point x="30" y="350" type="line"/>
       <point x="86" y="350" type="line"/>

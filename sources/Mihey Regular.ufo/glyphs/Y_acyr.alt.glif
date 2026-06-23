@@ -13,33 +13,31 @@
       <point x="477" y="654" type="line"/>
       <point x="477" y="700" type="line"/>
       <point x="291" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="130" y="338" type="line"/>
-      <point x="130" y="338"/>
-      <point x="58" y="76"/>
+      <point x="150" y="699"/>
+      <point x="42" y="625"/>
+      <point x="42" y="485" type="curve" smooth="yes"/>
+      <point x="42" y="415"/>
+      <point x="78" y="364"/>
+      <point x="128" y="331" type="curve"/>
+      <point x="117" y="290"/>
+      <point x="52" y="63"/>
       <point x="-6" y="-68" type="curve"/>
       <point x="10" y="-77" type="line"/>
-      <point x="150" y="21"/>
-      <point x="206" y="87"/>
-      <point x="269" y="311" type="curve"/>
-      <point x="237" y="338" type="line"/>
+      <point x="144" y="17"/>
+      <point x="201" y="82"/>
+      <point x="261" y="284" type="curve"/>
+      <point x="271" y="283"/>
+      <point x="281" y="282"/>
+      <point x="291" y="282" type="curve"/>
     </contour>
     <contour>
-      <point x="298" y="328" type="line"/>
-      <point x="206.577" y="341.645"/>
-      <point x="176.738" y="424.346"/>
-      <point x="176.738" y="497.181" type="curve" smooth="yes"/>
-      <point x="176.738" y="572.869"/>
-      <point x="208.959" y="654"/>
-      <point x="295" y="654" type="curve"/>
-      <point x="295" y="700" type="line"/>
-      <point x="152" y="700"/>
-      <point x="42" y="626"/>
-      <point x="42" y="485" type="curve" smooth="yes"/>
-      <point x="42" y="344"/>
-      <point x="189" y="282"/>
-      <point x="298" y="282" type="curve"/>
+      <point x="177" y="497" type="curve" smooth="yes"/>
+      <point x="177" y="572"/>
+      <point x="208" y="651"/>
+      <point x="291" y="654" type="curve"/>
+      <point x="291" y="329" type="line"/>
+      <point x="205" y="346"/>
+      <point x="177" y="426"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b187a02846304f193b23661526393ce675443903089a1012baef3dba660bba7ca538c4f88d5be08ee1d2e90d70addba342b881f5991db49358b0b460f668121a</string>
+    <string>33ca4bb404c9ea077595a7250b2754e33f0c0fea7f03ec1997265c01aea5c2d6cfa8288b670420bdfa567a8beba6f25607cba3e9782b5b8d40d1af7af729e77c</string>
     <key>hintSetList</key>
     <array>
       <dict>

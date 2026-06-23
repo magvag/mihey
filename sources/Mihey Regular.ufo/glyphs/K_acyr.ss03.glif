@@ -3,7 +3,8 @@
   <advance width="562"/>
   <outline>
     <contour>
-      <point x="344" y="521" type="line"/>
+      <point x="210" y="315" type="line"/>
+      <point x="247" y="368" type="line"/>
       <point x="246" y="366" type="line"/>
       <point x="359" y="45" type="line"/>
       <point x="324" y="45" type="line"/>
@@ -11,9 +12,7 @@
       <point x="545" y="0" type="line"/>
       <point x="545" y="45" type="line"/>
       <point x="511" y="45" type="line"/>
-    </contour>
-    <contour>
-      <point x="210" y="315" type="line"/>
+      <point x="348" y="511" type="line"/>
       <point x="449" y="655" type="line"/>
       <point x="496" y="655" type="line"/>
       <point x="496" y="700" type="line"/>
@@ -42,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>068057869320526f8ee82cc3b7c83716d256da4867d29d70996a091f2410d9f40656514c9d5dbdff5124049088622249f6b2ac63456bb94cfcf563d7b358133a</string>
+    <string>669fbee2730bd490247060b1ef2b253ab4372c3ce0c45c066c70827a031eb8214bd89e35b1ad33ff04e9573a2a85636419761dad9552bfb20acff7ad2ae9e79b</string>
     <key>hintSetList</key>
     <array>
       <dict>

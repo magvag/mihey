@@ -4,8 +4,8 @@
   <unicode hex="041C"/>
   <outline>
     <contour>
-      <point x="13" y="-0.5" type="line"/>
-      <point x="154" y="-0.5" type="line"/>
+      <point x="13" y="-1" type="line"/>
+      <point x="154" y="-1" type="line"/>
       <point x="154" y="46" type="line"/>
       <point x="105" y="46" type="line"/>
       <point x="136" y="555" type="line"/>
@@ -14,8 +14,8 @@
       <point x="442" y="561" type="line"/>
       <point x="475" y="46" type="line"/>
       <point x="430" y="46" type="line"/>
-      <point x="430" y="0.5" type="line"/>
-      <point x="661" y="0.5" type="line"/>
+      <point x="430" y="1" type="line"/>
+      <point x="661" y="1" type="line"/>
       <point x="661" y="46" type="line"/>
       <point x="616" y="46" type="line"/>
       <point x="577" y="655" type="line"/>
@@ -38,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6997076908bb5d7634baa2f592c69249723ae9922a30121038a317673e972a0945642c65121d704ae538151e7d8f46ae59e68fc6ed6fd9fd1bd207dc79b157fa</string>
+    <string>f2f84245fb206357839640a28edfa0c36a3e0ec50964efd8cc0277e4cfcd335d92855c899988e10a832a17b30c203e1f5e2cf9aba9355e7fc408141e139a4f91</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,16 +4,9 @@
   <outline>
     <component base="ring" xOffset="95" yOffset="-10"/>
     <contour>
-      <point x="224" y="700" type="line"/>
-      <point x="174" y="700" type="line"/>
-      <point x="14" y="45" type="line"/>
+      <point x="112" y="45" type="line"/>
       <point x="66" y="45" type="line"/>
-    </contour>
-    <contour>
-      <point x="160" y="633" type="line"/>
-      <point x="261" y="205" type="line"/>
-      <point x="100" y="205" type="line"/>
-      <point x="90" y="160" type="line"/>
+      <point x="94" y="160" type="line"/>
       <point x="272" y="160" type="line"/>
       <point x="299" y="45" type="line"/>
       <point x="248" y="45" type="line"/>
@@ -22,13 +15,16 @@
       <point x="479" y="45" type="line"/>
       <point x="444" y="45" type="line"/>
       <point x="289" y="700" type="line"/>
-      <point x="210" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="112" y="45" type="line"/>
+      <point x="174" y="700" type="line"/>
+      <point x="14" y="45" type="line"/>
       <point x="-4" y="45" type="line"/>
       <point x="18" y="0" type="line"/>
       <point x="112" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="533" type="line"/>
+      <point x="261" y="205" type="line"/>
+      <point x="105" y="205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>cdf55e0a86175bd0579a87aa81ead8b2aba295d2c24b07a5375319b39d945a9ce46d2cb1939a7976411d8af63b3c69a6b4eb418328448c1f0cff793fd205528b</string>
+    <string>c131f1146e1af4a7582d5843cd6aced53bfad1326c52e9c8f3984344377d0c3062ad5eaf400bd0e61f5094c3400c6e9d14b744805446f4f207fccf356fd854b9</string>
     <key>hintSetList</key>
     <array>
       <dict>

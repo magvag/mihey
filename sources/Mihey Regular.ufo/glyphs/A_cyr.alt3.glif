@@ -3,28 +3,26 @@
   <advance width="453"/>
   <outline>
     <contour>
-      <point x="223" y="700" type="line"/>
-      <point x="173" y="700" type="line"/>
-      <point x="13" y="45" type="line"/>
+      <point x="111" y="45" type="line"/>
       <point x="65" y="45" type="line"/>
-    </contour>
-    <contour>
-      <point x="143" y="700" type="line"/>
-      <point x="260" y="205" type="line"/>
-      <point x="99" y="205" type="line"/>
-      <point x="89" y="160" type="line"/>
+      <point x="93" y="160" type="line"/>
       <point x="271" y="160" type="line"/>
       <point x="298" y="45" type="line"/>
       <point x="247" y="45" type="line"/>
       <point x="247" y="0" type="line"/>
       <point x="453" y="0" type="line"/>
       <point x="288" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="111" y="45" type="line"/>
+      <point x="143" y="700" type="line"/>
+      <point x="158" y="638" type="line"/>
+      <point x="13" y="45" type="line"/>
       <point x="-6" y="45" type="line"/>
       <point x="12" y="0" type="line"/>
       <point x="111" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="532" type="line"/>
+      <point x="260" y="205" type="line"/>
+      <point x="104" y="205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +32,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>1ab877aa7d32c2aa5de18e9c7b0294d90ac7e025573f890a63ab3ecd938d8cd36d9f35516a53036dc7fe49ac8154b51248662e0e866b46516f10949b94a59e97</string>
+    <string>51e9cfcc77ddeea00a872b2889b8753bf590ad1ea00ee0008d350ee93e153d6daf6f129cc9d96da9bf56f49fd3e290334834d7021c657611e7b1fab0f2ff035b</string>
     <key>hintSetList</key>
     <array>
       <dict>

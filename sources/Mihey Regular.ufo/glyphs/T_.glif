@@ -7,33 +7,21 @@
       <point x="430" y="442" type="curve"/>
       <point x="468" y="448" type="line"/>
       <point x="452" y="700" type="line"/>
-      <point x="230" y="700" type="line"/>
-      <point x="230" y="656" type="line"/>
-      <point x="311.426" y="655.508" type="line"/>
-      <point x="369.984" y="660"/>
-      <point x="419.737" y="479.413"/>
-    </contour>
-    <contour>
-      <point x="12" y="448" type="line"/>
       <point x="28" y="700" type="line"/>
-      <point x="250" y="700" type="line"/>
-      <point x="250" y="656" type="line"/>
-      <point x="168.574" y="655.508" type="line"/>
-      <point x="110.016" y="660"/>
-      <point x="60.2626" y="479.413"/>
-      <point x="50" y="442" type="curve"/>
-    </contour>
-    <contour>
-      <point x="169.178" y="44" type="line" name=".sk1"/>
-      <point x="125.178" y="44" type="line"/>
-      <point x="125.178" y="0" type="line"/>
-      <point x="189.661" y="0" type="line"/>
-      <point x="290.517" y="0" type="line" name=".sk2"/>
+      <point x="12" y="448" type="line"/>
+      <point x="50" y="442" type="line"/>
+      <point x="60" y="479"/>
+      <point x="110" y="660"/>
+      <point x="169" y="656" type="curve"/>
+      <point x="169" y="44" type="line" name=".sk1"/>
+      <point x="125" y="44" type="line"/>
+      <point x="125" y="0" type="line"/>
       <point x="355" y="0" type="line"/>
       <point x="355" y="44" type="line"/>
       <point x="311" y="44" type="line"/>
-      <point x="311" y="700" type="line" name=".sk3"/>
-      <point x="169" y="700" type="line" name=".sk4"/>
+      <point x="311" y="656" type="line"/>
+      <point x="370" y="660"/>
+      <point x="420" y="479"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>c12f9aace9438f2ce08eb7b20bf7d75f116651322e7e8484c8677c42a99204cce2e4acddb985cc08b9558e65f4e7c3645c63dc39d912fe5c39c88e61ea3f0d6e</string>
+    <string>c461cd11b9bf612c21755b4ba34b16e13f963089c6416d5a2e27146c94d3bd3f2efa2c0fc686fdd9cf98d5b7e76a6f9fab5d99673a1ad2e1034c8c0969fc98eb</string>
     <key>hintSetList</key>
     <array>
       <dict>

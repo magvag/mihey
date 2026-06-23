@@ -5,12 +5,12 @@
   <outline>
     <component base="Softcyr" xOffset="226"/>
     <contour>
-      <point x="128.866" y="11.0033" type="curve" smooth="yes"/>
-      <point x="162.054" y="29.5365"/>
-      <point x="173.32" y="63.1694"/>
-      <point x="180.732" y="169.021" type="curve" smooth="yes"/>
-      <point x="183.274" y="205.32" type="line" smooth="yes"/>
-      <point x="188.366" y="278.047"/>
+      <point x="129" y="11" type="curve" smooth="yes"/>
+      <point x="162" y="30"/>
+      <point x="173" y="63"/>
+      <point x="181" y="169" type="curve" smooth="yes"/>
+      <point x="183" y="205" type="line" smooth="yes"/>
+      <point x="188" y="278"/>
       <point x="197" y="449"/>
       <point x="197" y="655" type="curve"/>
       <point x="293" y="655" type="line"/>
@@ -24,20 +24,20 @@
       <point x="82" y="700" type="line"/>
       <point x="82" y="655" type="line"/>
       <point x="149" y="655" type="line"/>
-      <point x="149" y="525.551"/>
-      <point x="146.209" y="395.8"/>
-      <point x="141.928" y="322.169" type="curve" smooth="yes"/>
-      <point x="134.576" y="195.702"/>
-      <point x="117.53" y="143.693"/>
-      <point x="93.0644" y="143.693" type="curve" smooth="yes"/>
-      <point x="71.5535" y="143.693"/>
-      <point x="51.3446" y="183.897"/>
+      <point x="149" y="526"/>
+      <point x="146" y="396"/>
+      <point x="142" y="322" type="curve" smooth="yes"/>
+      <point x="135" y="196"/>
+      <point x="118" y="144"/>
+      <point x="93" y="144" type="curve" smooth="yes"/>
+      <point x="72" y="144"/>
+      <point x="51" y="184"/>
       <point x="33" y="237" type="curve"/>
       <point x="-13" y="228" type="line"/>
       <point x="29" y="0" type="line"/>
-      <point x="70.7521" y="-0.252" type="line" smooth="yes"/>
-      <point x="93.06" y="-0.2879"/>
-      <point x="110.141" y="0.5463"/>
+      <point x="71" y="0" type="line" smooth="yes"/>
+      <point x="93" y="0"/>
+      <point x="110" y="1"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>00ad1427d4a024016fafe42cd7099053f2d0519d7ef3bc412a14c92ec4e1f33e4d1d65e71d14c67cffb60b2d13f0ba3f8d90d059f4a6a5a3c5048c93b08a721a</string>
+    <string>d0e60c837209d02a2171208a798b4c3c5bfd8a52a242f154bd59b32b1acff083da37e9e8c97dbefc79f72c91d8ec4d8d1c8430c8492b7249d63eb5c909542d90</string>
     <key>hintSetList</key>
     <array>
       <dict>

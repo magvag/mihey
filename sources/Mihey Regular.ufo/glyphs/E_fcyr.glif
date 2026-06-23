@@ -4,54 +4,50 @@
   <unicode hex="0424"/>
   <outline>
     <contour>
-      <point x="406.019" y="565.995" type="line"/>
-      <point x="523.689" y="565.995"/>
-      <point x="546" y="459.394"/>
-      <point x="546" y="358" type="curve" smooth="yes"/>
-      <point x="546" y="256.705"/>
-      <point x="523.733" y="144.275"/>
-      <point x="406.362" y="144.065" type="curve"/>
-      <point x="409.194" y="96.1233" type="line"/>
-      <point x="550.864" y="102.529"/>
-      <point x="684" y="164.233"/>
-      <point x="684" y="358" type="curve" smooth="yes"/>
-      <point x="684" y="551.828"/>
-      <point x="550.78" y="607.063"/>
-      <point x="409.06" y="613.907" type="curve"/>
-    </contour>
-    <contour>
-      <point x="297.94" y="613.907" type="line"/>
-      <point x="156.22" y="607.063"/>
-      <point x="23" y="551.828"/>
-      <point x="23" y="358" type="curve" smooth="yes"/>
-      <point x="23" y="164.233"/>
-      <point x="156.136" y="102.529"/>
-      <point x="297.805" y="96.1233" type="curve"/>
-      <point x="300.638" y="144.064" type="line"/>
-      <point x="183.267" y="144.275"/>
-      <point x="161" y="256.704"/>
-      <point x="161" y="358" type="curve" smooth="yes"/>
-      <point x="161" y="459.394"/>
-      <point x="183.311" y="565.995"/>
-      <point x="300.981" y="565.995" type="curve"/>
-    </contour>
-    <contour>
-      <point x="282.178" y="40.2532" type="line" name=".sk1"/>
-      <point x="238.178" y="40.2532" type="line"/>
-      <point x="238.178" y="-5" type="line"/>
-      <point x="302.661" y="-5" type="line"/>
-      <point x="403.517" y="-5" type="line" name=".sk2"/>
+      <point x="282" y="40" type="line" name=".sk1"/>
+      <point x="238" y="40" type="line"/>
+      <point x="238" y="-5" type="line"/>
       <point x="468" y="-5" type="line"/>
-      <point x="468" y="40.2532" type="line"/>
-      <point x="424" y="40.2532" type="line"/>
-      <point x="424" y="669.684" type="line" name=".sk3"/>
-      <point x="468" y="669.684" type="line"/>
-      <point x="468" y="714.937" type="line"/>
-      <point x="403.517" y="714.937" type="line"/>
-      <point x="302.483" y="714.937" type="line" name=".sk4"/>
-      <point x="238" y="714.937" type="line"/>
-      <point x="238" y="669.684" type="line"/>
-      <point x="282" y="669.684" type="line"/>
+      <point x="468" y="40" type="line"/>
+      <point x="424" y="40" type="line"/>
+      <point x="424" y="97" type="line"/>
+      <point x="560" y="107"/>
+      <point x="684" y="171"/>
+      <point x="684" y="358" type="curve" smooth="yes"/>
+      <point x="684" y="545"/>
+      <point x="560" y="603"/>
+      <point x="424" y="613" type="curve"/>
+      <point x="424" y="670" type="line" name=".sk3"/>
+      <point x="468" y="670" type="line"/>
+      <point x="468" y="715" type="line"/>
+      <point x="238" y="715" type="line"/>
+      <point x="238" y="670" type="line"/>
+      <point x="282" y="670" type="line"/>
+      <point x="282" y="613" type="line"/>
+      <point x="146" y="603"/>
+      <point x="23" y="545"/>
+      <point x="23" y="358" type="curve" smooth="yes"/>
+      <point x="23" y="171"/>
+      <point x="146" y="107"/>
+      <point x="282" y="97" type="curve"/>
+    </contour>
+    <contour>
+      <point x="161" y="358" type="curve" smooth="yes"/>
+      <point x="161" y="454"/>
+      <point x="181" y="554"/>
+      <point x="282" y="565" type="curve"/>
+      <point x="282" y="145" type="line"/>
+      <point x="181" y="157"/>
+      <point x="161" y="262"/>
+    </contour>
+    <contour>
+      <point x="546" y="358" type="curve" smooth="yes"/>
+      <point x="546" y="262"/>
+      <point x="526" y="156"/>
+      <point x="424" y="145" type="curve"/>
+      <point x="424" y="565" type="line"/>
+      <point x="526" y="555"/>
+      <point x="546" y="454"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +57,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>99eff2cbd0e7d8bba26b4ec60fea9a769179a807caa54cbb9f47e5be5bf478cf72013651983d3228aff13bf4b73821a54ed41de6a5ba128b93730ae19ed84b9d</string>
+    <string>0a3673325ae9af8f14e2266e5f7a4ab9690e780c10f66b730cdab9af3acee24e36e1ab78b8de788ec28750ae1bdbdbd79b25de86f74f70560ecfa9f712cb5671</string>
     <key>hintSetList</key>
     <array>
       <dict>

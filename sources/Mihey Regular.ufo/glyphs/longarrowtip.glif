@@ -5,10 +5,10 @@
     <component base="long-haf-arrow-tip" xOffset="597" yOffset="-12"/>
     <component base="long-haf-arrow-tip" yScale="-1" xOffset="597" yOffset="743"/>
     <contour>
-      <point x="-60" y="396.5" type="line"/>
-      <point x="784" y="396.5" type="line"/>
-      <point x="784" y="331.5" type="line"/>
-      <point x="-60" y="331.5" type="line"/>
+      <point x="-60" y="397" type="line"/>
+      <point x="784" y="397" type="line"/>
+      <point x="784" y="332" type="line"/>
+      <point x="-60" y="332" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -4,8 +4,6 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="489" y="151" type="line"/>
-      <point x="483" y="0" type="line"/>
       <point x="496" y="0" type="line"/>
       <point x="683" y="655" type="line"/>
       <point x="716" y="655" type="line"/>
@@ -13,32 +11,15 @@
       <point x="586" y="700" type="line"/>
       <point x="586" y="655" type="line"/>
       <point x="633" y="655" type="line"/>
-    </contour>
-    <contour>
-      <point x="495" y="0" type="line"/>
-      <point x="546" y="240" type="line"/>
+      <point x="531" y="299" type="line"/>
       <point x="444" y="655" type="line"/>
       <point x="491" y="655" type="line"/>
       <point x="491" y="700" type="line"/>
       <point x="255" y="700" type="line"/>
       <point x="255" y="655" type="line"/>
       <point x="302" y="655" type="line"/>
-      <point x="461" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="206" y="151" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="213" y="0" type="line"/>
-      <point x="400" y="655" type="line"/>
-      <point x="446" y="655" type="line"/>
-      <point x="446" y="700" type="line"/>
-      <point x="303" y="700" type="line"/>
-      <point x="303" y="655" type="line"/>
-      <point x="350" y="655" type="line"/>
-    </contour>
-    <contour>
-      <point x="212" y="0" type="line"/>
-      <point x="263" y="240" type="line"/>
+      <point x="324" y="564" type="line"/>
+      <point x="248" y="299" type="line"/>
       <point x="161" y="655" type="line"/>
       <point x="208" y="655" type="line"/>
       <point x="208" y="700" type="line"/>
@@ -46,6 +27,9 @@
       <point x="-17" y="655" type="line"/>
       <point x="19" y="655" type="line"/>
       <point x="178" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="347" y="469" type="line"/>
+      <point x="461" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>9334786bfcf37bf2f60ea6d8350ebddd5fc2d87a04b64de175e68b50fe3c298386a88414fd113b5b463dfc93da1d09cc8255ae57a2f60b72cd3fdc9a75e5a6aa</string>
+    <string>d2b448a2bd9d44efabfe56c38a14f82190a41d5573bbc79b6e1ea2b3b60f0a28fd6f4d6099719688ef5ce2ba25439afb64e3ba7bff334f34e3320d536835d27c</string>
     <key>hintSetList</key>
     <array>
       <dict>

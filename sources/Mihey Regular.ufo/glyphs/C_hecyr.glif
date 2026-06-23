@@ -9,11 +9,11 @@
       <point x="0" y="655" type="line"/>
       <point x="45" y="655" type="line"/>
       <point x="45" y="425" type="line" smooth="yes"/>
-      <point x="45" y="346.251"/>
-      <point x="125.618" y="279.285"/>
-      <point x="228.251" y="279.285" type="curve" smooth="yes"/>
-      <point x="255.948" y="279.285"/>
-      <point x="285.248" y="284.162"/>
+      <point x="45" y="346"/>
+      <point x="126" y="279"/>
+      <point x="228" y="279" type="curve" smooth="yes"/>
+      <point x="256" y="279"/>
+      <point x="285" y="284"/>
       <point x="315" y="295" type="curve"/>
       <point x="315" y="45" type="line"/>
       <point x="270" y="45" type="line"/>
@@ -28,11 +28,11 @@
       <point x="271" y="655" type="line"/>
       <point x="315" y="655" type="line"/>
       <point x="315" y="342" type="line"/>
-      <point x="290.518" y="333.14"/>
-      <point x="270.44" y="329.173"/>
-      <point x="254.043" y="329.173" type="curve" smooth="yes"/>
-      <point x="200.113" y="329.173"/>
-      <point x="186" y="372.088"/>
+      <point x="291" y="333"/>
+      <point x="270" y="329"/>
+      <point x="254" y="329" type="curve" smooth="yes"/>
+      <point x="200" y="329"/>
+      <point x="186" y="372"/>
       <point x="186" y="425" type="curve" smooth="yes"/>
       <point x="186" y="655" type="line"/>
       <point x="231" y="655" type="line"/>
@@ -45,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>84911c2b385fbb6d8379dc51e3a26915a4336323159cfac952003ca8a37ef3f72544246f488c9ee5b6e5443f1b273c67e60dc48e34e8ba83bd53eac531acd765</string>
+    <string>771dff0a68eeea3d3c982d293b3a786ca56207e0ef23fde1da6a9bd14cdb906a837bdcbd49541d6ebeb19ba70793c3e6ebd13f886af70b1a58e6ecf7b33f4995</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -4,38 +4,34 @@
   <unicode hex="0425"/>
   <outline>
     <contour>
-      <point x="173" y="345" type="line"/>
-      <point x="50" y="45" type="line"/>
-      <point x="3" y="45" type="line"/>
-      <point x="3" y="0" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="150" y="45" type="line"/>
-      <point x="102" y="45" type="line"/>
-      <point x="225" y="345" type="line"/>
-    </contour>
-    <contour>
       <point x="283" y="45" type="line"/>
       <point x="235" y="45" type="line"/>
       <point x="235" y="0" type="line"/>
       <point x="481" y="0" type="line"/>
       <point x="481" y="45" type="line"/>
       <point x="439" y="45" type="line"/>
-      <point x="197" y="655" type="line"/>
-      <point x="245" y="655" type="line"/>
-      <point x="245" y="700" type="line"/>
-      <point x="0" y="700" type="line"/>
-      <point x="0" y="655" type="line"/>
-      <point x="42" y="655" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="355" type="line"/>
+      <point x="303" y="388" type="line"/>
       <point x="412" y="655" type="line"/>
       <point x="459" y="655" type="line"/>
       <point x="459" y="700" type="line"/>
       <point x="312" y="700" type="line"/>
       <point x="312" y="655" type="line"/>
       <point x="360" y="655" type="line"/>
-      <point x="237" y="355" type="line"/>
+      <point x="277" y="453" type="line"/>
+      <point x="197" y="655" type="line"/>
+      <point x="245" y="655" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="0" y="655" type="line"/>
+      <point x="42" y="655" type="line"/>
+      <point x="169" y="334" type="line"/>
+      <point x="50" y="45" type="line"/>
+      <point x="3" y="45" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="45" type="line"/>
+      <point x="102" y="45" type="line"/>
+      <point x="194" y="270" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d41a0aedb0f7fefa8854741c409bb206a6ddd338f857d416bfff5f0def60e76f40b199997687c6a066acd7f039b6be4fe32a36de86fc7e1ca3fd1ceb30875a4f</string>
+    <string>d017eaeff252f1095c03cbf5b6c0225c42cdebc446e7d055ac339ab26b21b2c9e5f79b3bdc1f156be68cd0640d4e8e9652f7a040139c1070da05edaa9ef7a774</string>
     <key>hintSetList</key>
     <array>
       <dict>
