@@ -17,32 +17,26 @@
       <point x="533" y="656" type="line"/>
       <point x="577" y="656" type="line"/>
       <point x="577" y="44" type="line" name=".sk1"/>
-      <point x="423" y="44" type="line"/>
-      <point x="467" y="143"/>
-      <point x="482" y="210"/>
-      <point x="482" y="262" type="curve" smooth="yes"/>
-      <point x="482" y="308"/>
-      <point x="470" y="341"/>
-      <point x="453" y="382" type="curve" smooth="yes"/>
-      <point x="436" y="421"/>
-      <point x="418" y="464"/>
-      <point x="418" y="541" type="curve" smooth="yes"/>
-      <point x="418" y="586"/>
-      <point x="420" y="687"/>
-      <point x="442" y="725" type="curve"/>
-      <point x="425" y="725" type="line"/>
-      <point x="363" y="664"/>
-      <point x="299" y="505"/>
-      <point x="299" y="415" type="curve" smooth="yes"/>
-      <point x="299" y="370"/>
-      <point x="315" y="325"/>
-      <point x="331" y="281" type="curve" smooth="yes"/>
-      <point x="347" y="238"/>
-      <point x="363" y="194"/>
-      <point x="363" y="148" type="curve" smooth="yes"/>
-      <point x="363" y="109"/>
-      <point x="361" y="81"/>
-      <point x="347" y="44" type="curve"/>
+      <point x="427" y="44" type="line"/>
+      <point x="474" y="136"/>
+      <point x="487" y="210"/>
+      <point x="487" y="259" type="curve" smooth="yes"/>
+      <point x="487" y="373"/>
+      <point x="421" y="419"/>
+      <point x="421" y="550" type="curve" smooth="yes"/>
+      <point x="421" y="597"/>
+      <point x="437" y="656"/>
+      <point x="464" y="704" type="curve"/>
+      <point x="447" y="721" type="line"/>
+      <point x="376" y="668"/>
+      <point x="302" y="586"/>
+      <point x="302" y="443" type="curve" smooth="yes"/>
+      <point x="302" y="352"/>
+      <point x="366" y="271"/>
+      <point x="366" y="178" type="curve" smooth="yes"/>
+      <point x="366" y="138"/>
+      <point x="364" y="87"/>
+      <point x="349" y="44" type="curve"/>
       <point x="208" y="44" type="line"/>
       <point x="208" y="656" type="line" name=".sk3"/>
       <point x="252" y="656" type="line"/>
@@ -63,7 +57,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>26e547522989a8aaf9ba93e4f9be3ab802a4aafde2a4daf73ade255c0926e66ebf0a319d01744082bcd5dac6d6a647695592ab767b1ac77e660ed1935a1195c1</string>
+    <string>88ce55fcf29c7176a86fe316b05764f4b1ed68974f9ce61ede256836a1334e81a19a7f7103e442c7356770c2a9d929eae8c24ba552f3252244694e2f277cde87</string>
     <key>hintSetList</key>
     <array>
       <dict>

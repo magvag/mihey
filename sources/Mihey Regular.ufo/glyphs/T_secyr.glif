@@ -21,11 +21,11 @@
       <point x="66" y="44" type="line" name=".sk1"/>
       <point x="22" y="44" type="line"/>
       <point x="22" y="0" type="line"/>
-      <point x="373" y="0" type="line" smooth="yes"/>
-      <point x="473" y="0"/>
-      <point x="507" y="-47"/>
-      <point x="510" y="-157" type="curve"/>
-      <point x="554" y="-161" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="480" y="-5"/>
+      <point x="497" y="-93"/>
+      <point x="510" y="-168" type="curve"/>
+      <point x="554" y="-171" type="line"/>
       <point x="565" y="44" type="line"/>
       <point x="482" y="44" type="line" name=".sk2"/>
     </contour>
@@ -41,7 +41,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>78c8fe01867e118b9c9649b0ec9a882bd4d8eec4a0e90539fd836c5359b3bf54adb7f1044ff2bf871359964fa34b548b7c8aa01ebcab1fad13684ba69f4bdc06</string>
+    <string>561ff9b8c1271047547d396bf1d6bf81f0596c04010d1f5e5ed7375b1b03de5d590c61c66022ae7662307756410e768909dc00c54eb8556f3abc0527b21dd6ef</string>
     <key>hintSetList</key>
     <array>
       <dict>
