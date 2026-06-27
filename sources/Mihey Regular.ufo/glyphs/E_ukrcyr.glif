@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eukrcyr" format="2">
-  <advance width="460"/>
+  <advance width="421"/>
   <unicode hex="0404"/>
   <outline>
-    <component base="Ereversedcyr" xScale="-1" xOffset="460"/>
+    <component base="C"/>
+    <contour>
+      <point x="145" y="356" type="line" name=".sk6"/>
+      <point x="309" y="356" type="line"/>
+      <point x="309" y="400" type="line"/>
+      <point x="145" y="400" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
   <key>com.fontlab.recipe</key>
   <string>O+macron%</string>
   </dict>
