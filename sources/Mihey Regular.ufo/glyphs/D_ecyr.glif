@@ -4,36 +4,36 @@
   <unicode hex="0414"/>
   <outline>
     <contour>
+      <point x="81" y="44" type="curve"/>
+      <point x="-4" y="44" type="line"/>
+      <point x="7" y="-171" type="line"/>
+      <point x="51" y="-168" type="line"/>
+      <point x="63" y="-93"/>
+      <point x="81" y="-5"/>
+      <point x="188" y="0" type="curve"/>
+      <point x="329" y="0" type="line"/>
+      <point x="436" y="-5"/>
+      <point x="453" y="-93"/>
+      <point x="466" y="-168" type="curve"/>
+      <point x="510" y="-171" type="line"/>
+      <point x="521" y="44" type="line"/>
+      <point x="438" y="44" type="line" name=".sk2"/>
       <point x="438" y="656" type="line"/>
       <point x="482" y="656" type="line"/>
       <point x="482" y="700" type="line"/>
-      <point x="172" y="700" type="line" name=".sk4"/>
-      <point x="76" y="699" type="line"/>
-      <point x="77" y="655" type="line"/>
+      <point x="171" y="700" type="line" name=".sk4"/>
+      <point x="78" y="699" type="line"/>
+      <point x="78" y="655" type="line"/>
       <point x="142" y="656" type="line"/>
-      <point x="143" y="554"/>
-      <point x="141" y="159"/>
-      <point x="79" y="44" type="curve" name=".sk3"/>
-      <point x="-4" y="44" type="line"/>
-      <point x="7" y="-161" type="line"/>
-      <point x="51" y="-157" type="line"/>
-      <point x="54" y="-52"/>
-      <point x="85" y="-5"/>
-      <point x="174" y="0" type="curve"/>
-      <point x="343" y="0" type="line"/>
-      <point x="432" y="-5"/>
-      <point x="463" y="-52"/>
-      <point x="466" y="-157" type="curve"/>
-      <point x="510" y="-161" type="line"/>
-      <point x="521" y="44" type="line"/>
-      <point x="438" y="44" type="line" name=".sk2"/>
+      <point x="143" y="562"/>
+      <point x="136" y="222"/>
     </contour>
     <contour>
       <point x="194" y="656" type="curve"/>
       <point x="296" y="656" type="line" name=".sk5"/>
       <point x="296" y="44" type="line"/>
-      <point x="139" y="44" type="line"/>
-      <point x="194" y="222"/>
+      <point x="133" y="44" type="line"/>
+      <point x="189" y="222"/>
       <point x="194" y="562"/>
     </contour>
   </outline>
@@ -43,21 +43,19 @@
   <string>=-5</string>
   <key>com.fontlab.metricsRight</key>
   <string>=0</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2598f369908ac998b1c84ae69d4cb114cd3d289e550317d846a58167abd5b633ee23d63ecd132d30304515309b22045493e9e450c8eabf90e7716ee25426f21f</string>
+    <string>356b3ae9a25f27b9f382b3059b7e3e7ba4a8022bc8c8e2873d293290d3f1f4d1b6d4dbe3848aef25c06b38707ed07b2164a08b1d5fe4d2b5823f2138bcb2ec1b</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
           <string>hstem 0 45</string>
-          <string>vstem 30 46</string>
+          <string>vstem 30 49</string>
           <string>vstem 194 51</string>
           <string>vstem 507 46</string>
         </array>
