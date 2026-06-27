@@ -12,12 +12,12 @@
       <point x="208" y="44" type="line"/>
       <point x="208" y="313" type="line"/>
       <point x="230" y="345" type="line"/>
-      <point x="315" y="124"/>
-      <point x="378" y="8"/>
-      <point x="536" y="-78" type="curve"/>
-      <point x="551" y="-70" type="line"/>
-      <point x="498" y="52"/>
-      <point x="467" y="134"/>
+      <point x="313" y="129"/>
+      <point x="377" y="8"/>
+      <point x="527" y="-78" type="curve"/>
+      <point x="547" y="-64" type="line"/>
+      <point x="494" y="58"/>
+      <point x="466" y="134"/>
       <point x="346" y="509" type="curve"/>
       <point x="449" y="656" type="line" name=".sk5"/>
       <point x="495" y="656" type="line"/>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f00a7d1f86e063447b17e5756004a647d60a30135d604eface4cd6f41ee3ec494877b6bd6310605e1576c78b2b10194a35faf9990ffda238f10fbea5cceb122c</string>
+    <string>5ddb3c338fba8d180b43c6789a4abe93dbc1316a2b4144e0402ea48a5c54e7a6908b927f88020e1623e0b39d3f0221c7403d31e883fbdb6c9d32c0a2a59aad88</string>
     <key>hintSetList</key>
     <array>
       <dict>
