@@ -1,64 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ylongcyr" format="2">
-  <advance width="732"/>
+  <advance width="720"/>
   <unicode hex="042B"/>
   <outline>
     <contour>
-      <point x="209" y="462" type="curve"/>
-      <point x="209" y="655" type="line"/>
-      <point x="254" y="655" type="line"/>
-      <point x="254" y="700" type="line"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="68" y="655" type="line"/>
-      <point x="68" y="45" type="line"/>
-      <point x="23" y="45" type="line"/>
-      <point x="23" y="0" type="line"/>
-      <point x="209" y="0" type="line" smooth="yes"/>
-      <point x="313" y="0"/>
-      <point x="353" y="25"/>
-      <point x="396" y="63" type="curve" smooth="yes"/>
-      <point x="449" y="110"/>
-      <point x="472" y="174"/>
-      <point x="472" y="238" type="curve" smooth="yes"/>
-      <point x="472" y="372"/>
-      <point x="371" y="463"/>
-      <point x="237" y="463" type="curve" smooth="yes"/>
-      <point x="228" y="463"/>
-      <point x="219" y="463"/>
+      <point x="66" y="44" type="line" name=".sk1"/>
+      <point x="22" y="44" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="209" y="-1"/>
+      <point x="221" y="-1"/>
+      <point x="233" y="0" type="curve"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="1" type="line"/>
+      <point x="381" y="14"/>
+      <point x="466" y="95"/>
+      <point x="466" y="239" type="curve" smooth="yes"/>
+      <point x="466" y="400"/>
+      <point x="361" y="455"/>
+      <point x="208" y="458" type="curve"/>
+      <point x="208" y="656" type="line" name=".sk3"/>
+      <point x="252" y="656" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
     </contour>
     <contour>
-      <point x="478" y="0" type="line"/>
-      <point x="709" y="0" type="line"/>
-      <point x="709" y="45" type="line"/>
-      <point x="664" y="45" type="line"/>
-      <point x="664" y="655" type="line"/>
-      <point x="709" y="655" type="line"/>
-      <point x="709" y="700" type="line"/>
-      <point x="478" y="700" type="line"/>
-      <point x="478" y="655" type="line"/>
-      <point x="523" y="655" type="line"/>
-      <point x="523" y="45" type="line"/>
-      <point x="478" y="45" type="line"/>
+      <point x="512" y="44" type="line" name=".sk1"/>
+      <point x="468" y="44" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="698" y="44" type="line"/>
+      <point x="654" y="44" type="line"/>
+      <point x="654" y="656" type="line" name=".sk3"/>
+      <point x="698" y="656" type="line"/>
+      <point x="698" y="700" type="line"/>
+      <point x="468" y="700" type="line"/>
+      <point x="468" y="656" type="line"/>
+      <point x="512" y="656" type="line"/>
     </contour>
     <contour>
-      <point x="328" y="237" type="curve" smooth="yes"/>
-      <point x="328" y="106"/>
-      <point x="283" y="45"/>
-      <point x="209" y="45" type="curve"/>
-      <point x="209" y="417" type="line"/>
-      <point x="307" y="417"/>
-      <point x="328" y="327"/>
+      <point x="323" y="229" type="curve" smooth="yes"/>
+      <point x="323" y="139"/>
+      <point x="303" y="47"/>
+      <point x="208" y="45" type="curve"/>
+      <point x="208" y="413" type="line"/>
+      <point x="315" y="405"/>
+      <point x="323" y="320"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f8c8d98540c21cce1c534e23286998a47863718b6741c674792d64477a497259dad194adce56b287f17c6cc1975f26f6ce0f30ee8f60500da4f087cd4a746241</string>
+    <string>4bb0c8c14e2190d36e87dd6004470a5ebaabf1553875075807464c9410dfcfe3c662c5eed61f26daf8a5ca96dfa058e2f0290143819147fc6b97527142fdbe99</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -67,8 +70,8 @@
           <string>hstem 0 45</string>
           <string>hstem 417 45</string>
           <string>hstem 655 45</string>
-          <string>vstem -74 141</string>
-          <string>vstem 536 141</string>
+          <string>vstem -75 141</string>
+          <string>vstem 535 141</string>
         </array>
       </dict>
     </array>
