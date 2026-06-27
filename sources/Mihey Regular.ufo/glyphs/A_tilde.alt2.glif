@@ -2,7 +2,7 @@
 <glyph name="Atilde.alt2" format="2">
   <advance width="465"/>
   <outline>
-    <component base="tilde" xOffset="67"/>
+    <component base="tilde" xOffset="73"/>
     <component base="Acyr.alt2"/>
   </outline>
   <lib>
