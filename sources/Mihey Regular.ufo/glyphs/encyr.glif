@@ -10,28 +10,28 @@
       <point x="493" y="0" type="line"/>
       <point x="493" y="45" type="line"/>
       <point x="448" y="45" type="line"/>
-      <point x="448" y="500" type="line"/>
-      <point x="493" y="500" type="line"/>
-      <point x="493" y="546" type="line"/>
-      <point x="270" y="546" type="line"/>
-      <point x="270" y="500" type="line"/>
-      <point x="315" y="500" type="line"/>
-      <point x="315" y="310" type="line"/>
-      <point x="198" y="310" type="line"/>
-      <point x="198" y="500" type="line"/>
-      <point x="243" y="500" type="line"/>
-      <point x="243" y="546" type="line"/>
-      <point x="20" y="546" type="line"/>
-      <point x="20" y="500" type="line"/>
-      <point x="65" y="500" type="line"/>
+      <point x="448" y="480" type="line"/>
+      <point x="493" y="480" type="line"/>
+      <point x="493" y="526" type="line"/>
+      <point x="270" y="526" type="line"/>
+      <point x="270" y="480" type="line"/>
+      <point x="315" y="480" type="line"/>
+      <point x="315" y="300" type="line"/>
+      <point x="198" y="300" type="line"/>
+      <point x="198" y="480" type="line"/>
+      <point x="243" y="480" type="line"/>
+      <point x="243" y="526" type="line"/>
+      <point x="20" y="526" type="line"/>
+      <point x="20" y="480" type="line"/>
+      <point x="65" y="480" type="line"/>
       <point x="65" y="45" type="line"/>
       <point x="20" y="45" type="line"/>
       <point x="20" y="0" type="line"/>
       <point x="243" y="0" type="line"/>
       <point x="243" y="45" type="line"/>
       <point x="198" y="45" type="line"/>
-      <point x="198" y="255" type="line"/>
-      <point x="315" y="255" type="line"/>
+      <point x="198" y="245" type="line"/>
+      <point x="315" y="245" type="line"/>
     </contour>
   </outline>
   <lib>
