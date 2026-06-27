@@ -4,42 +4,46 @@
   <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="251" y="670" type="curve" smooth="yes"/>
-      <point x="323" y="670"/>
-      <point x="325" y="554"/>
-      <point x="325" y="354" type="curve" smooth="yes"/>
-      <point x="325" y="154"/>
-      <point x="323" y="30"/>
-      <point x="251" y="30" type="curve" smooth="yes"/>
-      <point x="180" y="30"/>
-      <point x="179" y="154"/>
-      <point x="179" y="354" type="curve" smooth="yes"/>
-      <point x="179" y="554"/>
-      <point x="180" y="670"/>
+      <point x="250" y="672" type="curve" smooth="yes"/>
+      <point x="322" y="672"/>
+      <point x="324" y="556"/>
+      <point x="324" y="356" type="curve" smooth="yes"/>
+      <point x="324" y="156"/>
+      <point x="322" y="32"/>
+      <point x="250" y="32" type="curve" smooth="yes"/>
+      <point x="179" y="32"/>
+      <point x="178" y="156"/>
+      <point x="178" y="356" type="curve" smooth="yes"/>
+      <point x="178" y="556"/>
+      <point x="179" y="672"/>
     </contour>
     <contour>
-      <point x="30" y="354" type="curve" smooth="yes"/>
-      <point x="30" y="202"/>
-      <point x="55" y="-12"/>
-      <point x="251" y="-12" type="curve" smooth="yes"/>
-      <point x="447" y="-12"/>
-      <point x="474" y="203"/>
-      <point x="474" y="354" type="curve" smooth="yes"/>
-      <point x="474" y="506"/>
-      <point x="447" y="712"/>
-      <point x="251" y="712" type="curve" smooth="yes"/>
-      <point x="55" y="712"/>
-      <point x="30" y="506"/>
+      <point x="29" y="354" type="curve" smooth="yes"/>
+      <point x="29" y="202"/>
+      <point x="54" y="-12"/>
+      <point x="250" y="-12" type="curve" smooth="yes"/>
+      <point x="446" y="-12"/>
+      <point x="473" y="203"/>
+      <point x="473" y="354" type="curve" smooth="yes"/>
+      <point x="473" y="506"/>
+      <point x="446" y="712"/>
+      <point x="250" y="712" type="curve" smooth="yes"/>
+      <point x="54" y="712"/>
+      <point x="29" y="506"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=29</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=29</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>fa963f8b1786ac3ac5e4f2008f7c463837867a042a11e64e62228c6677ec441d035eda07fed0d7e959fd41bc640ec467600400e2a6967993aee1c6f4e1f1f411</string>
+    <string>15ef8cbaa0bc6baf16a551747a5d459b46114bcd9d9f3d363b7a2d016cb1acb4be5c3693aa7e24f1b7681fc76939a3b8dca90e87a661b82fb31e2f2768a954e2</string>
     <key>hintSetList</key>
     <array>
       <dict>
