@@ -1,47 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
-  <advance width="698"/>
+  <advance width="681"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="496" y="0" type="line"/>
-      <point x="683" y="655" type="line"/>
-      <point x="716" y="655" type="line"/>
-      <point x="716" y="700" type="line"/>
-      <point x="586" y="700" type="line"/>
-      <point x="586" y="655" type="line"/>
-      <point x="633" y="655" type="line"/>
-      <point x="531" y="299" type="line"/>
-      <point x="444" y="655" type="line"/>
-      <point x="491" y="655" type="line"/>
-      <point x="491" y="700" type="line"/>
-      <point x="255" y="700" type="line"/>
-      <point x="255" y="655" type="line"/>
-      <point x="302" y="655" type="line"/>
-      <point x="324" y="564" type="line"/>
-      <point x="248" y="299" type="line"/>
-      <point x="161" y="655" type="line"/>
-      <point x="208" y="655" type="line"/>
-      <point x="208" y="700" type="line"/>
-      <point x="-17" y="700" type="line"/>
-      <point x="-17" y="655" type="line"/>
-      <point x="19" y="655" type="line"/>
-      <point x="178" y="0" type="line"/>
-      <point x="213" y="0" type="line"/>
-      <point x="347" y="469" type="line"/>
-      <point x="461" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="663" y="656" type="line" name=".sk2"/>
+      <point x="698" y="656" type="line"/>
+      <point x="698" y="700" type="line"/>
+      <point x="562" y="700" type="line"/>
+      <point x="562" y="656" type="line"/>
+      <point x="608" y="656" type="line"/>
+      <point x="525" y="233" type="line"/>
+      <point x="443" y="656" type="line" name=".av03"/>
+      <point x="489" y="656" type="line"/>
+      <point x="489" y="700" type="line"/>
+      <point x="256" y="700" type="line"/>
+      <point x="256" y="656" type="line"/>
+      <point x="297" y="656" type="line"/>
+      <point x="313" y="583" type="line"/>
+      <point x="244" y="236" type="line"/>
+      <point x="163" y="656" type="line" name=".av03"/>
+      <point x="203" y="656" type="line"/>
+      <point x="203" y="700" type="line"/>
+      <point x="-18" y="700" type="line"/>
+      <point x="-18" y="656" type="line"/>
+      <point x="17" y="656" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="341" y="454" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>V</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>V</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d2b448a2bd9d44efabfe56c38a14f82190a41d5573bbc79b6e1ea2b3b60f0a28fd6f4d6099719688ef5ce2ba25439afb64e3ba7bff334f34e3320d536835d27c</string>
+    <string>5ba02aecec38b92ef0587bcfd997fc15eeb37b5e50399f03035575968589d5e312eacb16389289fc24b9d655143b269d544e11cc784e5b35d6efb817948f3c4a</string>
     <key>hintSetList</key>
     <array>
       <dict>
