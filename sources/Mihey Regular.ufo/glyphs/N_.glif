@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
-  <advance width="477"/>
+  <advance width="466"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="380" y="-1" type="line"/>
-      <point x="428" y="-1" type="line"/>
-      <point x="428" y="655" type="line"/>
-      <point x="473" y="655" type="line"/>
-      <point x="473" y="700" type="line"/>
-      <point x="332" y="700" type="line"/>
-      <point x="332" y="655" type="line"/>
-      <point x="380" y="655" type="line"/>
-      <point x="380" y="301" type="line"/>
-      <point x="162" y="700" type="line"/>
-      <point x="-6" y="700" type="line"/>
-      <point x="59" y="583" type="line"/>
-      <point x="59" y="45" type="line"/>
-      <point x="12" y="45" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
-      <point x="157" y="45" type="line"/>
-      <point x="110" y="45" type="line"/>
-      <point x="110" y="492" type="line"/>
-      <point x="380" y="7" type="line"/>
+      <point x="369" y="-1" type="line"/>
+      <point x="369" y="32" type="line"/>
+      <point x="369" y="-1" type="line"/>
+      <point x="417" y="-1" type="line"/>
+      <point x="417" y="656" type="line" name=".sk4"/>
+      <point x="461" y="656" type="line"/>
+      <point x="461" y="700" type="line"/>
+      <point x="389" y="700" type="line" name=".sk5"/>
+      <point x="325" y="700" type="line"/>
+      <point x="325" y="656" type="line"/>
+      <point x="369" y="656" type="line"/>
+      <point x="369" y="296" type="line"/>
+      <point x="151" y="700" type="line"/>
+      <point x="1" y="700" type="line"/>
+      <point x="1" y="675" type="line"/>
+      <point x="48" y="587" type="line"/>
+      <point x="48" y="44" type="line" name=".sk2"/>
+      <point x="4" y="44" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="79" y="0" type="line" name=".sk3"/>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="44" type="line"/>
+      <point x="99" y="44" type="line"/>
+      <point x="99" y="495" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=4</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=4</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>39ad45530b3dcae7b2e328655b7f1e0ced455c167936467f7f3583d92ce8ff86503fd82bc2f2aa226c29a0c9040984e9cfb06fa0f8f51c309bf80a3fdef63b16</string>
+    <string>255c4d30d5e555a622c3501b943007bcdd6767178c0acc203d58e0743418d44c8a0276966f313113751545c46083c932cde8457865d121b52c902e9edb2dc8d9</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -41,11 +49,11 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 655 45</string>
-          <string>vstem -20 80</string>
-          <string>vstem 59 49</string>
-          <string>vstem 377 49</string>
-          <string>vstem 380 3</string>
-          <string>vstem 384 42</string>
+          <string>vstem -31 80</string>
+          <string>vstem 48 49</string>
+          <string>vstem 366 49</string>
+          <string>vstem 369 3</string>
+          <string>vstem 373 42</string>
         </array>
       </dict>
     </array>
