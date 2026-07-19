@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="2">
-  <advance width="572"/>
+  <advance width="340"/>
   <unicode hex="00D7"/>
   <outline>
-    <component base="minus" xScale="0.707511" xyScale="0.706702" yxScale="-0.706702" yScale="0.707511" xOffset="330" yOffset="-97"/>
-    <component base="minusline" xScale="0.707511" xyScale="0.706702" yxScale="-0.706702" yScale="0.707511" xOffset="259" yOffset="-169"/>
-    <component base="minusline" xScale="0.706702" xyScale="-0.707511" yxScale="0.707511" yScale="0.706702" xOffset="-234" yOffset="374"/>
+    <contour>
+      <point x="44" y="446" type="line"/>
+      <point x="75" y="477" type="line"/>
+      <point x="170" y="382" type="line"/>
+      <point x="265" y="477" type="line"/>
+      <point x="296" y="446" type="line"/>
+      <point x="201" y="351" type="line"/>
+      <point x="296" y="256" type="line"/>
+      <point x="265" y="225" type="line"/>
+      <point x="170" y="320" type="line"/>
+      <point x="75" y="225" type="line"/>
+      <point x="44" y="256" type="line"/>
+      <point x="139" y="351" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>minus+14</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="2">
-  <advance width="561"/>
+  <advance width="356"/>
   <unicode hex="003C"/>
   <outline>
-    <component base="greater" xScale="-1" xOffset="561"/>
+    <component base="greater" xScale="-1" xOffset="356.379"/>
   </outline>
   <lib>
   <dict>
@@ -11,6 +11,8 @@
   <string>|greater</string>
   <key>com.fontlab.metricsRight</key>
   <string>|greater</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>
