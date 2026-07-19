@@ -6,31 +6,31 @@
     <contour>
       <point x="14" y="51" type="line"/>
       <point x="184" y="335"/>
-      <point x="231" y="427"/>
-      <point x="259" y="532" type="curve" smooth="yes"/>
-      <point x="263" y="549"/>
-      <point x="266" y="567"/>
-      <point x="266" y="584" type="curve"/>
-      <point x="266" y="626"/>
-      <point x="251" y="663"/>
-      <point x="212" y="663" type="curve" smooth="yes"/>
-      <point x="144" y="663"/>
+      <point x="231" y="426"/>
+      <point x="259" y="531" type="curve" smooth="yes"/>
+      <point x="263" y="548"/>
+      <point x="266" y="566"/>
+      <point x="266" y="583" type="curve"/>
+      <point x="266" y="625"/>
+      <point x="251" y="662"/>
+      <point x="212" y="662" type="curve" smooth="yes"/>
+      <point x="144" y="662"/>
       <point x="117" y="551"/>
       <point x="113" y="455" type="curve"/>
-      <point x="68" y="446" type="line"/>
-      <point x="52" y="683" type="line"/>
-      <point x="96" y="706"/>
-      <point x="159" y="713"/>
-      <point x="209" y="713" type="curve" smooth="yes"/>
-      <point x="306" y="713"/>
-      <point x="407" y="686"/>
-      <point x="407" y="567" type="curve" smooth="yes"/>
+      <point x="70" y="447" type="line"/>
+      <point x="39" y="663" type="line"/>
+      <point x="75" y="684"/>
+      <point x="144" y="712"/>
+      <point x="217" y="712" type="curve" smooth="yes"/>
+      <point x="305" y="712"/>
+      <point x="407" y="672"/>
+      <point x="407" y="566" type="curve" smooth="yes"/>
       <point x="407" y="469"/>
       <point x="366" y="396"/>
-      <point x="230" y="254" type="curve" smooth="yes"/>
+      <point x="230" y="253" type="curve" smooth="yes"/>
       <point x="189" y="211"/>
       <point x="148" y="168"/>
-      <point x="112" y="121" type="curve"/>
+      <point x="112" y="122" type="curve"/>
       <point x="117" y="125" type="line"/>
       <point x="353" y="125" type="line"/>
       <point x="358" y="175" type="line"/>
@@ -42,7 +42,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>
