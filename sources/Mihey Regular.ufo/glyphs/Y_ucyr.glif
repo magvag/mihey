@@ -4,6 +4,7 @@
   <unicode hex="042E"/>
   <outline>
     <component base="O" xOffset="242" yOffset="0.5"/>
+    <component base="endash" xScale="0.424573" xOffset="154.16"/>
     <contour>
       <point x="66" y="44" type="line" name=".sk1"/>
       <point x="22" y="44" type="line"/>
@@ -11,10 +12,6 @@
       <point x="252" y="0" type="line"/>
       <point x="252" y="44" type="line"/>
       <point x="208" y="44" type="line"/>
-      <point x="208" y="351" type="line"/>
-      <point x="328" y="351" type="line"/>
-      <point x="328" y="395" type="line"/>
-      <point x="208" y="395" type="line"/>
       <point x="208" y="656" type="line" name=".sk3"/>
       <point x="252" y="656" type="line"/>
       <point x="252" y="700" type="line"/>
@@ -34,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w744m66,44l22,44l22,0l252,0l252,44l208,44l208,351l328,351l328,395l208,395l208,656l252,656l252,700l22,700l22,656l66,656</string>
+    <string>w744m66,44l22,44l22,0l252,0l252,44l208,44l208,656l252,656l252,700l22,700l22,656l66,656</string>
     <key>hintSetList</key>
     <array>
       <dict>

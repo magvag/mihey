@@ -80,6 +80,8 @@
   <string>B_ecyr.glif</string>
   <key>C</key>
   <string>C_.glif</string>
+  <key>CR</key>
+  <string>C_R_.glif</string>
   <key>Cacute</key>
   <string>C_acute.glif</string>
   <key>Ccaron</key>
@@ -544,8 +546,6 @@
   <string>macron.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
-  <key>minusline</key>
-  <string>minusline.glif</string>
   <key>minute</key>
   <string>minute.glif</string>
   <key>multiply</key>
@@ -626,6 +626,8 @@
   <string>six.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
+  <key>softcyr</key>
+  <string>softcyr.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>three</key>

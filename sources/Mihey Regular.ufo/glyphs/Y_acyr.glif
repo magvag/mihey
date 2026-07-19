@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacyr" format="2">
-  <advance width="500"/>
+  <advance width="503"/>
   <unicode hex="042F"/>
   <outline>
-    <component base="R" xScale="-1" xOffset="499.377"/>
+    <component base="R" xScale="-1" xOffset="502.508"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|R</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|R</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w500</string>
+    <string>w503</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -21,7 +25,7 @@
           <string>hstem -1 45</string>
           <string>hstem 282 46</string>
           <string>hstem 654 45</string>
-          <string>vstem 202 45</string>
+          <string>vstem 210 45</string>
         </array>
       </dict>
     </array>

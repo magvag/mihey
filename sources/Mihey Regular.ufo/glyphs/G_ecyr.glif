@@ -10,9 +10,9 @@
       <point x="252" y="0" type="line"/>
       <point x="252" y="44" type="line"/>
       <point x="208" y="44" type="line"/>
-      <point x="208" y="656" type="line"/>
-      <point x="311" y="655"/>
-      <point x="360" y="525"/>
+      <point x="208" y="654" type="line"/>
+      <point x="310" y="654"/>
+      <point x="360" y="523"/>
       <point x="387" y="425" type="curve"/>
       <point x="431" y="430" type="line"/>
       <point x="396" y="700" type="line"/>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w427m66,44l22,44l22,0l252,0l252,44l208,44l208,656c311,655 360,525 387,425l431,430l396,700l22,700l22,656l66,656</string>
+    <string>w427m66,44l22,44l22,0l252,0l252,44l208,44l208,654c310,654 360,523 387,425l431,430l396,700l22,700l22,656l66,656</string>
     <key>hintSetList</key>
     <array>
       <dict>

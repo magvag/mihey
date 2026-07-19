@@ -3,24 +3,24 @@
   <advance width="492"/>
   <unicode hex="20BD"/>
   <outline>
-    <component base="Ercyr" xOffset="0.377029"/>
+    <component base="Ercyr" xOffset="0.224388"/>
     <contour>
-      <point x="24" y="239" type="line"/>
-      <point x="211" y="239" type="line"/>
-      <point x="211" y="283" type="line"/>
-      <point x="24" y="283" type="line"/>
+      <point x="20" y="241" type="line"/>
+      <point x="207" y="241" type="line"/>
+      <point x="207" y="285" type="line"/>
+      <point x="20" y="285" type="line"/>
     </contour>
     <contour>
-      <point x="24" y="153" type="line"/>
-      <point x="356" y="153" type="line"/>
-      <point x="356" y="197" type="line"/>
-      <point x="24" y="197" type="line"/>
+      <point x="20" y="155" type="line"/>
+      <point x="352" y="155" type="line"/>
+      <point x="352" y="199" type="line"/>
+      <point x="20" y="199" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>P</string>
+  <string>H</string>
   <key>com.fontlab.metricsRight</key>
   <string>P+5</string>
   </dict>

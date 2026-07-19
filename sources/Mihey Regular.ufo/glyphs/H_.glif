@@ -3,6 +3,21 @@
   <advance width="553"/>
   <unicode hex="0048"/>
   <outline>
+    <component base="endash" xScale="0.424573" xOffset="182.16"/>
+    <contour>
+      <point x="67" y="44" type="line" name=".sk1"/>
+      <point x="23" y="44" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="253" y="44" type="line"/>
+      <point x="209" y="44" type="line"/>
+      <point x="209" y="656" type="line" name=".sk3"/>
+      <point x="253" y="656" type="line"/>
+      <point x="253" y="700" type="line"/>
+      <point x="23" y="700" type="line"/>
+      <point x="23" y="656" type="line"/>
+      <point x="67" y="656" type="line"/>
+    </contour>
     <contour>
       <point x="345" y="44" type="line" name=".sk1"/>
       <point x="301" y="44" type="line"/>
@@ -16,22 +31,6 @@
       <point x="301" y="700" type="line"/>
       <point x="301" y="656" type="line"/>
       <point x="345" y="656" type="line"/>
-      <point x="345" y="395" type="line"/>
-      <point x="209" y="395" type="line"/>
-      <point x="209" y="656" type="line" name=".sk3"/>
-      <point x="253" y="656" type="line"/>
-      <point x="253" y="700" type="line"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="656" type="line"/>
-      <point x="67" y="656" type="line"/>
-      <point x="67" y="44" type="line" name=".sk1"/>
-      <point x="23" y="44" type="line"/>
-      <point x="23" y="0" type="line"/>
-      <point x="253" y="0" type="line"/>
-      <point x="253" y="44" type="line"/>
-      <point x="209" y="44" type="line"/>
-      <point x="209" y="351" type="line"/>
-      <point x="345" y="351" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +44,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>da380d0a547cefde018380b86ea02ce1e5552ef140d65098adf27885ccd6c7153a66029e659a05d5ab55534176179427094d2ea4a8ac8fb8b12a188ec8c85c6e</string>
+    <string>a5a234994d1de6fd5482b50c4592964d9d3c98d05f445657d3c6f4aa01754655aacab199e6e749c1650fe5523519b41646d1a538be204704a7f490304d49845e</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="2">
-  <advance width="439"/>
+  <advance width="451"/>
   <unicode hex="0024"/>
   <outline>
-    <component base="S" xOffset="20"/>
-    <component base="bar" xScale="0.9" xyScale="0.00022609" yxScale="-0.00022609" yScale="0.9" xOffset="92" yOffset="47"/>
+    <component base="S" xOffset="24"/>
+    <component base="bar" xScale="0.9" xyScale="0.00022609" yxScale="-0.00022609" yScale="0.9" xOffset="111" yOffset="47"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S+5</string>
   <key>com.fontlab.recipe</key>
   <string>S+bar%</string>
   <key>public.markColor</key>

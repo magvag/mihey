@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ereversedcyr" format="2">
-  <advance width="421"/>
+  <advance width="417"/>
   <unicode hex="042D"/>
   <outline>
-    <component base="Eukrcyr" xScale="-1" xOffset="431"/>
+    <component base="Eukrcyr" xScale="-1" xOffset="427"/>
   </outline>
   <lib>
   <dict>
@@ -16,7 +16,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w421</string>
+    <string>w417</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -25,9 +25,9 @@
           <string>hstem -12 91</string>
           <string>hstem 367 39</string>
           <string>hstem 660 52</string>
-          <string>vstem -50 48</string>
-          <string>vstem -30 46</string>
-          <string>vstem 278 7</string>
+          <string>vstem -54 48</string>
+          <string>vstem -34 46</string>
+          <string>vstem 274 7</string>
         </array>
       </dict>
     </array>

@@ -15,27 +15,32 @@
       <point x="105" y="161" type="line"/>
       <point x="281" y="161" type="line"/>
       <point x="309" y="44" type="line" name=".av03"/>
-      <point x="259" y="44" type="line"/>
-      <point x="259" y="0" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="491" y="44" type="line"/>
+      <point x="260" y="44" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="44" type="line"/>
       <point x="455" y="44" type="line"/>
       <point x="300" y="700" type="line"/>
     </contour>
     <contour>
       <point x="116" y="205" type="line"/>
-      <point x="194" y="532" type="line"/>
+      <point x="194" y="531" type="line"/>
       <point x="271" y="205" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="680"/>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=-8</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4ed60ac29eefd955a0122d158e9264a941fd4ef1a3496c4fc1c58b8282a3a42bf6bda67b0152d29f0232d3b2063bc18d1b405cbdf40b58917812f496395255b7</string>
+    <string>5e497d23538c732c89d324e2f6f75072ac7f9dabfe3c6ae65fc9c11ee2189ff129dfef8e923773cab1aa68f0bbc405dcbf1084058999480d1b5b31dc2ada4087</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -43,7 +48,6 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 160 45</string>
-          <string>hstem 701 -21</string>
         </array>
       </dict>
     </array>

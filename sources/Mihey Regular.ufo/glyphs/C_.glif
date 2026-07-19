@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
-  <advance width="421"/>
+  <advance width="417"/>
   <unicode hex="0043"/>
   <outline>
     <contour>
@@ -8,9 +8,9 @@
       <point x="24" y="515"/>
       <point x="55" y="712"/>
       <point x="260" y="712" type="curve" smooth="yes"/>
-      <point x="316" y="712"/>
-      <point x="378" y="686"/>
-      <point x="402" y="665" type="curve"/>
+      <point x="309" y="712"/>
+      <point x="364" y="692"/>
+      <point x="392" y="673" type="curve"/>
       <point x="392" y="468" type="line"/>
       <point x="349" y="468" type="line"/>
       <point x="334" y="530"/>
@@ -45,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>55f846bd6ddbd5931183b769419c225e63538584dae011eedb1ab40c53e496fd04a982b54b961feee847d2aff64b393561b7aac31df9a7a5be70a4e1065f6aa6</string>
+    <string>43757c347bc38338125a1304e0f902aa6063fda0a3a765ec51478141f8a454c070e97be23f8f10f232446f48dbf647107f2c3670ddd8da509a4983df4c2adddf</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -54,7 +54,6 @@
           <string>hstem -12 101</string>
           <string>hstem 660 52</string>
           <string>vstem 40 150</string>
-          <string>vstem 390 44</string>
           <string>vstem 403 46</string>
         </array>
       </dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="2">
-  <advance width="432"/>
+  <advance width="437"/>
   <unicode hex="20AC"/>
   <outline>
-    <component base="Escyr" xOffset="19"/>
+    <component base="Escyr" xOffset="20"/>
     <contour>
-      <point x="-4" y="378" type="line"/>
-      <point x="6" y="422" type="line"/>
-      <point x="317" y="422" type="line"/>
-      <point x="307" y="378" type="line"/>
+      <point x="-3" y="378" type="line"/>
+      <point x="7" y="422" type="line"/>
+      <point x="318" y="422" type="line"/>
+      <point x="308" y="378" type="line"/>
     </contour>
     <contour>
-      <point x="-4" y="292" type="line"/>
-      <point x="6" y="336" type="line"/>
-      <point x="297" y="336" type="line"/>
-      <point x="287" y="292" type="line"/>
+      <point x="-3" y="292" type="line"/>
+      <point x="7" y="336" type="line"/>
+      <point x="298" y="336" type="line"/>
+      <point x="288" y="292" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w432m-4,378l6,422l317,422l307,378m-4,292l6,336l297,336l287,292</string>
+    <string>w437m-3,378l7,422l318,422l308,378m-3,292l7,336l298,336l288,292</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -39,9 +39,9 @@
           <string>hstem -12 91</string>
           <string>hstem 367 39</string>
           <string>hstem 660 52</string>
-          <string>vstem 13 44</string>
-          <string>vstem 32 46</string>
-          <string>vstem 40 244</string>
+          <string>vstem 14 44</string>
+          <string>vstem 33 46</string>
+          <string>vstem 41 244</string>
         </array>
       </dict>
     </array>

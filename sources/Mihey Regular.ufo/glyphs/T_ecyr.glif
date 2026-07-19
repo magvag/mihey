@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tecyr" format="2">
-  <advance width="480"/>
+  <advance width="456"/>
   <unicode hex="0422"/>
   <outline>
     <component base="T"/>
@@ -16,7 +16,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w480</string>
+    <string>w456</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -24,9 +24,9 @@
         <array>
           <string>hstem -2 45</string>
           <string>hstem 700 -20</string>
-          <string>vstem 0 43</string>
-          <string>vstem 60 141</string>
-          <string>vstem 459 42</string>
+          <string>vstem -12 43</string>
+          <string>vstem 48 141</string>
+          <string>vstem 447 42</string>
         </array>
       </dict>
     </array>

@@ -37,7 +37,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=29</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=29</string>
+  <string>=|</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

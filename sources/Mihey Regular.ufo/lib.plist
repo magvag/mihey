@@ -159,7 +159,6 @@
     <string>guilsinglleft</string>
     <string>plus</string>
     <string>minus</string>
-    <string>minusline</string>
     <string>equal</string>
     <string>less</string>
     <string>greater</string>
@@ -373,6 +372,8 @@
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
     <string>_corner.s_De</string>
+    <string>softcyr</string>
+    <string>CR</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>

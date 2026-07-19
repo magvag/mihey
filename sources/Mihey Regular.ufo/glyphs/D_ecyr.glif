@@ -3,7 +3,16 @@
   <advance width="521"/>
   <unicode hex="0414"/>
   <outline>
+    <component base="endash" xScale="0.424573" xOffset="170.16" yOffset="305"/>
     <contour>
+      <point x="194" y="656" type="curve" smooth="yes"/>
+      <point x="194" y="700" type="line"/>
+      <point x="171" y="700" type="line" name=".sk4"/>
+      <point x="78" y="699" type="line"/>
+      <point x="78" y="655" type="line"/>
+      <point x="142" y="656" type="line"/>
+      <point x="143" y="562"/>
+      <point x="136" y="222"/>
       <point x="81" y="44" type="curve"/>
       <point x="-4" y="44" type="line"/>
       <point x="7" y="-171" type="line"/>
@@ -21,15 +30,8 @@
       <point x="438" y="656" type="line"/>
       <point x="482" y="656" type="line"/>
       <point x="482" y="700" type="line"/>
-      <point x="171" y="700" type="line" name=".sk4"/>
-      <point x="78" y="699" type="line"/>
-      <point x="78" y="655" type="line"/>
-      <point x="142" y="656" type="line"/>
-      <point x="143" y="562"/>
-      <point x="136" y="222"/>
-    </contour>
-    <contour>
-      <point x="194" y="656" type="curve"/>
+      <point x="252" y="700" type="line"/>
+      <point x="252" y="656" type="line"/>
       <point x="296" y="656" type="line" name=".sk5"/>
       <point x="296" y="44" type="line"/>
       <point x="133" y="44" type="line"/>
@@ -48,7 +50,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>356b3ae9a25f27b9f382b3059b7e3e7ba4a8022bc8c8e2873d293290d3f1f4d1b6d4dbe3848aef25c06b38707ed07b2164a08b1d5fe4d2b5823f2138bcb2ec1b</string>
+    <string>7822e4e3da09840fb0f941f908ea510e8ac28ce21856af1497f58ba5c7f6b4fcc644ee45fdfa7b85ebe87225473f17cd809462c5b00296b96624d7a8da1da353</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -56,8 +58,6 @@
         <array>
           <string>hstem 0 45</string>
           <string>vstem 30 49</string>
-          <string>vstem 194 51</string>
-          <string>vstem 507 46</string>
         </array>
       </dict>
     </array>

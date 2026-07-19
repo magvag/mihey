@@ -3,12 +3,10 @@
   <advance width="489"/>
   <unicode hex="0415"/>
   <outline>
-    <component base="E"/>
+    <component base="E" xOffset="-4.85696"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

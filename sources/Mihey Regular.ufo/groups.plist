@@ -344,10 +344,23 @@
     <string>Kacyr.ss02</string>
     <string>Zhecyr.ss02</string>
   </array>
+  <key>public.kern1.equal</key>
+  <array>
+    <string>equal</string>
+    <string>notequal</string>
+    <string>plusminus</string>
+  </array>
   <key>public.kern1.guillemotleft</key>
   <array>
     <string>guillemotleft</string>
     <string>guilsinglleft</string>
+  </array>
+  <key>public.kern1.math</key>
+  <array>
+    <string>divide</string>
+    <string>minus</string>
+    <string>multiply</string>
+    <string>plus</string>
   </array>
   <key>public.kern1.quotedblbase</key>
   <array>
@@ -463,7 +476,6 @@
   </array>
   <key>public.kern2.M1</key>
   <array>
-    <string>Emcyr</string>
     <string>Emcyr.alt2</string>
     <string>M</string>
   </array>
@@ -519,7 +531,6 @@
   </array>
   <key>public.kern2.X</key>
   <array>
-    <string>Hacyr</string>
     <string>X</string>
   </array>
   <key>public.kern2.Y</key>
@@ -555,10 +566,31 @@
   <array>
     <string>Zhecyr.ss02</string>
   </array>
+  <key>public.kern2.equal</key>
+  <array>
+    <string>equal</string>
+    <string>notequal</string>
+    <string>plusminus</string>
+  </array>
   <key>public.kern2.guillemotright</key>
   <array>
     <string>guillemotright</string>
     <string>guilsinglright</string>
+  </array>
+  <key>public.kern2.kern2.M1</key>
+  <array>
+    <string>Emcyr</string>
+  </array>
+  <key>public.kern2.kern2.X</key>
+  <array>
+    <string>Hacyr</string>
+  </array>
+  <key>public.kern2.math</key>
+  <array>
+    <string>divide</string>
+    <string>minus</string>
+    <string>multiply</string>
+    <string>plus</string>
   </array>
   <key>public.kern2.period</key>
   <array>
