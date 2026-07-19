@@ -3,31 +3,36 @@
   <advance width="565"/>
   <unicode hex="0426"/>
   <outline>
+    <component base="endash" xScale="0.424573" xOffset="184.632" yOffset="-351"/>
     <contour>
-      <point x="482" y="656" type="line"/>
-      <point x="526" y="656" type="line"/>
-      <point x="526" y="700" type="line"/>
-      <point x="296" y="700" type="line"/>
-      <point x="296" y="656" type="line"/>
-      <point x="340" y="656" type="line" name=".sk5"/>
-      <point x="340" y="44" type="line"/>
-      <point x="208" y="44" type="line"/>
-      <point x="208" y="656" type="line" name=".sk3"/>
-      <point x="252" y="656" type="line"/>
-      <point x="252" y="700" type="line"/>
-      <point x="22" y="700" type="line"/>
-      <point x="22" y="656" type="line"/>
       <point x="66" y="656" type="line"/>
-      <point x="66" y="44" type="line" name=".sk1"/>
-      <point x="22" y="44" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="252" y="656" type="line"/>
+      <point x="208" y="656" type="line" name=".sk3"/>
+      <point x="208" y="44" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="252" y="0" type="line"/>
       <point x="22" y="0" type="line"/>
-      <point x="373" y="0" type="line"/>
-      <point x="480" y="-5"/>
-      <point x="497" y="-93"/>
-      <point x="510" y="-168" type="curve"/>
-      <point x="554" y="-171" type="line"/>
-      <point x="565" y="44" type="line"/>
+      <point x="22" y="44" type="line"/>
+      <point x="66" y="44" type="line" name=".sk1"/>
+    </contour>
+    <contour>
       <point x="482" y="44" type="line" name=".sk2"/>
+      <point x="565" y="44" type="line"/>
+      <point x="554" y="-171" type="line"/>
+      <point x="510" y="-168" type="line"/>
+      <point x="497" y="-93"/>
+      <point x="480" y="-5"/>
+      <point x="373" y="0" type="curve"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="656" type="line" name=".sk5"/>
+      <point x="296" y="656" type="line"/>
+      <point x="296" y="700" type="line"/>
+      <point x="526" y="700" type="line"/>
+      <point x="526" y="656" type="line"/>
+      <point x="482" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +46,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>561ff9b8c1271047547d396bf1d6bf81f0596c04010d1f5e5ed7375b1b03de5d590c61c66022ae7662307756410e768909dc00c54eb8556f3abc0527b21dd6ef</string>
+    <string>5501f1bb13571df2d122c9a408d01991402587b32d59847275f1d871261434a026b6d105382ba67775ed50f7bee65dfcf1568cd817251b363b182036222e3480</string>
     <key>hintSetList</key>
     <array>
       <dict>
