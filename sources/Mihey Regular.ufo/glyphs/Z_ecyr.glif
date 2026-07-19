@@ -1,63 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zecyr" format="2">
-  <advance width="459"/>
+  <advance width="433"/>
   <unicode hex="0417"/>
   <outline>
     <contour>
-      <point x="133" y="419" type="curve"/>
-      <point x="140" y="380" type="line"/>
-      <point x="249" y="385"/>
-      <point x="303" y="266"/>
-      <point x="303" y="169" type="curve"/>
-      <point x="303" y="103"/>
-      <point x="278" y="47"/>
-      <point x="229" y="47" type="curve" smooth="yes"/>
-      <point x="154" y="47"/>
-      <point x="89" y="176"/>
-      <point x="70" y="264" type="curve"/>
+      <point x="128" y="423" type="curve"/>
+      <point x="128" y="382" type="line"/>
+      <point x="220" y="378"/>
+      <point x="284" y="302"/>
+      <point x="284" y="199" type="curve"/>
+      <point x="284" y="128"/>
+      <point x="254" y="42"/>
+      <point x="202" y="42" type="curve" smooth="yes"/>
+      <point x="133" y="42"/>
+      <point x="85" y="196"/>
+      <point x="69" y="262" type="curve"/>
       <point x="22" y="252" type="line"/>
-      <point x="37" y="27" type="line"/>
-      <point x="57" y="18"/>
-      <point x="136" y="-12"/>
-      <point x="203" y="-12" type="curve" smooth="yes"/>
-      <point x="380" y="-12"/>
-      <point x="458" y="112"/>
-      <point x="458" y="225" type="curve" smooth="yes"/>
-      <point x="458" y="326"/>
-      <point x="395" y="417"/>
-      <point x="287" y="421" type="curve"/>
-      <point x="287" y="428" type="line"/>
-      <point x="332" y="445"/>
-      <point x="428" y="489"/>
-      <point x="428" y="587" type="curve" smooth="yes"/>
-      <point x="428" y="696"/>
-      <point x="310" y="712"/>
-      <point x="225" y="712" type="curve" smooth="yes"/>
-      <point x="171" y="712"/>
-      <point x="129" y="700"/>
-      <point x="65" y="681" type="curve"/>
-      <point x="49" y="496" type="line"/>
-      <point x="94" y="491" type="line"/>
-      <point x="109" y="568"/>
-      <point x="157" y="660"/>
-      <point x="224" y="660" type="curve" smooth="yes"/>
-      <point x="263" y="660"/>
-      <point x="290" y="627"/>
-      <point x="290" y="584" type="curve" smooth="yes"/>
-      <point x="290" y="530"/>
-      <point x="247" y="459"/>
+      <point x="40" y="27" type="line"/>
+      <point x="60" y="16"/>
+      <point x="111" y="-12"/>
+      <point x="196" y="-12" type="curve" smooth="yes"/>
+      <point x="359" y="-12"/>
+      <point x="433" y="91"/>
+      <point x="433" y="208" type="curve" smooth="yes"/>
+      <point x="433" y="339"/>
+      <point x="339" y="403"/>
+      <point x="262" y="406" type="curve"/>
+      <point x="262" y="413" type="line"/>
+      <point x="307" y="430"/>
+      <point x="403" y="469"/>
+      <point x="403" y="568" type="curve" smooth="yes"/>
+      <point x="403" y="676"/>
+      <point x="288" y="712"/>
+      <point x="205" y="712" type="curve" smooth="yes"/>
+      <point x="149" y="712"/>
+      <point x="85" y="696"/>
+      <point x="45" y="681" type="curve"/>
+      <point x="45" y="511" type="line"/>
+      <point x="83" y="511" type="line"/>
+      <point x="93" y="567"/>
+      <point x="136" y="660"/>
+      <point x="198" y="660" type="curve" smooth="yes"/>
+      <point x="241" y="660"/>
+      <point x="265" y="614"/>
+      <point x="265" y="567" type="curve" smooth="yes"/>
+      <point x="265" y="520"/>
+      <point x="242" y="429"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=22</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0777ea7be21a448a76682b1d613c8c7e38be55d7f2a08f510f5f801c651a6992a218b8150917245bb30dbef316d890ae21063bf532136dede339bdb28541c113</string>
+    <string>b809098685012f08c3f45214154e7116036e33e0fe275753c54a32a333b5bd499e9922f9e3dd76e07f3f615d2d6d553f539f1b2e688a54aba6e3e27b849bb215</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -66,8 +68,8 @@
           <string>hstem -8 54</string>
           <string>hstem 380 39</string>
           <string>hstem 660 51</string>
-          <string>vstem 10 48</string>
-          <string>vstem 50 42</string>
+          <string>vstem -15 48</string>
+          <string>vstem 25 42</string>
         </array>
       </dict>
     </array>
