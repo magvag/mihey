@@ -2,7 +2,7 @@
 <glyph name="Amacron.alt2" format="2">
   <advance width="465"/>
   <outline>
-    <component base="macron" xOffset="95"/>
+    <component base="macron" xOffset="75"/>
     <component base="Acyr.alt2"/>
   </outline>
   <lib>
