@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="286"/>
+  <advance width="285"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="218" y="708" type="line"/>
-      <point x="193" y="713" type="line"/>
-      <point x="161" y="640"/>
-      <point x="109" y="593"/>
-      <point x="25" y="580" type="curve"/>
-      <point x="31" y="546" type="line"/>
-      <point x="76" y="538" type="line"/>
+      <point x="218" y="710" type="line"/>
+      <point x="193" y="710" type="line"/>
+      <point x="152" y="648"/>
+      <point x="99" y="608"/>
+      <point x="21" y="583" type="curve"/>
+      <point x="21" y="545" type="line"/>
+      <point x="76" y="545" type="line"/>
       <point x="76" y="45" type="line"/>
       <point x="31" y="45" type="line"/>
       <point x="31" y="0" type="line"/>
@@ -21,8 +21,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>
