@@ -1,52 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Becyr" format="2">
-  <advance width="495"/>
+  <advance width="494"/>
   <unicode hex="0411"/>
   <outline>
+    <component base="softcyr" xOffset="140"/>
     <contour>
-      <point x="209" y="462" type="curve"/>
-      <point x="209" y="641" type="line"/>
-      <point x="258" y="643"/>
-      <point x="378" y="595"/>
-      <point x="411" y="498" type="curve"/>
-      <point x="446" y="511" type="line"/>
-      <point x="393" y="700" type="line"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="68" y="655" type="line"/>
-      <point x="68" y="45" type="line"/>
-      <point x="23" y="45" type="line"/>
-      <point x="23" y="0" type="line"/>
-      <point x="209" y="0" type="line" smooth="yes"/>
-      <point x="358" y="0"/>
-      <point x="485" y="75"/>
-      <point x="485" y="232" type="curve" smooth="yes"/>
-      <point x="485" y="380"/>
-      <point x="373" y="463"/>
-      <point x="237" y="463" type="curve"/>
-      <point x="228" y="463"/>
-      <point x="219" y="463"/>
-    </contour>
-    <contour>
-      <point x="341" y="241" type="curve" smooth="yes"/>
-      <point x="341" y="106"/>
-      <point x="283" y="45"/>
-      <point x="209" y="45" type="curve"/>
-      <point x="209" y="417" type="line"/>
-      <point x="330" y="417"/>
-      <point x="341" y="277"/>
+      <point x="22" y="655" type="line"/>
+      <point x="66" y="655" type="line"/>
+      <point x="66" y="45" type="line"/>
+      <point x="22" y="45" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="208" y="0" type="line" name=".sk2"/>
+      <point x="208" y="654" type="line"/>
+      <point x="301" y="655"/>
+      <point x="370" y="581"/>
+      <point x="409" y="501" type="curve"/>
+      <point x="445" y="511" type="line"/>
+      <point x="402" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>106ec6d9b8968a04232e44bb21229e24076ae40e25eddd5171d5d8f4e06fb4d9676c95550398e1e03ab0f9cc84c509a7796800302dbf95e436ef9945f688bede</string>
+    <string>w494m22,655l66,655l66,45l22,45l22,0l208,0l208,654c301,655 370,581 409,501l445,511l402,700l22,700</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -56,7 +39,7 @@
           <string>hstem 417 45</string>
           <string>hstem 655 45</string>
           <string>hstem 655 18</string>
-          <string>vstem -79 141</string>
+          <string>vstem -80 141</string>
         </array>
       </dict>
     </array>

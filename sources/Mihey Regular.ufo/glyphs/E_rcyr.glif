@@ -3,56 +3,20 @@
   <advance width="487"/>
   <unicode hex="0420"/>
   <outline>
-    <contour>
-      <point x="66" y="44" type="line" name=".sk1"/>
-      <point x="22" y="44" type="line"/>
-      <point x="22" y="0" type="line"/>
-      <point x="252" y="0" type="line"/>
-      <point x="252" y="44" type="line"/>
-      <point x="208" y="44" type="line"/>
-      <point x="208" y="239" type="line"/>
-      <point x="221" y="238"/>
-      <point x="234" y="237"/>
-      <point x="246" y="237" type="curve" smooth="yes"/>
-      <point x="395" y="237"/>
-      <point x="486" y="346"/>
-      <point x="486" y="472" type="curve" smooth="yes"/>
-      <point x="486" y="622"/>
-      <point x="356" y="701"/>
-      <point x="208" y="700" type="curve" name=".sk3"/>
-      <point x="208" y="700" type="line"/>
-      <point x="22" y="700" type="line"/>
-      <point x="22" y="656" type="line"/>
-      <point x="66" y="656" type="line"/>
-    </contour>
-    <contour>
-      <point x="215" y="655" type="curve" smooth="yes"/>
-      <point x="305" y="655"/>
-      <point x="331" y="538"/>
-      <point x="335" y="500" type="curve" smooth="yes"/>
-      <point x="337" y="490"/>
-      <point x="337" y="475"/>
-      <point x="337" y="459" type="curve" smooth="yes"/>
-      <point x="337" y="379"/>
-      <point x="313" y="283"/>
-      <point x="208" y="284" type="curve"/>
-      <point x="208" y="655" type="line"/>
-      <point x="210" y="655"/>
-      <point x="213" y="655"/>
-    </contour>
+    <component base="P" xOffset="0.131088"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>H</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>P</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0081717a4b9b1906854d7cb6dee3f8bfb5c5e9193cd68333948884388ec3a5fb41715573801aeec87d8ffca334754382772db5809e0525acd22bf39dfc8c16d4</string>
+    <string>w487</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -61,7 +25,7 @@
           <string>hstem 0 45</string>
           <string>hstem 239 44</string>
           <string>hstem 655 45</string>
-          <string>vstem -74 141</string>
+          <string>vstem -235 141</string>
         </array>
       </dict>
     </array>

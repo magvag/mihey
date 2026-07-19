@@ -5,13 +5,14 @@
   <outline>
     <component base="Softcyr" xOffset="104.031"/>
     <contour>
-      <point x="187" y="700" type="line"/>
+      <point x="183" y="700" type="line"/>
       <point x="12" y="700" type="line"/>
       <point x="-12" y="459" type="line"/>
       <point x="25" y="453" type="line"/>
-      <point x="45" y="523"/>
+      <point x="43" y="504"/>
       <point x="102" y="660"/>
-      <point x="183" y="655" type="curve"/>
+      <point x="170" y="655" type="curve"/>
+      <point x="183" y="655" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,7 +26,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w591m187,700l12,700l-12,459l25,453c45,523 102,660 183,655</string>
+    <string>w591m183,700l12,700l-12,459l25,453c43,504 102,660 170,655l183,655</string>
     <key>hintSetList</key>
     <array>
       <dict>
