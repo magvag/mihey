@@ -18,23 +18,23 @@
       <point x="82" y="655" type="line"/>
       <point x="149" y="655" type="line"/>
       <point x="149" y="526"/>
-      <point x="146" y="396"/>
-      <point x="142" y="322" type="curve" smooth="yes"/>
-      <point x="135" y="196"/>
-      <point x="116" y="140"/>
-      <point x="90" y="140" type="curve" smooth="yes"/>
-      <point x="69" y="140"/>
-      <point x="43" y="175"/>
-      <point x="25" y="228" type="curve"/>
-      <point x="-15" y="219" type="line"/>
-      <point x="25" y="3" type="line"/>
-      <point x="28" y="2"/>
-      <point x="47" y="-17"/>
-      <point x="84" y="-17" type="curve" smooth="yes"/>
-      <point x="183" y="-17"/>
-      <point x="177" y="117"/>
-      <point x="183" y="205" type="curve" smooth="yes"/>
-      <point x="188" y="278"/>
+      <point x="146" y="403"/>
+      <point x="142" y="329" type="curve" smooth="yes"/>
+      <point x="135" y="203"/>
+      <point x="116" y="147"/>
+      <point x="90" y="147" type="curve" smooth="yes"/>
+      <point x="69" y="147"/>
+      <point x="43" y="182"/>
+      <point x="25" y="235" type="curve"/>
+      <point x="-15" y="226" type="line"/>
+      <point x="25" y="10" type="line"/>
+      <point x="28" y="9"/>
+      <point x="47" y="-10"/>
+      <point x="84" y="-10" type="curve" smooth="yes"/>
+      <point x="183" y="-10"/>
+      <point x="177" y="124"/>
+      <point x="183" y="212" type="curve" smooth="yes"/>
+      <point x="188" y="285"/>
       <point x="197" y="449"/>
       <point x="197" y="655" type="curve"/>
     </contour>
@@ -45,12 +45,14 @@
   <string>=-15</string>
   <key>com.fontlab.metricsRight</key>
   <string>=H</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>883fff485e22db1623d1ca0a28bcf72f56c5864cbae2cdf7bffe8a6d7f611297f5404e4e8b4b091007951cb3c3d1f8f0feccef47c29a38bc20304e1c04ee15a2</string>
+    <string>bef7041dee263adeb505670d4c5536e82cd9fb9c45570b878d604c77ac75a57f4d6dc774f5247e84fde339dd852fc754b25c10d0eca0bda83d371ca54826fdb4</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -58,7 +60,6 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 655 45</string>
-          <string>vstem 138 47</string>
           <string>vstem 149 48</string>
           <string>vstem 293 141</string>
         </array>
