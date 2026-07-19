@@ -1,56 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="2">
-  <advance width="505"/>
+  <advance width="492"/>
   <unicode hex="0047"/>
   <outline>
     <contour>
-      <point x="411" y="669" type="line"/>
-      <point x="386" y="689"/>
-      <point x="329" y="712"/>
-      <point x="260" y="712" type="curve" smooth="yes"/>
+      <point x="179" y="345" type="curve" smooth="yes"/>
+      <point x="179" y="546"/>
+      <point x="195" y="662"/>
+      <point x="251" y="662" type="curve" smooth="yes"/>
+      <point x="312" y="662"/>
+      <point x="372" y="521"/>
+      <point x="386" y="474" type="curve"/>
+      <point x="424" y="474" type="line"/>
+      <point x="424" y="670" type="line"/>
+      <point x="394" y="689"/>
+      <point x="340" y="712"/>
+      <point x="268" y="712" type="curve" smooth="yes"/>
       <point x="55" y="712"/>
-      <point x="30" y="507"/>
-      <point x="30" y="355" type="curve" smooth="yes"/>
-      <point x="30" y="203"/>
-      <point x="55" y="-12"/>
-      <point x="249" y="-12" type="curve" smooth="yes"/>
-      <point x="310" y="-12"/>
-      <point x="350" y="10"/>
-      <point x="393" y="55" type="curve"/>
-      <point x="416" y="18"/>
-      <point x="450" y="-3"/>
-      <point x="454" y="-5" type="curve"/>
-      <point x="465" y="0" type="line"/>
-      <point x="465" y="391" type="line"/>
-      <point x="279" y="391" type="line"/>
-      <point x="279" y="346" type="line"/>
-      <point x="324" y="346" type="line"/>
-      <point x="324" y="70" type="line"/>
-      <point x="314" y="56"/>
-      <point x="286" y="40"/>
-      <point x="259" y="40" type="curve" smooth="yes"/>
-      <point x="190" y="40"/>
-      <point x="180" y="145"/>
-      <point x="180" y="344" type="curve" smooth="yes"/>
-      <point x="180" y="544"/>
-      <point x="180" y="660"/>
-      <point x="243" y="660" type="curve" smooth="yes"/>
-      <point x="304" y="660"/>
-      <point x="348" y="552"/>
-      <point x="367" y="505" type="curve"/>
-      <point x="411" y="505" type="line"/>
+      <point x="29" y="507"/>
+      <point x="29" y="354" type="curve" smooth="yes"/>
+      <point x="29" y="203"/>
+      <point x="54" y="-12"/>
+      <point x="253" y="-12" type="curve" smooth="yes"/>
+      <point x="300" y="-12"/>
+      <point x="336" y="0"/>
+      <point x="363" y="21" type="curve"/>
+      <point x="384" y="-3"/>
+      <point x="415" y="-22"/>
+      <point x="451" y="-35" type="curve"/>
+      <point x="472" y="-23" type="line"/>
+      <point x="443" y="46"/>
+      <point x="443" y="102"/>
+      <point x="443" y="312" type="curve" name=".sk1"/>
+      <point x="480" y="312" type="line"/>
+      <point x="480" y="356" type="line"/>
+      <point x="327" y="356" type="line" name=".sk2"/>
+      <point x="252" y="356" type="line"/>
+      <point x="252" y="312" type="line"/>
+      <point x="303" y="312" type="line"/>
+      <point x="303" y="50" type="line"/>
+      <point x="294" y="46"/>
+      <point x="283" y="43"/>
+      <point x="273" y="43" type="curve" smooth="yes"/>
+      <point x="192" y="43"/>
+      <point x="179" y="219"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H-10</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2046bf981429b04ab9e2805a4b47792962eca53829b7f2e849e88b6e1f0605fb85a2c01c423b22901632373fb0bd5962b12441141edc62c1e997a35e53e8d66b</string>
+    <string>8e1f2652425ad15fb053f7083bbc93261f8a717ddc06502606ae44e6c05cb77d8328c3ea31c8b5bbc11ce5984679acd0d1121ba2344c38c03ae44d524ae41c87</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -59,9 +66,9 @@
           <string>hstem -12 51</string>
           <string>hstem 346 45</string>
           <string>hstem 660 52</string>
-          <string>vstem 30 150</string>
-          <string>vstem 324 141</string>
-          <string>vstem 392 42</string>
+          <string>vstem 29 150</string>
+          <string>vstem 323 141</string>
+          <string>vstem 391 42</string>
         </array>
       </dict>
     </array>
