@@ -1,46 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emcyr" format="2">
-  <advance width="676"/>
+  <advance width="667"/>
   <unicode hex="041C"/>
   <outline>
-    <contour>
-      <point x="13" y="-1" type="line"/>
-      <point x="154" y="-1" type="line"/>
-      <point x="154" y="46" type="line"/>
-      <point x="105" y="46" type="line"/>
-      <point x="136" y="555" type="line"/>
-      <point x="269" y="0" type="line"/>
-      <point x="298" y="0" type="line"/>
-      <point x="442" y="561" type="line"/>
-      <point x="475" y="46" type="line"/>
-      <point x="430" y="46" type="line"/>
-      <point x="430" y="1" type="line"/>
-      <point x="661" y="1" type="line"/>
-      <point x="661" y="46" type="line"/>
-      <point x="616" y="46" type="line"/>
-      <point x="577" y="655" type="line"/>
-      <point x="619" y="655" type="line"/>
-      <point x="619" y="700" type="line"/>
-      <point x="433" y="700" type="line"/>
-      <point x="328" y="291" type="line"/>
-      <point x="229" y="700" type="line"/>
-      <point x="51" y="700" type="line"/>
-      <point x="51" y="655" type="line"/>
-      <point x="93" y="655" type="line"/>
-      <point x="57" y="44" type="line"/>
-      <point x="13" y="44" type="line"/>
-    </contour>
+    <component base="M"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>M</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>M</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f2f84245fb206357839640a28edfa0c36a3e0ec50964efd8cc0277e4cfcd335d92855c899988e10a832a17b30c203e1f5e2cf9aba9355e7fc408141e139a4f91</string>
+    <string>w667</string>
     <key>hintSetList</key>
     <array>
       <dict>
