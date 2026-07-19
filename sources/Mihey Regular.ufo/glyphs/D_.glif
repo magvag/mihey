@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-  <advance width="530"/>
+  <advance width="515"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="211" y="0" type="line" smooth="yes"/>
-      <point x="407" y="0"/>
-      <point x="507" y="123"/>
-      <point x="507" y="358" type="curve" smooth="yes"/>
-      <point x="507" y="556"/>
-      <point x="436" y="700"/>
-      <point x="211" y="700" type="curve" smooth="yes"/>
-      <point x="23" y="700" type="line"/>
-      <point x="23" y="655" type="line"/>
-      <point x="68" y="655" type="line"/>
-      <point x="68" y="45" type="line"/>
-      <point x="23" y="45" type="line"/>
-      <point x="23" y="0" type="line"/>
+      <point x="66" y="44" type="line" name=".sk1"/>
+      <point x="22" y="44" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="208" y="0" type="line" smooth="yes" name=".sk2"/>
+      <point x="434" y="0"/>
+      <point x="492" y="161"/>
+      <point x="492" y="358" type="curve" smooth="yes"/>
+      <point x="492" y="555"/>
+      <point x="434" y="700"/>
+      <point x="208" y="700" type="curve" name=".sk3"/>
+      <point x="208" y="700" type="line"/>
+      <point x="86" y="700" type="line" name=".sk4"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
     </contour>
     <contour>
-      <point x="211" y="50" type="curve"/>
-      <point x="211" y="650" type="line"/>
-      <point x="342" y="650"/>
-      <point x="352" y="478"/>
-      <point x="352" y="339" type="curve" smooth="yes"/>
-      <point x="352" y="200"/>
-      <point x="343" y="45"/>
+      <point x="343" y="356" type="curve" smooth="yes"/>
+      <point x="344" y="224"/>
+      <point x="336" y="57"/>
+      <point x="208" y="52" type="curve"/>
+      <point x="208" y="655" type="line"/>
+      <point x="317" y="654"/>
+      <point x="341" y="557"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=22</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>74c96e8d6b5fe6cbab90ddbae61a0fb8608824705bf12ceecd753307849efede92a1731598ca81c3b95415103af34f21f90618ea827034c3124474bfd88f16c9</string>
+    <string>1dc8e1c6325f9dbeded79e7ba4d690eb803396d07f84934cdb7837b7af3f791e3e6ab6d6536423991bd32d51b9bffa42cf71987a3ba1822f2122bb29c73afe4f</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -45,8 +49,8 @@
         <array>
           <string>hstem 0 49</string>
           <string>hstem 650 50</string>
-          <string>vstem 68 143</string>
-          <string>vstem 202 150</string>
+          <string>vstem 66 143</string>
+          <string>vstem 200 150</string>
         </array>
       </dict>
     </array>
