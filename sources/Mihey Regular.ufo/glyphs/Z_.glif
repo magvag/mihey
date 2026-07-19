@@ -4,7 +4,7 @@
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="431" y="675" type="line"/>
+      <point x="441" y="675" type="line"/>
       <point x="165" y="47" type="line"/>
       <point x="168" y="47" type="line" smooth="yes"/>
       <point x="269" y="47"/>
@@ -14,14 +14,14 @@
       <point x="389" y="0" type="line"/>
       <point x="14" y="0" type="line"/>
       <point x="14" y="25" type="line"/>
-      <point x="282" y="655" type="line"/>
-      <point x="278" y="655" type="line" smooth="yes"/>
-      <point x="179" y="655"/>
-      <point x="100" y="583"/>
-      <point x="64" y="438" type="curve"/>
-      <point x="27" y="445" type="line"/>
-      <point x="57" y="700" type="line"/>
-      <point x="431" y="700" type="line"/>
+      <point x="291" y="655" type="line"/>
+      <point x="288" y="655" type="line" smooth="yes"/>
+      <point x="189" y="655"/>
+      <point x="110" y="583"/>
+      <point x="74" y="438" type="curve"/>
+      <point x="37" y="445" type="line"/>
+      <point x="67" y="700" type="line"/>
+      <point x="441" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>408632d7e39f76c8dd201210d441d01d8ae14e10579f503c941da8eec5ff30de314f5afde9ce6d43d44db6fecd0acdfd16a469d11bf9fb69a81ed46a29ca412c</string>
+    <string>a130bbcfc992770ccaf006e3d01f1244a00a47dc7bc4c1ea8b8ad5afccca8153e65fec45a8ca13af676939b38f0c782f224bfaf8057c10d8491516d2c5b06243</string>
     <key>hintSetList</key>
     <array>
       <dict>
