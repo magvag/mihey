@@ -18,8 +18,6 @@
   <string>minus+20</string>
   <key>com.fontlab.metricsRight</key>
   <string>minus-20</string>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>
