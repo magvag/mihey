@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ushortcyr" format="2">
-  <advance width="501"/>
+  <advance width="439"/>
   <unicode hex="040E"/>
   <outline>
-    <component base="Ucyr" xOffset="459"/>
-    <component base="kratka" xOffset="139"/>
+    <component base="Ucyr"/>
+    <component base="kratka" xOffset="123"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=У</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=У</string>
   <key>com.fontlab.recipe</key>
   <string>afii10037+breve</string>
   </dict>

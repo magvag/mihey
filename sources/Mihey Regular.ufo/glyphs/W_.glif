@@ -4,6 +4,9 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
+      <point x="159" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="341" y="454" type="line"/>
       <point x="438" y="0" type="line"/>
       <point x="529" y="0" type="line"/>
       <point x="663" y="656" type="line" name=".sk2"/>
@@ -27,9 +30,6 @@
       <point x="-18" y="700" type="line"/>
       <point x="-18" y="656" type="line"/>
       <point x="17" y="656" type="line"/>
-      <point x="159" y="0" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="341" y="454" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -43,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5ba02aecec38b92ef0587bcfd997fc15eeb37b5e50399f03035575968589d5e312eacb16389289fc24b9d655143b269d544e11cc784e5b35d6efb817948f3c4a</string>
+    <string>e935963e56ea9aa7a6505af0ab8627635cba0708be520bb439b4d50294cf7e63e81f8e896dcd181b972293df2ba22a22bded95cc9ae9baddbd1a382068db57b1</string>
     <key>hintSetList</key>
     <array>
       <dict>
