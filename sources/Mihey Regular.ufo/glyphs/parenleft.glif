@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-  <advance width="300"/>
+  <advance width="298"/>
   <unicode hex="0028"/>
   <outline>
-    <component base="left-round-bracket" xScale="-1" xOffset="300"/>
+    <component base="parenright" xScale="-1" xOffset="298"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|parenright</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|parenright</string>
+  </dict>
+  </lib>
 </glyph>
