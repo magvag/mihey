@@ -32,17 +32,11 @@
       <point x="148" y="168"/>
       <point x="112" y="122" type="curve"/>
       <point x="117" y="125" type="line"/>
-      <point x="353" y="125" type="line"/>
-      <point x="358" y="175" type="line"/>
-      <point x="403" y="175" type="line"/>
+      <point x="355" y="125" type="line" name=".sk1"/>
+      <point x="361" y="173" type="line"/>
+      <point x="403" y="172" type="line"/>
       <point x="403" y="0" type="line"/>
       <point x="14" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
-  </dict>
-  </lib>
 </glyph>
