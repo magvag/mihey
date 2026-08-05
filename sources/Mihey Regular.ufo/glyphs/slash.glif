@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="2">
-  <advance width="388"/>
+  <advance width="374"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
       <point x="25" y="0" type="line"/>
       <point x="301" y="700" type="line"/>
-      <point x="374" y="700" type="line"/>
-      <point x="98" y="0" type="line"/>
+      <point x="349" y="700" type="line"/>
+      <point x="73" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=25</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=25</string>
   </dict>
   </lib>
 </glyph>
