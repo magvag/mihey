@@ -4,46 +4,48 @@
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="283" y="45" type="line"/>
-      <point x="235" y="45" type="line"/>
-      <point x="235" y="0" type="line"/>
-      <point x="481" y="0" type="line"/>
-      <point x="481" y="45" type="line"/>
-      <point x="439" y="45" type="line"/>
-      <point x="303" y="388" type="line"/>
-      <point x="414" y="655" type="line"/>
-      <point x="461" y="655" type="line"/>
-      <point x="461" y="700" type="line"/>
-      <point x="312" y="700" type="line"/>
-      <point x="312" y="655" type="line"/>
-      <point x="360" y="655" type="line"/>
-      <point x="277" y="453" type="line"/>
-      <point x="197" y="655" type="line"/>
-      <point x="245" y="655" type="line"/>
-      <point x="245" y="700" type="line"/>
+      <point x="282" y="44" type="line" name=".sk3"/>
+      <point x="233" y="44" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="44" type="line"/>
+      <point x="439" y="44" type="line"/>
+      <point x="295" y="410" type="line"/>
+      <point x="404" y="656" type="line" name=".sk1"/>
+      <point x="451" y="656" type="line"/>
+      <point x="451" y="700" type="line"/>
+      <point x="304" y="700" type="line"/>
+      <point x="304" y="656" type="line"/>
+      <point x="352" y="656" type="line"/>
+      <point x="270" y="472" type="line"/>
+      <point x="198" y="656" type="line" name=".sk5"/>
+      <point x="247" y="656" type="line"/>
+      <point x="247" y="700" type="line"/>
       <point x="0" y="700" type="line"/>
-      <point x="0" y="655" type="line"/>
-      <point x="42" y="655" type="line"/>
-      <point x="168" y="336" type="line"/>
-      <point x="47" y="45" type="line"/>
-      <point x="0" y="45" type="line"/>
+      <point x="0" y="656" type="line"/>
+      <point x="41" y="656" type="line"/>
+      <point x="172" y="324" type="line"/>
+      <point x="47" y="44" type="line" name=".sk1"/>
+      <point x="0" y="44" type="line"/>
       <point x="0" y="0" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="149" y="45" type="line"/>
-      <point x="101" y="45" type="line"/>
-      <point x="194" y="271" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="147" y="44" type="line"/>
+      <point x="99" y="44" type="line"/>
+      <point x="196" y="262" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-1</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=-5</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>59b322c31291141e22536f090ff90dd07cebaf7977a9065291143544bcd2819e2082c29c447018d2b42de53acf39d65ed81aefd48ff34fd0f485e94c9a5786b0</string>
+    <string>b81e595c8f137386a7bf025680ce445dc265fb0ebd732bffbc6e06047e116f2dff730205861d63ba73210a70d2addb91632550806630dde1f36b1409b619fb47</string>
     <key>hintSetList</key>
     <array>
       <dict>

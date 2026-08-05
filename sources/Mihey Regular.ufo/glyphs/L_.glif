@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="427"/>
+  <advance width="426"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="432" y="310" type="line"/>
-      <point x="389" y="314" type="line"/>
-      <point x="370" y="214"/>
-      <point x="312" y="49"/>
-      <point x="209" y="45" type="curve"/>
-      <point x="209" y="656" type="line"/>
-      <point x="254" y="656" type="line"/>
-      <point x="254" y="701" type="line"/>
-      <point x="23" y="701" type="line"/>
-      <point x="23" y="656" type="line"/>
-      <point x="68" y="656" type="line"/>
-      <point x="68" y="45" type="line"/>
-      <point x="23" y="45" type="line"/>
-      <point x="23" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="431" y="310" type="line"/>
+      <point x="388" y="314" type="line"/>
+      <point x="369" y="214"/>
+      <point x="311" y="49"/>
+      <point x="208" y="45" type="curve"/>
+      <point x="208" y="656" type="line"/>
+      <point x="252" y="656" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line" name=".sk1"/>
+      <point x="66" y="44" type="line"/>
+      <point x="22" y="44" type="line"/>
+      <point x="22" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=-5</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w427m397,0l432,310l389,314c370,214 312,49 209,45l209,656l254,656l254,701l23,701l23,656l68,656l68,45l23,45l23,0</string>
+    <string>w426m396,0l431,310l388,314c369,214 311,49 208,45l208,656l252,656l252,700l22,700l22,656l66,656l66,44l22,44l22,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -38,8 +40,8 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 655 45</string>
-          <string>vstem 68 141</string>
-          <string>vstem 389 43</string>
+          <string>vstem 67 141</string>
+          <string>vstem 388 43</string>
         </array>
       </dict>
     </array>
