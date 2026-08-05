@@ -2,7 +2,7 @@
 <glyph name="Acircumflex.alt2" format="2">
   <advance width="465"/>
   <outline>
-    <component base="circumflex" xOffset="79"/>
+    <component base="circumflex" xOffset="80"/>
     <component base="Acyr.alt2"/>
   </outline>
   <lib>

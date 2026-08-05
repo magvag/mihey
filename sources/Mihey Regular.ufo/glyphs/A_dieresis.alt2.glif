@@ -2,7 +2,7 @@
 <glyph name="Adieresis.alt2" format="2">
   <advance width="465"/>
   <outline>
-    <component base="dieresis" xOffset="37"/>
+    <component base="dieresis" xOffset="44"/>
     <component base="Acyr.alt2"/>
   </outline>
   <lib>
