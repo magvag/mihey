@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eukrcyr" format="2">
-  <advance width="417"/>
+  <advance width="447"/>
   <unicode hex="0404"/>
   <outline>
-    <component base="C"/>
-    <component base="endash" xScale="0.424573" xOffset="135.16" yOffset="5"/>
+    <component base="C" xScale="1.12684" xOffset="-4.11765"/>
+    <contour>
+      <point x="453" y="391" type="curve"/>
+      <point x="433" y="403" type="line"/>
+      <point x="418" y="386"/>
+      <point x="403" y="384"/>
+      <point x="395" y="384" type="curve" smooth="yes"/>
+      <point x="355" y="384"/>
+      <point x="312" y="442"/>
+      <point x="261" y="442" type="curve" smooth="yes"/>
+      <point x="208" y="442"/>
+      <point x="169" y="379"/>
+      <point x="146" y="349" type="curve"/>
+      <point x="170" y="335" type="line"/>
+      <point x="184" y="347"/>
+      <point x="201" y="358"/>
+      <point x="220" y="358" type="curve" smooth="yes"/>
+      <point x="266" y="358"/>
+      <point x="297" y="299"/>
+      <point x="355" y="299" type="curve" smooth="yes"/>
+      <point x="397" y="299"/>
+      <point x="430" y="332"/>
+    </contour>
   </outline>
   <lib>
   <dict>

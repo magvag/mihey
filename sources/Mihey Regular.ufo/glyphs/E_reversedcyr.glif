@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ereversedcyr" format="2">
-  <advance width="417"/>
+  <advance width="447"/>
   <unicode hex="042D"/>
   <outline>
-    <component base="Eukrcyr" xScale="-1" xOffset="427"/>
+    <component base="Eukrcyr" xScale="-1" xOffset="457"/>
   </outline>
   <lib>
   <dict>
@@ -11,12 +11,14 @@
   <string>|C+10</string>
   <key>com.fontlab.metricsRight</key>
   <string>=|C-10</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w417</string>
+    <string>w447</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -25,9 +27,9 @@
           <string>hstem -12 91</string>
           <string>hstem 367 39</string>
           <string>hstem 660 52</string>
-          <string>vstem -54 48</string>
-          <string>vstem -34 46</string>
-          <string>vstem 274 7</string>
+          <string>vstem -24 48</string>
+          <string>vstem -4 46</string>
+          <string>vstem 304 7</string>
         </array>
       </dict>
     </array>
