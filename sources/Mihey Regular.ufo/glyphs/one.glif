@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="285"/>
+  <advance width="284"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="218" y="719" type="line"/>
-      <point x="193" y="719" type="line"/>
-      <point x="154" y="641"/>
-      <point x="101" y="598"/>
-      <point x="21" y="592" type="curve"/>
-      <point x="21" y="554" type="line"/>
-      <point x="76" y="554" type="line"/>
-      <point x="76" y="45" type="line"/>
-      <point x="31" y="45" type="line"/>
-      <point x="31" y="0" type="line"/>
-      <point x="263" y="0" type="line"/>
-      <point x="263" y="45" type="line"/>
-      <point x="218" y="45" type="line"/>
+      <point x="218" y="721" type="line"/>
+      <point x="186" y="721" type="line"/>
+      <point x="155" y="640"/>
+      <point x="105" y="604"/>
+      <point x="21" y="590" type="curve"/>
+      <point x="21" y="550" type="line"/>
+      <point x="76" y="550" type="line"/>
+      <point x="76" y="44" type="line" name=".sk1"/>
+      <point x="32" y="44" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="44" type="line"/>
+      <point x="218" y="44" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsRight</key>
   <string>H</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>
