@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="281"/>
+  <advance width="228"/>
   <unicode hex="00B4"/>
+  <anchor x="104" y="700" name="_top"/>
   <outline>
     <contour>
-      <point x="103" y="741" type="curve"/>
-      <point x="127" y="735" type="line"/>
-      <point x="170" y="767"/>
-      <point x="214" y="804"/>
-      <point x="246" y="851" type="curve"/>
-      <point x="150" y="872" type="line"/>
-      <point x="138" y="829"/>
-      <point x="127" y="793"/>
+      <point x="50" y="741" type="curve"/>
+      <point x="74" y="735" type="line"/>
+      <point x="117" y="767"/>
+      <point x="161" y="804"/>
+      <point x="193" y="851" type="curve"/>
+      <point x="97" y="872" type="line"/>
+      <point x="85" y="829"/>
+      <point x="74" y="793"/>
     </contour>
   </outline>
   <lib>

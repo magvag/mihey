@@ -370,15 +370,20 @@
     <string>Ucyr.alt1</string>
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
-    <string>_corner.s_De</string>
-    <string>softcyr</string>
+    <string>_corner.s_Tse</string>
     <string>CR</string>
+    <string>_corner.s_num</string>
+    <string>Djecyr</string>
+    <string>Tshecyr</string>
+    <string>Eng</string>
+    <string>approxequal</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
-    <string>_corner.s_De</string>
+    <string>_corner.s_Tse</string>
+    <string>_corner.s_num</string>
   </array>
 </dict>
 </plist>

@@ -4,36 +4,28 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="237" y="700" type="line" name=".at01"/>
-      <point x="187" y="700" type="line"/>
-      <point x="27.2683" y="44" type="line" name=".sk2"/>
-      <point x="-9.25168" y="44" type="line"/>
-      <point x="-9.25168" y="0" type="line"/>
-      <point x="44.2694" y="0" type="line"/>
-      <point x="57.6352" y="0" type="line" name=".sk3"/>
-      <point x="125.343" y="0" type="line"/>
-      <point x="125.343" y="44" type="line"/>
-      <point x="79.1426" y="44" type="line"/>
-    </contour>
-    <contour>
-      <point x="289" y="205" type="line"/>
-      <point x="113" y="205" type="line"/>
-      <point x="103" y="161" type="line"/>
-      <point x="300" y="161" type="line"/>
-    </contour>
-    <contour>
-      <point x="146.805" y="700" type="line"/>
-      <point x="174.046" y="585.436" type="line"/>
-      <point x="187.177" y="563.862" type="line"/>
-      <point x="310.793" y="44" type="line" name=".av03"/>
-      <point x="261.953" y="44" type="line"/>
-      <point x="261.953" y="0" type="line"/>
-      <point x="333.53" y="0" type="line"/>
-      <point x="440.326" y="0" type="line" name=".sk1"/>
-      <point x="493.847" y="0" type="line"/>
-      <point x="493.847" y="44" type="line"/>
-      <point x="457.327" y="44" type="line"/>
+      <point x="147" y="700" type="line"/>
+      <point x="167" y="616" type="line"/>
+      <point x="27" y="44" type="line" name=".sk2"/>
+      <point x="-9" y="44" type="line"/>
+      <point x="-9" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="44" type="line"/>
+      <point x="79" y="44" type="line"/>
+      <point x="107" y="161" type="line"/>
+      <point x="283" y="161" type="line"/>
+      <point x="311" y="44" type="line" name=".av03"/>
+      <point x="262" y="44" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="494" y="44" type="line"/>
+      <point x="457" y="44" type="line"/>
       <point x="302" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="205" type="line"/>
+      <point x="196" y="528" type="line"/>
+      <point x="273" y="205" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="680"/>
@@ -48,7 +40,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d54cf20f88585e24411e5bab2c0aa53b7e9e405d24ee4620ab8b1b09c72bab14aa7403d1fb7092b6aaa503e6f6b9fafa76ff13324f69e2d1c896dc4afc304582</string>
+    <string>0043b3b07898a38fe9da4b87e299f12adecac24e923808b591625285816123f5d1d25d2e8b79f5d6e3bc0deebe133e67e40aab0b0840c848207f66a43e5c8efb</string>
     <key>hintSetList</key>
     <array>
       <dict>

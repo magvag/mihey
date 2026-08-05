@@ -3,40 +3,44 @@
   <advance width="501"/>
   <unicode hex="041B"/>
   <outline>
+    <component base="endash" xScale="0.424573" xOffset="163.977" yOffset="305"/>
     <contour>
-      <point x="293" y="655" type="line"/>
-      <point x="293" y="45" type="line"/>
-      <point x="248" y="45" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="479" y="0" type="line"/>
-      <point x="479" y="45" type="line"/>
-      <point x="434" y="45" type="line"/>
-      <point x="434" y="655" type="line"/>
-      <point x="479" y="655" type="line"/>
-      <point x="479" y="700" type="line"/>
-      <point x="82" y="700" type="line"/>
-      <point x="82" y="655" type="line"/>
-      <point x="149" y="655" type="line"/>
-      <point x="149" y="528"/>
-      <point x="146" y="406"/>
-      <point x="142" y="337" type="curve" smooth="yes"/>
-      <point x="135" y="206"/>
-      <point x="116" y="150"/>
-      <point x="90" y="150" type="curve" smooth="yes"/>
-      <point x="69" y="150"/>
-      <point x="43" y="185"/>
-      <point x="25" y="238" type="curve"/>
-      <point x="-15" y="229" type="line"/>
-      <point x="25" y="13" type="line"/>
-      <point x="28" y="12"/>
+      <point x="185" y="221" type="curve" smooth="yes"/>
+      <point x="170" y="74"/>
+      <point x="147" y="-7"/>
+      <point x="75" y="-7" type="curve" smooth="yes"/>
       <point x="47" y="-7"/>
-      <point x="84" y="-7" type="curve" smooth="yes"/>
-      <point x="183" y="-7"/>
-      <point x="177" y="127"/>
-      <point x="183" y="215" type="curve" smooth="yes"/>
-      <point x="188" y="288"/>
-      <point x="196" y="451"/>
-      <point x="197" y="655" type="curve"/>
+      <point x="27" y="6"/>
+      <point x="25" y="9" type="curve"/>
+      <point x="-15" y="229" type="line"/>
+      <point x="25" y="238" type="line"/>
+      <point x="41" y="184"/>
+      <point x="54" y="150"/>
+      <point x="84" y="150" type="curve" smooth="yes"/>
+      <point x="122" y="150"/>
+      <point x="135" y="206"/>
+      <point x="143" y="356" type="curve" smooth="yes"/>
+      <point x="149" y="458"/>
+      <point x="152" y="579"/>
+      <point x="152" y="656" type="curve"/>
+      <point x="85" y="656" type="line"/>
+      <point x="86" y="700" type="line"/>
+      <point x="183" y="700" type="line" name=".sk1"/>
+      <point x="200" y="700" type="line"/>
+      <point x="200" y="539"/>
+      <point x="200" y="376"/>
+    </contour>
+    <contour>
+      <point x="435" y="44" type="line" name=".sk1"/>
+      <point x="479" y="44" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="249" y="44" type="line"/>
+      <point x="293" y="44" type="line"/>
+      <point x="293" y="700" type="line" name=".sk3"/>
+      <point x="479" y="700" type="line"/>
+      <point x="479" y="656" type="line"/>
+      <point x="435" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,14 +49,12 @@
   <string>=-15</string>
   <key>com.fontlab.metricsRight</key>
   <string>=H</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dc04838b3558a3749c3cd76de950b46d05d942368982f1641c30638c683bda940dd76a546d2d60d077046ba1edb70b70835af3bb1280e7db99de30207166fcf5</string>
+    <string>8f5594376096ba71a96627a0aa974eedb72e23cf192ab10205835ad55c4e6860d1add69bee33d64f79c89e2743b4f2840a533f32491671c67272e076e627a13b</string>
     <key>hintSetList</key>
     <array>
       <dict>

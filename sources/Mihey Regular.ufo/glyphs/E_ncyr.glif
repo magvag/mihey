@@ -3,10 +3,14 @@
   <advance width="553"/>
   <unicode hex="041D"/>
   <outline>
-    <component base="H" xOffset="8"/>
+    <component base="H"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
@@ -21,8 +25,8 @@
           <string>hstem -1 45</string>
           <string>hstem 352 45</string>
           <string>hstem 654 45</string>
-          <string>vstem -73 141</string>
-          <string>vstem 345 141</string>
+          <string>vstem -81 141</string>
+          <string>vstem 337 141</string>
         </array>
       </dict>
     </array>

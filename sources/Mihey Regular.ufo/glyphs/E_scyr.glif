@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Escyr" format="2">
-  <advance width="417"/>
+  <advance width="402"/>
   <unicode hex="0421"/>
   <outline>
-    <component base="C"/>
+    <component base="C" xOffset="-0.487764"/>
   </outline>
   <lib>
   <dict>
@@ -16,7 +16,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w417</string>
+    <string>w402</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -24,9 +24,9 @@
         <array>
           <string>hstem -12 101</string>
           <string>hstem 660 52</string>
-          <string>vstem 41 150</string>
-          <string>vstem 391 44</string>
-          <string>vstem 404 46</string>
+          <string>vstem 31 150</string>
+          <string>vstem 381 44</string>
+          <string>vstem 394 46</string>
         </array>
       </dict>
     </array>

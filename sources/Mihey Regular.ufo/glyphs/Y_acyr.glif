@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacyr" format="2">
-  <advance width="503"/>
+  <advance width="502"/>
   <unicode hex="042F"/>
   <outline>
-    <component base="R" xScale="-1" xOffset="502.508"/>
+    <component base="R" xScale="-1" xOffset="501.697"/>
   </outline>
   <lib>
   <dict>
@@ -16,7 +16,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w503</string>
+    <string>w502</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -25,7 +25,7 @@
           <string>hstem -1 45</string>
           <string>hstem 282 46</string>
           <string>hstem 654 45</string>
-          <string>vstem 210 45</string>
+          <string>vstem 209 45</string>
         </array>
       </dict>
     </array>

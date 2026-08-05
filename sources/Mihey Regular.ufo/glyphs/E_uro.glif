@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="2">
-  <advance width="437"/>
+  <advance width="422"/>
   <unicode hex="20AC"/>
   <outline>
     <component base="Escyr" xOffset="20"/>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w437m-3,378l7,422l318,422l308,378m-3,292l7,336l298,336l288,292</string>
+    <string>w422m-3,378l7,422l318,422l308,378m-3,292l7,336l298,336l288,292</string>
     <key>hintSetList</key>
     <array>
       <dict>

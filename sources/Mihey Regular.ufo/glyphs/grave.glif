@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="281"/>
+  <advance width="228"/>
   <unicode hex="0060"/>
+  <anchor x="126" y="700" name="_top"/>
   <outline>
-    <component base="acute" xScale="-1" xOffset="271"/>
+    <component base="acute" xScale="-1" xOffset="228"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|acute</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|acute</string>
+  </dict>
+  </lib>
 </glyph>

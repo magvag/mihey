@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="268"/>
+  <advance width="286"/>
   <unicode hex="00AF"/>
+  <anchor x="143" y="700" name="_top"/>
   <outline>
     <contour>
       <point x="25" y="759" type="line"/>
@@ -15,7 +16,7 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=20</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=2</string>
+  <string>|</string>
   <key>com.fontlab.recipe</key>
   <string>space+uni0304</string>
   </dict>

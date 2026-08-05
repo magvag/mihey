@@ -108,8 +108,6 @@
   </dict>
   <key>J</key>
   <dict>
-    <key>AE</key>
-    <integer>-50</integer>
     <key>public.kern2.A1</key>
     <integer>-35</integer>
     <key>public.kern2.C</key>
@@ -664,8 +662,6 @@
   </dict>
   <key>public.kern1.S</key>
   <dict>
-    <key>AE</key>
-    <integer>-20</integer>
     <key>public.kern2.C</key>
     <integer>-5</integer>
     <key>public.kern2.J</key>
@@ -680,7 +676,7 @@
   <key>public.kern1.T</key>
   <dict>
     <key>AE</key>
-    <integer>-90</integer>
+    <integer>-30</integer>
     <key>Decyr</key>
     <integer>-62</integer>
     <key>hyphen</key>
@@ -766,7 +762,7 @@
   <key>public.kern1.V</key>
   <dict>
     <key>AE</key>
-    <integer>-130</integer>
+    <integer>-86</integer>
     <key>E</key>
     <integer>-20</integer>
     <key>colon</key>

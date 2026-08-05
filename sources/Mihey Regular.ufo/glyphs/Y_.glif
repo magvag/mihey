@@ -4,39 +4,41 @@
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="292" y="304" type="line"/>
-      <point x="410" y="655" type="line"/>
-      <point x="445" y="655" type="line"/>
+      <point x="292" y="304" type="line" name=".sk3"/>
+      <point x="411" y="656" type="line" name=".sk1"/>
+      <point x="445" y="656" type="line"/>
       <point x="445" y="700" type="line"/>
-      <point x="314" y="700" type="line"/>
-      <point x="314" y="655" type="line"/>
-      <point x="361" y="655" type="line"/>
+      <point x="313" y="700" type="line"/>
+      <point x="313" y="656" type="line"/>
+      <point x="362" y="656" type="line"/>
       <point x="267" y="378" type="line"/>
-      <point x="174" y="655" type="line"/>
-      <point x="221" y="655" type="line"/>
-      <point x="221" y="700" type="line"/>
+      <point x="175" y="656" type="line" name=".sk4"/>
+      <point x="223" y="656" type="line"/>
+      <point x="223" y="700" type="line"/>
       <point x="-5" y="700" type="line"/>
-      <point x="-5" y="655" type="line"/>
-      <point x="31" y="655" type="line"/>
-      <point x="150" y="304" type="line"/>
-      <point x="150" y="44" type="line"/>
-      <point x="105" y="44" type="line"/>
-      <point x="105" y="-1" type="line"/>
-      <point x="337" y="-1" type="line"/>
-      <point x="337" y="44" type="line"/>
+      <point x="-5" y="656" type="line"/>
+      <point x="32" y="656" type="line"/>
+      <point x="150" y="304" type="line" name=".sk6"/>
+      <point x="150" y="44" type="line" name=".sk7"/>
+      <point x="106" y="44" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="44" type="line"/>
       <point x="292" y="44" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=-5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=-5</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>dacb1c9f73d422c34f746fb8637a355bd16f8b1ff78766cfde07d04ab5c34932447006f047c1b84f50b0362ca563d87ef44768eb3f39163e74b7746e90506d35</string>
+    <string>a5c8ac60aabb06378e13b78858e14f29a0f146d9928b920c254fbfc739b633447d360cf2ea492b8e223cf10e3946625679165e7ac46e3a3f8087a80758de97f7</string>
     <key>hintSetList</key>
     <array>
       <dict>

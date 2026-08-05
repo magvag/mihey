@@ -102,6 +102,8 @@
   <string>D_croat.glif</string>
   <key>Decyr</key>
   <string>D_ecyr.glif</string>
+  <key>Djecyr</key>
+  <string>D_jecyr.glif</string>
   <key>Dzecyr</key>
   <string>D_zecyr.glif</string>
   <key>Dzhecyr</key>
@@ -136,6 +138,8 @@
   <string>E_mcyr.alt2.glif</string>
   <key>Encyr</key>
   <string>E_ncyr.glif</string>
+  <key>Eng</key>
+  <string>E_ng.glif</string>
   <key>Eogonek</key>
   <string>E_ogonek.glif</string>
   <key>Ercyr</key>
@@ -342,6 +346,8 @@
   <string>T_secyr.glif</string>
   <key>Tsecyr.ss01</key>
   <string>T_secyr.ss01.glif</string>
+  <key>Tshecyr</key>
+  <string>T_shecyr.glif</string>
   <key>U</key>
   <string>U_.glif</string>
   <key>Uacute</key>
@@ -424,14 +430,18 @@
   <string>Z_hecyr.ss03.glif</string>
   <key>_Zhe_half</key>
   <string>_Z_he_half.glif</string>
-  <key>_corner.s_De</key>
-  <string>_corner.s_D_e.glif</string>
   <key>_corner.s_I</key>
   <string>_corner.s_I_.glif</string>
+  <key>_corner.s_Tse</key>
+  <string>_corner.s_T_se.glif</string>
+  <key>_corner.s_num</key>
+  <string>_corner.s_num.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
+  <key>approxequal</key>
+  <string>approxequal.glif</string>
   <key>arrowdown</key>
   <string>arrowdown.glif</string>
   <key>arrowleft</key>
@@ -624,8 +634,6 @@
   <string>six.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
-  <key>softcyr</key>
-  <string>softcyr.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>three</key>
