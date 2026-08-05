@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approxequal" format="2">
+  <advance width="404"/>
+  <unicode hex="2248"/>
+  <outline>
+    <component base="asciitilde" xOffset="30" yOffset="60"/>
+    <component base="asciitilde" xOffset="32.1183" yOffset="-60"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=equal</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.recipe</key>
+  <string>asciitilde+asciitilde</string>
+  </dict>
+  </lib>
+</glyph>
