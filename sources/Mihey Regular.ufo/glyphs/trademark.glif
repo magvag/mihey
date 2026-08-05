@@ -4,77 +4,87 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="343" y="700" type="line"/>
-      <point x="309" y="581" type="line"/>
-      <point x="275" y="700" type="line"/>
-      <point x="203" y="700" type="line"/>
-      <point x="203" y="676" type="line"/>
-      <point x="222" y="676" type="line"/>
-      <point x="210" y="522" type="line"/>
-      <point x="190" y="522" type="line"/>
-      <point x="190" y="498" type="line"/>
-      <point x="252" y="498" type="line"/>
-      <point x="252" y="522" type="line"/>
-      <point x="233" y="522" type="line"/>
-      <point x="243" y="652" type="line"/>
-      <point x="290" y="497" type="line"/>
-      <point x="309" y="497" type="line"/>
-      <point x="355" y="654" type="line"/>
-      <point x="365" y="522" type="line"/>
-      <point x="346" y="522" type="line"/>
-      <point x="346" y="498" type="line"/>
-      <point x="434" y="498" type="line"/>
-      <point x="434" y="522" type="line"/>
-      <point x="411" y="522" type="line"/>
-      <point x="399" y="677" type="line"/>
-      <point x="418" y="677" type="line"/>
-      <point x="418" y="700" type="line"/>
+      <point x="288" y="527" type="line" name=".at01"/>
+      <point x="313" y="527" type="line"/>
+      <point x="352" y="655" type="line"/>
+      <point x="364" y="522" type="line" name=".av03"/>
+      <point x="341" y="522" type="line"/>
+      <point x="341" y="498" type="line"/>
+      <point x="436" y="498" type="line"/>
+      <point x="436" y="522" type="line"/>
+      <point x="419" y="522" type="line"/>
+      <point x="404" y="676" type="line" name=".sk5"/>
+      <point x="422" y="676" type="line"/>
+      <point x="422" y="700" type="line"/>
+      <point x="366" y="700" type="line" name=".sk2"/>
+      <point x="366" y="700" type="line"/>
+      <point x="339" y="700" type="line" name=".sk3"/>
+      <point x="308" y="593" type="line"/>
+      <point x="274" y="700" type="line" name=".av03"/>
+      <point x="200" y="700" type="line"/>
+      <point x="200" y="676" type="line"/>
+      <point x="220" y="676" type="line"/>
+      <point x="205" y="522" type="line" name=".sk2"/>
+      <point x="183" y="522" type="line"/>
+      <point x="183" y="498" type="line"/>
+      <point x="253" y="498" type="line"/>
+      <point x="253" y="522" type="line"/>
+      <point x="230" y="522" type="line"/>
+      <point x="241" y="650" type="line"/>
+      <point x="282" y="527" type="line"/>
     </contour>
     <contour>
-      <point x="54" y="522" type="line"/>
-      <point x="54" y="498" type="line"/>
-      <point x="141" y="498" type="line"/>
-      <point x="141" y="522" type="line"/>
-      <point x="121" y="522" type="line"/>
-      <point x="121" y="677" type="line"/>
-      <point x="154" y="666"/>
-      <point x="166" y="632"/>
-      <point x="168" y="622" type="curve"/>
-      <point x="187" y="627" type="line"/>
-      <point x="176" y="700" type="line"/>
-      <point x="18" y="700" type="line"/>
-      <point x="7" y="627" type="line"/>
-      <point x="26" y="622" type="line"/>
-      <point x="28" y="632"/>
-      <point x="40" y="666"/>
-      <point x="74" y="678" type="curve"/>
-      <point x="74" y="522" type="line"/>
+      <point x="69" y="522" type="line" name=".sk1"/>
+      <point x="47" y="522" type="line"/>
+      <point x="47" y="498" type="line"/>
+      <point x="146" y="498" type="line"/>
+      <point x="146" y="522" type="line"/>
+      <point x="124" y="522" type="line"/>
+      <point x="124" y="676" type="line"/>
+      <point x="150" y="679"/>
+      <point x="166" y="635"/>
+      <point x="169" y="621" type="curve"/>
+      <point x="188" y="624" type="line"/>
+      <point x="179" y="700" type="line"/>
+      <point x="14" y="700" type="line"/>
+      <point x="6" y="624" type="line"/>
+      <point x="24" y="621" type="line"/>
+      <point x="28" y="635"/>
+      <point x="43" y="678"/>
+      <point x="69" y="676" type="curve"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>T_M%</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>0c27b28b0dc5c56614a7aef4e2786f21f04e709598f5b06fb607d6c0d5c9b04e93514f203d1d514d095cb4961df84ad1dd9674e0903feef09d12104861d3de83</string>
+    <string>60428491bd6a4a25cb877b3e5c12bc1ff4a716a9964fe859effce186d9b756c13fc66a53b1a2c545754c40d6c1e066542dda722f1fc4f3ae8d4487e82f0ad569</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
+          <string>hstem -2 45</string>
+          <string>hstem 497.42 45</string>
           <string>hstem 498 45</string>
           <string>hstem 499 45</string>
           <string>hstem 686 45</string>
           <string>hstem 699 -20</string>
+          <string>hstem 700 -20</string>
+          <string>vstem -24 42</string>
+          <string>vstem 3.88 42</string>
           <string>vstem 13 42</string>
           <string>vstem 73 141</string>
+          <string>vstem 73.06 141</string>
           <string>vstem 152 14</string>
+          <string>vstem 158 141</string>
+          <string>vstem 163.52 42</string>
+          <string>vstem 396 42</string>
         </array>
       </dict>
     </array>
