@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.case" format="2">
+  <advance width="228"/>
+  <anchor x="84" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="50" y="741" type="curve"/>
+      <point x="74" y="735" type="line"/>
+      <point x="117" y="767"/>
+      <point x="161" y="804"/>
+      <point x="193" y="851" type="curve"/>
+      <point x="97" y="872" type="line"/>
+      <point x="85" y="829"/>
+      <point x="74" y="793"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>space+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

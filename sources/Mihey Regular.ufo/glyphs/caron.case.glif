@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.case" format="2">
+  <advance width="314"/>
+  <anchor x="157" y="700" name="_top"/>
+  <outline>
+    <component base="circumflex" yScale="-1" xOffset="0.5" yOffset="1627.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

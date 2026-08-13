@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="2">
+  <advance width="312"/>
+  <anchor x="156" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="20" y="763" type="line"/>
+      <point x="292" y="763" type="line"/>
+      <point x="292" y="807" type="line"/>
+      <point x="20" y="807" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=20</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.recipe</key>
+  <string>space+uni0304</string>
+  </dict>
+  </lib>
+</glyph>
