@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
-  <advance width="477"/>
+  <advance width="466"/>
   <unicode hex="0147"/>
+  <anchor x="241" y="20" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="caron" xOffset="82"/>
+    <component base="caron.case" xOffset="74"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>N</string>
   <key>com.fontlab.recipe</key>
-  <string>N+caron</string>
+  <string>N+caron.case</string>
   </dict>
   </lib>
 </glyph>

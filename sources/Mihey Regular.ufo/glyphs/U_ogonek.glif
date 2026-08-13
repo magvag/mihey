@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="2">
-  <advance width="457"/>
+  <advance width="467"/>
   <unicode hex="0172"/>
   <outline>
-    <component base="U" xOffset="-1"/>
-    <component base="ogonek" xScale="0.999828" xyScale="-0.0185704" yxScale="0.0185704" yScale="0.999828" xOffset="129.429" yOffset="2.30482"/>
+    <component base="U"/>
+    <component base="ogonek" xScale="0.999828" xyScale="-0.0185704" yxScale="0.0185704" yScale="0.999828" xOffset="130.429" yOffset="2.30482"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>U</string>
   <key>com.fontlab.recipe</key>
   <string>U+>ogonek</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

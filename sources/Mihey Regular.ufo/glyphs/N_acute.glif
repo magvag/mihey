@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="477"/>
+  <advance width="466"/>
   <unicode hex="0143"/>
+  <anchor x="241" y="20" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="acute" xOffset="171"/>
+    <component base="acute.case" xOffset="147"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>N</string>
   <key>com.fontlab.recipe</key>
-  <string>N+acute</string>
+  <string>N+acute.case</string>
   </dict>
   </lib>
 </glyph>

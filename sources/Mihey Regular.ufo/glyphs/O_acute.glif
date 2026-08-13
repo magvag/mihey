@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oacute" format="2">
-  <advance width="503"/>
+  <advance width="502"/>
   <unicode hex="00D3"/>
   <outline>
     <component base="O"/>
-    <component base="acute" xOffset="184"/>
+    <component base="acute.case" xOffset="167"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
   <key>com.fontlab.recipe</key>
-  <string>O+acute</string>
+  <string>O+acute.case</string>
   </dict>
   </lib>
 </glyph>

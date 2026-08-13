@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Decyr" format="2">
-  <advance width="521"/>
+  <advance width="516"/>
   <unicode hex="0414"/>
   <outline>
     <component base="endash" xScale="0.424573" xOffset="170.16" yOffset="305"/>
@@ -15,16 +15,16 @@
       <point x="136" y="222"/>
       <point x="81" y="44" type="curve"/>
       <point x="-4" y="44" type="line"/>
-      <point x="7" y="-171" type="line"/>
-      <point x="51" y="-168" type="line"/>
-      <point x="63" y="-93"/>
+      <point x="-4" y="-163" type="line"/>
+      <point x="36" y="-163" type="line"/>
+      <point x="48" y="-88"/>
       <point x="81" y="-5"/>
       <point x="188" y="0" type="curve"/>
       <point x="329" y="0" type="line"/>
       <point x="436" y="-5"/>
-      <point x="453" y="-93"/>
-      <point x="466" y="-168" type="curve"/>
-      <point x="510" y="-171" type="line"/>
+      <point x="468" y="-88"/>
+      <point x="481" y="-163" type="curve"/>
+      <point x="521" y="-163" type="line"/>
       <point x="521" y="44" type="line"/>
       <point x="438" y="44" type="line" name=".sk2"/>
       <point x="438" y="656" type="line"/>
@@ -44,13 +44,13 @@
   <key>com.fontlab.metricsLeft</key>
   <string>=-5</string>
   <key>com.fontlab.metricsRight</key>
-  <string>=0</string>
+  <string>=-5</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7822e4e3da09840fb0f941f908ea510e8ac28ce21856af1497f58ba5c7f6b4fcc644ee45fdfa7b85ebe87225473f17cd809462c5b00296b96624d7a8da1da353</string>
+    <string>f460299009e53e4e3e0e895f7be982214821b2d2f19e8fe8c6ee1229d4c1c76dab8bc68893bc2bc0066b418705cd65fd371de29532fac5026ab22771c75b6052</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Utilde" format="2">
-  <advance width="457"/>
+  <advance width="467"/>
   <unicode hex="0168"/>
+  <anchor x="240" y="0" name="bottom"/>
   <outline>
-    <component base="U" xOffset="-1"/>
-    <component base="tilde" xOffset="104"/>
+    <component base="U"/>
+    <component base="tilde.case" xOffset="128" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>U</string>
   <key>com.fontlab.recipe</key>
-  <string>U+tilde</string>
+  <string>U+tilde.case</string>
   </dict>
   </lib>
 </glyph>

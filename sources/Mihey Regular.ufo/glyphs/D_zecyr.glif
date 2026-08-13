@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dzecyr" format="2">
-  <advance width="419"/>
+  <advance width="423"/>
   <unicode hex="0405"/>
+  <anchor x="214" y="700" name="top"/>
+  <anchor x="214" y="0" name="bottom"/>
   <outline>
-    <component base="S" xOffset="-9"/>
+    <component base="S"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=S</string>
   <key>com.fontlab.recipe</key>
   <string>S%</string>
   </dict>

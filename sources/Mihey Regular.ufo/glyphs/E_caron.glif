@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="2">
-  <advance width="489"/>
+  <advance width="473"/>
   <unicode hex="011A"/>
   <outline>
-    <component base="E" xOffset="-4.85696"/>
-    <component base="caron" xOffset="75"/>
+    <component base="E"/>
+    <component base="caron.case" xOffset="97"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
   <key>com.fontlab.recipe</key>
-  <string>E+caron</string>
+  <string>E+caron.case</string>
   </dict>
   </lib>
 </glyph>

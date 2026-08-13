@@ -4,12 +4,14 @@
   <unicode hex="013F"/>
   <outline>
     <component base="L" xOffset="1"/>
-    <component base="dotaccent" xScale="0.777146" xyScale="0.62932" yxScale="-0.62932" yScale="0.777146" xOffset="725.611" yOffset="-283.454"/>
+    <component base="dotaccent" xOffset="232.14" yOffset="-358.156"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>L+periodcentered</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="2">
-  <advance width="484"/>
+  <advance width="486"/>
   <unicode hex="00C3"/>
   <outline>
     <component base="A"/>
-    <component base="tilde" xOffset="78"/>
+    <component base="tilde.case" xOffset="75" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
-  <string>A+tilde</string>
+  <string>A+tilde.case</string>
   </dict>
   </lib>
 </glyph>

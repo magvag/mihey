@@ -4,12 +4,18 @@
   <unicode hex="0178"/>
   <outline>
     <component base="Y"/>
-    <component base="dieresis" xOffset="56"/>
+    <component base="dieresis.case" xOffset="78"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Y</string>
   <key>com.fontlab.recipe</key>
-  <string>Y+dieresis</string>
+  <string>Y+dieresis.case</string>
   </dict>
   </lib>
 </glyph>

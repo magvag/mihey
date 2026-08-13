@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="271"/>
+  <advance width="268"/>
   <unicode hex="0134"/>
   <outline>
-    <component base="J" xOffset="-43"/>
-    <component base="circumflex" xOffset="-18"/>
+    <component base="J"/>
+    <component base="circumflex.case" xOffset="-23" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>J</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>J</string>
   <key>com.fontlab.recipe</key>
-  <string>J+circumflex</string>
+  <string>J+circumflex.case</string>
   </dict>
   </lib>
 </glyph>

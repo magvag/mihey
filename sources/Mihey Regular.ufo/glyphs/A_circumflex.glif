@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflex" format="2">
-  <advance width="484"/>
+  <advance width="486"/>
   <unicode hex="00C2"/>
   <outline>
     <component base="A"/>
-    <component base="circumflex" xOffset="85"/>
+    <component base="circumflex.case" xOffset="70" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
-  <string>A+circumflex</string>
+  <string>A+circumflex.case</string>
   </dict>
   </lib>
 </glyph>

@@ -6,7 +6,7 @@
     <component base="L" xOffset="1"/>
     <contour>
       <point x="309" y="509" type="line"/>
-      <point x="351" y="509" type="line"/>
+      <point x="349" y="509" type="line"/>
       <point x="458" y="700" type="line"/>
       <point x="339" y="700" type="line"/>
     </contour>
@@ -15,6 +15,8 @@
   <dict>
   <key>com.fontlab.recipe</key>
   <string>L+quoteright</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

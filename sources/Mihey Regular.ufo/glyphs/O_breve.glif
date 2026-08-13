@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="2">
-  <advance width="503"/>
+  <advance width="502"/>
   <unicode hex="014E"/>
   <outline>
     <component base="O"/>
-    <component base="breve" xOffset="112"/>
+    <component base="breve.case" xOffset="111"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
   <key>com.fontlab.recipe</key>
-  <string>O+breve</string>
+  <string>O+breve.case</string>
   </dict>
   </lib>
 </glyph>

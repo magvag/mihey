@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
-  <advance width="477"/>
+  <advance width="466"/>
   <unicode hex="00D1"/>
+  <anchor x="241" y="20" name="bottom"/>
   <outline>
     <component base="N"/>
-    <component base="tilde" xOffset="86"/>
+    <component base="tilde.case" xOffset="79" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>N</string>
   <key>com.fontlab.recipe</key>
-  <string>N+tilde</string>
+  <string>N+tilde.case</string>
   </dict>
   </lib>
 </glyph>

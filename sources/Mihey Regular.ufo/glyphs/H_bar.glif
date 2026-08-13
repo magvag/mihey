@@ -3,20 +3,19 @@
   <advance width="553"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H" xOffset="8"/>
-    <contour>
-      <point x="4" y="516" type="line"/>
-      <point x="550" y="516" type="line"/>
-      <point x="550" y="568" type="line"/>
-      <point x="4" y="568" type="line"/>
-    </contour>
+    <component base="H"/>
+    <component base="endash" xScale="1.28417" xOffset="-15.2437" yOffset="153.361"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
   <key>com.fontlab.recipe</key>
   <string>H+macron</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

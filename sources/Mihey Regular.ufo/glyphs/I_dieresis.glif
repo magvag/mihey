@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="2">
-  <advance width="278"/>
+  <advance width="274"/>
   <unicode hex="00CF"/>
   <outline>
-    <component base="I" xOffset="1"/>
-    <component base="dieresis" xOffset="-51"/>
+    <component base="I"/>
+    <component base="dieresis.case" xOffset="-55"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>I</string>
   <key>com.fontlab.recipe</key>
-  <string>I+dieresis</string>
+  <string>I+dieresis.case</string>
   </dict>
   </lib>
 </glyph>

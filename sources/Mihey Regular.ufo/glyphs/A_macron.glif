@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Amacron" format="2">
-  <advance width="484"/>
+  <advance width="486"/>
   <unicode hex="0100"/>
   <outline>
     <component base="A"/>
-    <component base="macron" xOffset="80"/>
+    <component base="macron.case" xOffset="71"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
-  <string>A+macron</string>
+  <string>A+macron.case</string>
   </dict>
   </lib>
 </glyph>

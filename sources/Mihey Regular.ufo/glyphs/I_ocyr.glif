@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iocyr" format="2">
-  <advance width="489"/>
+  <advance width="474"/>
   <unicode hex="0401"/>
   <outline>
-    <component base="E" xOffset="-4.85696"/>
-    <component base="dieresis" xOffset="20.4721" yOffset="0.361"/>
+    <component base="E" xOffset="0.143041"/>
+    <component base="dieresis" xOffset="25.4721" yOffset="0.361"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w489</string>
+    <string>w474</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -21,8 +25,8 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 749 119</string>
-          <string>vstem -33 113</string>
-          <string>vstem 248 113</string>
+          <string>vstem -28 113</string>
+          <string>vstem 253 113</string>
         </array>
       </dict>
     </array>

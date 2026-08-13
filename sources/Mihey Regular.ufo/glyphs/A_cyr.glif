@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acyr" format="2">
-  <advance width="484"/>
+  <advance width="486"/>
   <unicode hex="0410"/>
+  <anchor x="242" y="700" name="top"/>
   <outline>
-    <component base="A" xOffset="1"/>
+    <component base="A"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w484</string>
+    <string>w486</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -22,8 +27,8 @@
           <string>hstem 24 60</string>
           <string>hstem 161 45</string>
           <string>hstem 704 -20</string>
-          <string>vstem -57 45</string>
-          <string>vstem -53 86</string>
+          <string>vstem -58 45</string>
+          <string>vstem -54 86</string>
         </array>
       </dict>
     </array>

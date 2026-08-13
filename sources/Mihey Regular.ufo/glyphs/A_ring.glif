@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-  <advance width="484"/>
+  <advance width="482"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="ring" xOffset="106"/>
@@ -30,14 +30,20 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
   <key>com.fontlab.recipe</key>
   <string>A+ring</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>92de3f59c2435f959d3998134c18ca28c6908d9985d23a928782b0816ba784c9f613a56e2303b1124d843267d9bee807319e57273a5c83e4140dfff80beeff06</string>
+    <string>79f8dfbe2c12fddb3dfa51aa70f472c3d3899be76b1bcee44e14987fc46d1cac101d03cf36f149105881ad4b65ec9f50596cb22e054764128a4b580ed79c3933</string>
     <key>hintSetList</key>
     <array>
       <dict>

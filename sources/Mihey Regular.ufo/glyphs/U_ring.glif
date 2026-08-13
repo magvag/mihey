@@ -1,69 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uring" format="2">
-  <advance width="457"/>
+  <advance width="467"/>
   <unicode hex="016E"/>
   <outline>
     <contour>
-      <point x="361" y="700" type="line" name=".sk1"/>
-      <point x="361" y="700" type="line"/>
-      <point x="294" y="700"/>
-      <point x="286" y="730"/>
-      <point x="286" y="751" type="curve" smooth="yes"/>
-      <point x="286" y="781"/>
-      <point x="302" y="806"/>
-      <point x="338" y="806" type="curve" smooth="yes"/>
-      <point x="370" y="806"/>
-      <point x="386" y="781"/>
-      <point x="386" y="756" type="curve" smooth="yes"/>
-      <point x="386" y="747"/>
-      <point x="384" y="737"/>
-      <point x="379" y="728" type="curve"/>
-      <point x="426" y="728" type="line"/>
-      <point x="428" y="738"/>
-      <point x="430" y="748"/>
-      <point x="430" y="758" type="curve" smooth="yes"/>
-      <point x="430" y="805"/>
-      <point x="399" y="848"/>
-      <point x="339" y="848" type="curve" smooth="yes"/>
-      <point x="274" y="848"/>
-      <point x="242" y="801"/>
-      <point x="242" y="752" type="curve" smooth="yes"/>
-      <point x="242" y="706"/>
-      <point x="268" y="658"/>
-      <point x="361" y="658" type="curve"/>
-      <point x="361" y="235" type="line" smooth="yes"/>
-      <point x="361" y="135"/>
-      <point x="339" y="99"/>
-      <point x="284" y="99" type="curve" smooth="yes"/>
-      <point x="229" y="99"/>
-      <point x="204" y="135"/>
-      <point x="204" y="235" type="curve" smooth="yes"/>
-      <point x="204" y="700" type="line" name=".sk2"/>
-      <point x="21" y="700" type="line"/>
-      <point x="21" y="656" type="line"/>
-      <point x="65" y="656" type="line"/>
-      <point x="65" y="164" type="line" smooth="yes"/>
-      <point x="65" y="39"/>
-      <point x="153" y="-12"/>
-      <point x="246" y="-12" type="curve" smooth="yes"/>
-      <point x="336" y="-12"/>
-      <point x="412" y="36"/>
-      <point x="412" y="185" type="curve" smooth="yes"/>
-      <point x="412" y="656" type="line" name=".sk4"/>
-      <point x="456" y="656" type="line"/>
-      <point x="456" y="700" type="line"/>
+      <point x="362" y="700" type="line" name=".sk1"/>
+      <point x="362" y="700" type="line"/>
+      <point x="295" y="700"/>
+      <point x="287" y="730"/>
+      <point x="287" y="751" type="curve" smooth="yes"/>
+      <point x="287" y="781"/>
+      <point x="303" y="806"/>
+      <point x="339" y="806" type="curve" smooth="yes"/>
+      <point x="371" y="806"/>
+      <point x="387" y="781"/>
+      <point x="387" y="756" type="curve" smooth="yes"/>
+      <point x="387" y="747"/>
+      <point x="385" y="737"/>
+      <point x="380" y="728" type="curve"/>
+      <point x="427" y="728" type="line"/>
+      <point x="429" y="738"/>
+      <point x="431" y="748"/>
+      <point x="431" y="758" type="curve" smooth="yes"/>
+      <point x="431" y="805"/>
+      <point x="400" y="848"/>
+      <point x="340" y="848" type="curve" smooth="yes"/>
+      <point x="275" y="848"/>
+      <point x="243" y="801"/>
+      <point x="243" y="752" type="curve" smooth="yes"/>
+      <point x="243" y="706"/>
+      <point x="269" y="658"/>
+      <point x="362" y="658" type="curve"/>
+      <point x="362" y="235" type="line" smooth="yes"/>
+      <point x="362" y="135"/>
+      <point x="340" y="99"/>
+      <point x="285" y="99" type="curve" smooth="yes"/>
+      <point x="230" y="99"/>
+      <point x="205" y="135"/>
+      <point x="205" y="235" type="curve" smooth="yes"/>
+      <point x="205" y="700" type="line" name=".sk2"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
+      <point x="66" y="164" type="line" smooth="yes"/>
+      <point x="66" y="39"/>
+      <point x="154" y="-12"/>
+      <point x="247" y="-12" type="curve" smooth="yes"/>
+      <point x="337" y="-12"/>
+      <point x="413" y="36"/>
+      <point x="413" y="185" type="curve" smooth="yes"/>
+      <point x="413" y="656" type="line" name=".sk4"/>
+      <point x="457" y="656" type="line"/>
+      <point x="457" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>U</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>U</string>
   <key>com.fontlab.recipe</key>
   <string>U+ring</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>e902b25ffa0c5b75dd399d0b8e436c3b2626281b65d4a03d51ad63f378c495f97c1ca4c983cc8c364ce41a8d28b92eed307228bd569aa120b99db98f0c757ec2</string>
+    <string>9d908190cc076baab40faea7dfb8a517e2767469e193cc97d6fcd8062a042cbf1f0d5778fecf4ed55cdf704142da46f907179b87626c7f286a84b61c784f253b</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -71,8 +77,8 @@
         <array>
           <string>hstem -14 108</string>
           <string>hstem 655 45</string>
-          <string>vstem 65 139</string>
-          <string>vstem 371 51</string>
+          <string>vstem 66 139</string>
+          <string>vstem 372 51</string>
         </array>
       </dict>
     </array>

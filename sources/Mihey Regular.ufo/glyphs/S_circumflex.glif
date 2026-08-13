@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="2">
-  <advance width="419"/>
+  <advance width="423"/>
   <unicode hex="015C"/>
+  <anchor x="214" y="0" name="bottom"/>
   <outline>
-    <component base="S" xOffset="-9"/>
-    <component base="circumflex" xOffset="92"/>
+    <component base="S"/>
+    <component base="circumflex.case" xOffset="57" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S</string>
   <key>com.fontlab.recipe</key>
-  <string>S+circumflex</string>
+  <string>S+circumflex.case</string>
   </dict>
   </lib>
 </glyph>

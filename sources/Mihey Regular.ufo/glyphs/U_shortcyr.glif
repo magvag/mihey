@@ -4,16 +4,18 @@
   <unicode hex="040E"/>
   <outline>
     <component base="Ucyr"/>
-    <component base="kratka" xOffset="123"/>
+    <component base="kratka.case" xOffset="133"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=У</string>
   <key>com.fontlab.metricsRight</key>
   <string>=У</string>
   <key>com.fontlab.recipe</key>
-  <string>afii10037+breve</string>
+  <string>У+kratka.case</string>
   </dict>
   </lib>
 </glyph>

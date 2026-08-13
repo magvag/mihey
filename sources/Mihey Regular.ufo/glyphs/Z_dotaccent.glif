@@ -4,12 +4,18 @@
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccent" xOffset="107.717"/>
+    <component base="dotaccent.case" xOffset="156"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Z</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Z</string>
   <key>com.fontlab.recipe</key>
-  <string>Z+dotaccent</string>
+  <string>Z+dotaccent.case</string>
   </dict>
   </lib>
 </glyph>

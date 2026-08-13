@@ -2,8 +2,39 @@
 <glyph name="K" format="2">
   <advance width="527"/>
   <unicode hex="004B"/>
+  <anchor x="285" y="700" name="top"/>
+  <anchor x="305" y="0" name="bottom"/>
   <outline>
-    <component base="Kacyr" xOffset="-5.49188"/>
+    <contour>
+      <point x="66" y="44" type="line" name=".sk1"/>
+      <point x="22" y="44" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="44" type="line"/>
+      <point x="208" y="44" type="line"/>
+      <point x="208" y="313" type="line"/>
+      <point x="230" y="345" type="line"/>
+      <point x="313" y="129"/>
+      <point x="377" y="8"/>
+      <point x="527" y="-78" type="curve"/>
+      <point x="547" y="-64" type="line"/>
+      <point x="494" y="58"/>
+      <point x="466" y="134"/>
+      <point x="346" y="509" type="curve"/>
+      <point x="449" y="656" type="line" name=".sk5"/>
+      <point x="495" y="656" type="line"/>
+      <point x="495" y="700" type="line"/>
+      <point x="328" y="700" type="line"/>
+      <point x="328" y="656" type="line"/>
+      <point x="379" y="656" type="line"/>
+      <point x="208" y="386" type="line"/>
+      <point x="208" y="656" type="line" name=".sk3"/>
+      <point x="252" y="656" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="22" y="700" type="line"/>
+      <point x="22" y="656" type="line"/>
+      <point x="66" y="656" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -12,7 +43,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w527</string>
+    <string>35d96e214996a60472f19b3929cd82852bf3cc9b2e11ed6eb435f26044a5bf5432de4ee6bdb35d8c5bf10555391c7878858cdf2c2f77d3575b56e0094271ed0e</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,7 +2,28 @@
 <glyph name="A.alt2" format="2">
   <advance width="465"/>
   <outline>
-    <component base="Acyr.alt2"/>
+    <contour>
+      <point x="155" y="700" type="line"/>
+      <point x="170" y="638" type="line"/>
+      <point x="25" y="45" type="line"/>
+      <point x="-10" y="45" type="line"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="45" type="line"/>
+      <point x="77" y="45" type="line"/>
+      <point x="105" y="160" type="line"/>
+      <point x="283" y="160" type="line"/>
+      <point x="310" y="45" type="line"/>
+      <point x="259" y="45" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="300" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="532" type="line"/>
+      <point x="272" y="205" type="line"/>
+      <point x="116" y="205" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -13,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w465</string>
+    <string>8a2ec4fd227df91477db3b0a4e0f1d3c45fcb35db100c8a85b5d2bfa3e89f20aa468ea6d52ddb1f9ac22ac97cf0ffe711c1af3638f9f56dbe4d0fc8ca4b35e62</string>
     <key>hintSetList</key>
     <array>
       <dict>

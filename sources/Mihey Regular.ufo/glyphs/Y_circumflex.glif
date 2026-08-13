@@ -4,12 +4,18 @@
   <unicode hex="0176"/>
   <outline>
     <component base="Y"/>
-    <component base="circumflex" xOffset="85"/>
+    <component base="circumflex.case" xOffset="113" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Y</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Y</string>
   <key>com.fontlab.recipe</key>
-  <string>Y+circumflex</string>
+  <string>Y+circumflex.case</string>
   </dict>
   </lib>
 </glyph>

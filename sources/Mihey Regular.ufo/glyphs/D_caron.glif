@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="2">
-  <advance width="530"/>
+  <advance width="515"/>
   <unicode hex="010E"/>
   <outline>
-    <component base="D" xOffset="1.37703"/>
-    <component base="caron" xOffset="81"/>
+    <component base="D"/>
+    <component base="caron.case" xOffset="100"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>D</string>
   <key>com.fontlab.recipe</key>
-  <string>D+caron</string>
+  <string>D+caron.case</string>
   </dict>
   </lib>
 </glyph>

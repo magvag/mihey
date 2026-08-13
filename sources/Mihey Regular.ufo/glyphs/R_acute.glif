@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="2">
-  <advance width="500"/>
+  <advance width="501"/>
   <unicode hex="0154"/>
+  <anchor x="301" y="0" name="bottom"/>
   <outline>
-    <component base="R" xOffset="-5.30337"/>
-    <component base="acute" xOffset="173"/>
+    <component base="R"/>
+    <component base="acute.case" xOffset="187"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>R</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>R</string>
   <key>com.fontlab.recipe</key>
-  <string>R+acute</string>
+  <string>R+acute.case</string>
   </dict>
   </lib>
 </glyph>

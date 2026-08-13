@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eacute" format="2">
-  <advance width="489"/>
+  <advance width="473"/>
   <unicode hex="00C9"/>
   <outline>
-    <component base="E" xOffset="-4.85696"/>
-    <component base="acute" xOffset="144"/>
+    <component base="E"/>
+    <component base="acute.case" xOffset="170"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
   <key>com.fontlab.recipe</key>
-  <string>E+acute</string>
+  <string>E+acute.case</string>
   </dict>
   </lib>
 </glyph>

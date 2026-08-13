@@ -3,13 +3,19 @@
   <advance width="553"/>
   <unicode hex="0124"/>
   <outline>
-    <component base="H" xOffset="8"/>
-    <component base="circumflex" xOffset="121"/>
+    <component base="H"/>
+    <component base="circumflex.case" xOffset="120" yOffset="-1"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
   <key>com.fontlab.recipe</key>
-  <string>H+circumflex</string>
+  <string>H+circumflex.case</string>
   </dict>
   </lib>
 </glyph>

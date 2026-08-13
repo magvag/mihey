@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tsecyr" format="2">
-  <advance width="565"/>
+  <advance width="560"/>
   <unicode hex="0426"/>
   <outline>
     <component base="endash" xScale="0.424573" xOffset="184.632" yOffset="-351"/>
@@ -21,9 +21,9 @@
     <contour>
       <point x="482" y="44" type="line" name=".sk2"/>
       <point x="565" y="44" type="line"/>
-      <point x="554" y="-171" type="line"/>
-      <point x="510" y="-168" type="line"/>
-      <point x="497" y="-93"/>
+      <point x="565" y="-163" type="line"/>
+      <point x="525" y="-163" type="line"/>
+      <point x="512" y="-88"/>
       <point x="480" y="-5"/>
       <point x="373" y="0" type="curve"/>
       <point x="340" y="0" type="line"/>
@@ -46,7 +46,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>5501f1bb13571df2d122c9a408d01991402587b32d59847275f1d871261434a026b6d105382ba67775ed50f7bee65dfcf1568cd817251b363b182036222e3480</string>
+    <string>340a3fc646bfe7bea0238157e6ca2340282fa333e88c41905f96c0bbf0b7a020659a19d2b096d5782b788c5fc5aa60dcd30a79b7f1b1da5bfba94e8997865ab9</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="2">
-  <advance width="503"/>
+  <advance width="502"/>
   <unicode hex="00D6"/>
   <outline>
     <component base="O"/>
-    <component base="dieresis" xOffset="60"/>
+    <component base="dieresis.case" xOffset="59"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
   <key>com.fontlab.recipe</key>
-  <string>O+dieresis</string>
+  <string>O+dieresis.case</string>
   </dict>
   </lib>
 </glyph>

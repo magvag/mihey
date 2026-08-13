@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-  <advance width="419"/>
+  <advance width="423"/>
   <unicode hex="0160"/>
+  <anchor x="214" y="0" name="bottom"/>
   <outline>
-    <component base="S" xOffset="-9"/>
-    <component base="caron" xOffset="53"/>
+    <component base="S"/>
+    <component base="caron.case" xOffset="57"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S</string>
   <key>com.fontlab.recipe</key>
-  <string>S+caron</string>
+  <string>S+caron.case</string>
   </dict>
   </lib>
 </glyph>

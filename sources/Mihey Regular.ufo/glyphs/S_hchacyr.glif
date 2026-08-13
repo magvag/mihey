@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shchacyr" format="2">
-  <advance width="802"/>
+  <advance width="797"/>
   <unicode hex="0429"/>
   <outline>
     <component base="endash" xScale="1.06913" xOffset="174.74" yOffset="-351"/>
@@ -43,9 +43,9 @@
     <contour>
       <point x="719" y="44" type="line" name=".sk2"/>
       <point x="802" y="44" type="line"/>
-      <point x="791" y="-171" type="line"/>
-      <point x="747" y="-168" type="line"/>
-      <point x="734" y="-93"/>
+      <point x="802" y="-163" type="line"/>
+      <point x="762" y="-163" type="line"/>
+      <point x="749" y="-88"/>
       <point x="717" y="-5"/>
       <point x="610" y="0" type="curve"/>
       <point x="577" y="0" type="line"/>
@@ -63,14 +63,12 @@
   <string>=H</string>
   <key>com.fontlab.metricsRight</key>
   <string>Д</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>34a4ae9b1720d095f6187e316665b00ae199e17d32965b0722070f256c28701d8be5cdd59eeee765c54ea739476e59e7f43d865e17af197883c9c35923a3eed6</string>
+    <string>a6d1950d1b347ed5bb67e05dbf03eb100fa2441aa8c313d5288e6fc352e474261903cc88e541d647a2986d1de8c218e6f634f8ecf65435a286dfb330d0dfdf95</string>
     <key>hintSetList</key>
     <array>
       <dict>
