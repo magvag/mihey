@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Elcyr" format="2">
-  <advance width="501"/>
+  <advance width="495"/>
   <unicode hex="041B"/>
   <outline>
-    <component base="endash" xScale="0.424573" xOffset="163.977" yOffset="305"/>
+    <component base="endash" xScale="0.424573" xOffset="157.977" yOffset="305"/>
     <contour>
-      <point x="185" y="221" type="curve" smooth="yes"/>
-      <point x="170" y="74"/>
-      <point x="147" y="-7"/>
-      <point x="75" y="-7" type="curve" smooth="yes"/>
-      <point x="47" y="-7"/>
-      <point x="27" y="6"/>
-      <point x="25" y="9" type="curve"/>
-      <point x="-15" y="229" type="line"/>
-      <point x="25" y="238" type="line"/>
-      <point x="41" y="184"/>
+      <point x="179" y="221" type="curve" smooth="yes"/>
+      <point x="164" y="74"/>
+      <point x="141" y="-7"/>
+      <point x="69" y="-7" type="curve" smooth="yes"/>
+      <point x="41" y="-7"/>
+      <point x="21" y="6"/>
+      <point x="19" y="9" type="curve"/>
+      <point x="-14" y="193" type="line"/>
+      <point x="28" y="209" type="line"/>
+      <point x="41" y="172"/>
       <point x="54" y="150"/>
-      <point x="84" y="150" type="curve" smooth="yes"/>
-      <point x="122" y="150"/>
-      <point x="135" y="206"/>
-      <point x="143" y="356" type="curve" smooth="yes"/>
-      <point x="149" y="458"/>
-      <point x="152" y="579"/>
-      <point x="152" y="656" type="curve"/>
-      <point x="85" y="656" type="line"/>
-      <point x="86" y="700" type="line"/>
-      <point x="183" y="700" type="line" name=".sk1"/>
-      <point x="200" y="700" type="line"/>
-      <point x="200" y="539"/>
-      <point x="200" y="376"/>
+      <point x="78" y="150" type="curve" smooth="yes"/>
+      <point x="116" y="150"/>
+      <point x="129" y="206"/>
+      <point x="137" y="356" type="curve" smooth="yes"/>
+      <point x="143" y="458"/>
+      <point x="146" y="579"/>
+      <point x="146" y="656" type="curve"/>
+      <point x="79" y="656" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="177" y="700" type="line" name=".sk1"/>
+      <point x="194" y="700" type="line"/>
+      <point x="194" y="539"/>
+      <point x="194" y="376"/>
     </contour>
     <contour>
-      <point x="435" y="44" type="line" name=".sk1"/>
-      <point x="479" y="44" type="line"/>
-      <point x="479" y="0" type="line"/>
-      <point x="249" y="0" type="line"/>
-      <point x="249" y="44" type="line"/>
-      <point x="293" y="44" type="line"/>
-      <point x="293" y="700" type="line" name=".sk3"/>
-      <point x="479" y="700" type="line"/>
-      <point x="479" y="656" type="line"/>
-      <point x="435" y="656" type="line"/>
+      <point x="429" y="44" type="line" name=".sk1"/>
+      <point x="473" y="44" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="44" type="line"/>
+      <point x="287" y="44" type="line"/>
+      <point x="287" y="700" type="line" name=".sk3"/>
+      <point x="473" y="700" type="line"/>
+      <point x="473" y="656" type="line"/>
+      <point x="429" y="656" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -54,7 +54,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>8f5594376096ba71a96627a0aa974eedb72e23cf192ab10205835ad55c4e6860d1add69bee33d64f79c89e2743b4f2840a533f32491671c67272e076e627a13b</string>
+    <string>e700b4ba9a694cbe00bdd19c18d3247d3e3d0544071f69fb65cc13ef5bf7be607c5215569ee9eb1b6946a12060b1c3a8ba5e41ffa8a67925a1db22cdcd1081ee</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -62,8 +62,8 @@
         <array>
           <string>hstem 0 45</string>
           <string>hstem 655 45</string>
-          <string>vstem 149 48</string>
-          <string>vstem 293 141</string>
+          <string>vstem 143 48</string>
+          <string>vstem 287 141</string>
         </array>
       </dict>
     </array>
