@@ -318,28 +318,7 @@
     <string>degree</string>
     <string>nobreakspace</string>
     <string>A.alt1</string>
-    <string>Agrave.alt1</string>
-    <string>Aacute.alt1</string>
-    <string>Acircumflex.alt1</string>
-    <string>Atilde.alt1</string>
-    <string>Adieresis.alt1</string>
-    <string>Aring.alt1</string>
-    <string>Amacron.alt1</string>
-    <string>Abreve.alt1</string>
-    <string>Aogonek.alt1</string>
-    <string>Acyr.alt1</string>
-    <string>Acyr.alt2</string>
-    <string>Acyr.alt3</string>
     <string>A.alt2</string>
-    <string>Agrave.alt2</string>
-    <string>Aacute.alt2</string>
-    <string>Acircumflex.alt2</string>
-    <string>Atilde.alt2</string>
-    <string>Adieresis.alt2</string>
-    <string>Aring.alt2</string>
-    <string>Amacron.alt2</string>
-    <string>Abreve.alt2</string>
-    <string>Aogonek.alt2</string>
     <string>M.alt2</string>
     <string>Emcyr.alt2</string>
     <string>arrowleft</string>
@@ -353,8 +332,6 @@
     <string>arrowright.alt1</string>
     <string>longarrowend</string>
     <string>longarrowtip</string>
-    <string>Elcyr.alt1</string>
-    <string>Ljecyr.alt1</string>
     <string>Zhecyr.alt</string>
     <string>Kacyr.alt</string>
     <string>Yacyr.alt</string>
@@ -367,7 +344,6 @@
     <string>pecyr</string>
     <string>n</string>
     <string>ocyr</string>
-    <string>Ucyr.alt1</string>
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
     <string>_corner.s_Tse</string>
@@ -377,6 +353,23 @@
     <string>Tshecyr</string>
     <string>Eng</string>
     <string>approxequal</string>
+    <string>_corner.s_Tse2</string>
+    <string>grave.case</string>
+    <string>dotaccent.case</string>
+    <string>dieresis.case</string>
+    <string>acute.case</string>
+    <string>hungarumlaut.case</string>
+    <string>ring.case</string>
+    <string>macron.case</string>
+    <string>caron.case</string>
+    <string>circumflex.case</string>
+    <string>tilde.case</string>
+    <string>breve.case</string>
+    <string>commaaccentcomb.case</string>
+    <string>kratka.case</string>
+    <string>ogonek.case</string>
+    <string>u</string>
+    <string>r</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
@@ -384,6 +377,7 @@
     <string>_Zhe_half</string>
     <string>_corner.s_Tse</string>
     <string>_corner.s_num</string>
+    <string>_corner.s_Tse2</string>
   </array>
 </dict>
 </plist>

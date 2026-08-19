@@ -2,16 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>Acyr.alt2</key>
-  <dict>
-    <key>public.kern2.Elcyr</key>
-    <integer>-5</integer>
-  </dict>
-  <key>Acyr.alt3</key>
-  <dict>
-    <key>public.kern2.Elcyr</key>
-    <integer>-25</integer>
-  </dict>
   <key>Decyr</key>
   <dict>
     <key>Decyr</key>

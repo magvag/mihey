@@ -8,9 +8,9 @@
     <contour>
       <point x="0" y="0" type="move"/>
       <point x="107" y="-5"/>
-      <point x="124" y="-93"/>
-      <point x="137" y="-168" type="curve"/>
-      <point x="181" y="-171" type="line"/>
+      <point x="139" y="-88"/>
+      <point x="152" y="-163" type="curve"/>
+      <point x="192" y="-163" type="line"/>
       <point x="192" y="44" type="line"/>
       <point x="109" y="44" type="line"/>
     </contour>

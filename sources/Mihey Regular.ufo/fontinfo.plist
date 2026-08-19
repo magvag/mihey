@@ -24,16 +24,6 @@
     <key>y</key>
     <integer>-269</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1057</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
@@ -76,7 +66,7 @@
   <string>Version 001.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
-    <integer>2</integer>
+    <integer>4</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>
@@ -128,7 +118,9 @@
   <array>
     <integer>0</integer>
     <integer>1</integer>
+    <integer>2</integer>
     <integer>9</integer>
+    <integer>31</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>PfEd</string>
@@ -165,6 +157,7 @@
   <array>
     <integer>44</integer>
     <integer>24</integer>
+    <integer>111</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
