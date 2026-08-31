@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A.alt1" format="2">
-  <advance width="473"/>
+  <advance width="486"/>
   <outline>
     <contour>
-      <point x="113" y="45" type="line"/>
-      <point x="66" y="45" type="line"/>
-      <point x="94" y="160" type="line"/>
-      <point x="272" y="160" type="line"/>
-      <point x="299" y="45" type="line"/>
-      <point x="248" y="45" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="479" y="0" type="line"/>
-      <point x="479" y="45" type="line"/>
-      <point x="444" y="45" type="line"/>
-      <point x="289" y="700" type="line"/>
-      <point x="144" y="700" type="line"/>
-      <point x="159" y="636" type="line"/>
-      <point x="15" y="45" type="line"/>
-      <point x="-4" y="45" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="113" y="0" type="line"/>
+      <point x="147" y="700" type="line"/>
+      <point x="167" y="616" type="line"/>
+      <point x="27" y="44" type="line" name=".sk2"/>
+      <point x="-18" y="44" type="line"/>
+      <point x="-18" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="125" y="44" type="line"/>
+      <point x="79" y="44" type="line"/>
+      <point x="107" y="161" type="line"/>
+      <point x="283" y="161" type="line"/>
+      <point x="311" y="44" type="line" name=".av03"/>
+      <point x="262" y="44" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="494" y="44" type="line"/>
+      <point x="457" y="44" type="line"/>
+      <point x="302" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="184" y="532" type="line"/>
-      <point x="261" y="205" type="line"/>
-      <point x="105" y="205" type="line"/>
+      <point x="118" y="205" type="line"/>
+      <point x="196" y="528" type="line"/>
+      <point x="273" y="205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>6f63c08dc5f5fd37734dd98712a3bbca879d82e60169af4713360bbbf2e10b12bd84ce768b5df794eb54afa14015c4b7ee16ba6535adef0d6d71ba49fc308541</string>
+    <string>cd9fe6abeab228ade72b019eb2446cb71c0517b609d91d7216cd34bec65bb671333859b9ee4a40a7e52b201f67d63826d8565669fd28dec99ae2509d0a669420</string>
     <key>hintSetList</key>
     <array>
       <dict>
