@@ -5,18 +5,20 @@
   <outline>
     <component base="L" xOffset="1"/>
     <contour>
-      <point x="309" y="509" type="line"/>
-      <point x="349" y="509" type="line"/>
-      <point x="458" y="700" type="line"/>
+      <point x="309" y="509" type="curve"/>
+      <point x="332" y="502" type="line"/>
+      <point x="379" y="559"/>
+      <point x="423" y="627"/>
+      <point x="444" y="700" type="curve"/>
       <point x="339" y="700" type="line"/>
+      <point x="335" y="638"/>
+      <point x="326" y="573"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>
   <string>L+quoteright</string>
-  <key>public.markColor</key>
-  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

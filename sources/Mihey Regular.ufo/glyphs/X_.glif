@@ -5,34 +5,46 @@
   <anchor x="240" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="282" y="44" type="line" name=".sk3"/>
-      <point x="233" y="44" type="line"/>
-      <point x="233" y="0" type="line"/>
-      <point x="480" y="0" type="line"/>
-      <point x="480" y="44" type="line"/>
-      <point x="439" y="44" type="line"/>
-      <point x="295" y="410" type="line"/>
-      <point x="404" y="656" type="line" name=".sk1"/>
-      <point x="451" y="656" type="line"/>
-      <point x="451" y="700" type="line"/>
-      <point x="304" y="700" type="line"/>
-      <point x="304" y="656" type="line"/>
-      <point x="352" y="656" type="line"/>
-      <point x="270" y="472" type="line"/>
-      <point x="198" y="656" type="line" name=".sk5"/>
-      <point x="247" y="656" type="line"/>
-      <point x="247" y="700" type="line"/>
-      <point x="0" y="700" type="line"/>
-      <point x="0" y="656" type="line"/>
-      <point x="41" y="656" type="line"/>
-      <point x="172" y="324" type="line"/>
-      <point x="47" y="44" type="line" name=".sk1"/>
-      <point x="0" y="44" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="147" y="44" type="line"/>
-      <point x="99" y="44" type="line"/>
-      <point x="196" y="262" type="line"/>
+      <point x="281.714" y="44" type="line" name=".sk3"/>
+      <point x="232.874" y="44" type="line"/>
+      <point x="232.874" y="0" type="line"/>
+      <point x="304.451" y="0" type="line"/>
+      <point x="419.46" y="0" type="line" name=".sk4"/>
+      <point x="480.074" y="0" type="line"/>
+      <point x="480.074" y="44" type="line"/>
+      <point x="438.714" y="44" type="line"/>
+      <point x="198.286" y="656" type="line" name=".sk5"/>
+      <point x="247.126" y="656" type="line"/>
+      <point x="247.126" y="700" type="line"/>
+      <point x="175.549" y="700" type="line"/>
+      <point x="60.54" y="700" type="line" name=".sk6"/>
+      <point x="-0.0742856" y="700" type="line"/>
+      <point x="-0.0742856" y="656" type="line"/>
+      <point x="41.2857" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="355" type="line"/>
+      <point x="404.359" y="656" type="line" name=".sk1"/>
+      <point x="450.999" y="656" type="line"/>
+      <point x="450.999" y="700" type="line"/>
+      <point x="382.647" y="700" type="line"/>
+      <point x="375.096" y="700" type="line" name=".sk2"/>
+      <point x="303.519" y="700" type="line"/>
+      <point x="303.519" y="656" type="line"/>
+      <point x="352.359" y="656" type="line"/>
+      <point x="218" y="355" type="line"/>
+    </contour>
+    <contour>
+      <point x="180.999" y="345" type="line"/>
+      <point x="46.64" y="44" type="line" name=".sk1"/>
+      <point x="2.39386e-06" y="44" type="line"/>
+      <point x="2.39386e-06" y="0" type="line"/>
+      <point x="68.3522" y="0" type="line"/>
+      <point x="75.9036" y="0" type="line" name=".sk2"/>
+      <point x="147.48" y="0" type="line"/>
+      <point x="147.48" y="44" type="line"/>
+      <point x="98.64" y="44" type="line"/>
+      <point x="232.999" y="345" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,12 +53,14 @@
   <string>=-1</string>
   <key>com.fontlab.metricsRight</key>
   <string>=-5</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>b81e595c8f137386a7bf025680ce445dc265fb0ebd732bffbc6e06047e116f2dff730205861d63ba73210a70d2addb91632550806630dde1f36b1409b619fb47</string>
+    <string>da635fd0f7ce5d1643a847767509754e50027a7e31476d40e746103eed3efa0bc6ca0fa7cd95906ccb6135d661709d52f674dc37b55f7083d66b8609fcba9bd8</string>
     <key>hintSetList</key>
     <array>
       <dict>

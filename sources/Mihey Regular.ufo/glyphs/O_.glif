@@ -39,12 +39,14 @@
   <string>=29</string>
   <key>com.fontlab.metricsRight</key>
   <string>=|</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>15ef8cbaa0bc6baf16a551747a5d459b46114bcd9d9f3d363b7a2d016cb1acb4be5c3693aa7e24f1b7681fc76939a3b8dca90e87a661b82fb31e2f2768a954e2</string>
+    <string>45debab7d7c289cb2102f6670011d95739b47be1dc583611d8e69c45681b293f4a9dfaece826e5855a18ab8d365283e10c46d0898cf2bcf9772ceb04017cd17c</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -2,7 +2,7 @@
 <glyph name="N" format="2">
   <advance width="466"/>
   <unicode hex="004E"/>
-  <anchor x="231" y="700" name="top"/>
+  <anchor x="253" y="700" name="top"/>
   <anchor x="241" y="20" name="bottom"/>
   <outline>
     <contour>
@@ -38,6 +38,8 @@
   <string>=4</string>
   <key>com.fontlab.metricsRight</key>
   <string>=4</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

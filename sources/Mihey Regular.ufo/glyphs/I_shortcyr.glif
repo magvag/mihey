@@ -12,6 +12,8 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>Icyr+kratka.case</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

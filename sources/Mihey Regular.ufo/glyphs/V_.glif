@@ -5,21 +5,29 @@
   <anchor x="212" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="164" y="0" type="line"/>
-      <point x="267" y="0" type="line"/>
-      <point x="406" y="656" type="line" name=".sk2"/>
-      <point x="441" y="656" type="line"/>
-      <point x="441" y="700" type="line"/>
-      <point x="305" y="700" type="line"/>
-      <point x="305" y="656" type="line"/>
-      <point x="351" y="656" type="line"/>
-      <point x="257" y="196" type="line"/>
-      <point x="163" y="656" type="line" name=".av03"/>
-      <point x="204" y="656" type="line"/>
-      <point x="204" y="700" type="line"/>
-      <point x="-18" y="700" type="line"/>
-      <point x="-18" y="656" type="line"/>
-      <point x="18" y="656" type="line"/>
+      <point x="216.596" y="0.00531006" type="line" name=".at01"/>
+      <point x="266.596" y="0.00531006" type="line"/>
+      <point x="405.71" y="656.005" type="line" name=".sk2"/>
+      <point x="440.91" y="656.005" type="line"/>
+      <point x="440.91" y="700.005" type="line"/>
+      <point x="389.324" y="700.005" type="line"/>
+      <point x="372.532" y="700.005" type="line" name=".sk3"/>
+      <point x="304.824" y="700.005" type="line"/>
+      <point x="304.824" y="656.005" type="line"/>
+      <point x="351.024" y="656.005" type="line"/>
+    </contour>
+    <contour>
+      <point x="259.336" y="184.307" type="line"/>
+      <point x="163.298" y="656.005" type="line" name=".av03"/>
+      <point x="203.778" y="656.005" type="line"/>
+      <point x="203.778" y="700.005" type="line"/>
+      <point x="144.454" y="700.005" type="line"/>
+      <point x="34.0264" y="700.005" type="line" name=".sk1"/>
+      <point x="-17.5602" y="700.005" type="line"/>
+      <point x="-17.5602" y="656.005" type="line"/>
+      <point x="17.6398" y="656.005" type="line"/>
+      <point x="163.596" y="0.00531006" type="line"/>
+      <point x="251.254" y="0.00531006" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,12 +36,14 @@
   <string>=-18</string>
   <key>com.fontlab.metricsRight</key>
   <string>=-18</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w423m164,0l267,0l406,656l441,656l441,700l305,700l305,656l351,656l257,196l163,656l204,656l204,700l-18,700l-18,656l18,656</string>
+    <string>2aba1fefd49e867a07112b3fcdf2741f11df99df103b51a1f72b4dbe58aca79ea2b665dd885b22de6aa9787ecc13a23e53ebadf82f9f59a21c3cd31256248493</string>
     <key>hintSetList</key>
     <array>
       <dict>

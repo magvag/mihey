@@ -2,7 +2,7 @@
 <glyph name="R" format="2">
   <advance width="501"/>
   <unicode hex="0052"/>
-  <anchor x="271" y="700" name="top"/>
+  <anchor x="236" y="700" name="top"/>
   <anchor x="301" y="0" name="bottom"/>
   <outline>
     <contour>
@@ -48,6 +48,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>H</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

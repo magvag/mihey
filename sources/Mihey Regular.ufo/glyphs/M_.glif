@@ -5,47 +5,61 @@
   <anchor x="333" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="284" y="101" type="line" name=".at01"/>
-      <point x="325" y="101" type="line"/>
-      <point x="430" y="537" type="line"/>
-      <point x="462" y="44" type="line" name=".av03"/>
-      <point x="414" y="44" type="line"/>
-      <point x="414" y="0" type="line"/>
-      <point x="653" y="0" type="line"/>
-      <point x="653" y="44" type="line"/>
-      <point x="609" y="44" type="line"/>
-      <point x="568" y="656" type="line" name=".sk5"/>
-      <point x="612" y="656" type="line"/>
-      <point x="612" y="700" type="line"/>
-      <point x="470" y="700" type="line" name=".sk2"/>
-      <point x="470" y="700" type="line"/>
-      <point x="420" y="700" type="line" name=".sk4"/>
-      <point x="420" y="700" type="line"/>
-      <point x="325" y="280" type="line"/>
-      <point x="222" y="701" type="line" name=".av03"/>
-      <point x="44" y="701" type="line"/>
-      <point x="44" y="657" type="line"/>
-      <point x="94" y="657" type="line"/>
-      <point x="52" y="44" type="line" name=".sk2"/>
-      <point x="14" y="44" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="156" y="0" type="line"/>
-      <point x="156" y="44" type="line"/>
-      <point x="104" y="44" type="line"/>
-      <point x="136" y="532" type="line"/>
-      <point x="245" y="101" type="line"/>
+      <point x="147" y="700" type="line" name=".at01"/>
+      <point x="97" y="700" type="line"/>
+      <point x="51.5997" y="44" type="line" name=".sk2"/>
+      <point x="13.7597" y="44" type="line"/>
+      <point x="13.7597" y="0" type="line"/>
+      <point x="69.2153" y="0" type="line"/>
+      <point x="80.4458" y="0" type="line" name=".sk3"/>
+      <point x="155.891" y="0" type="line"/>
+      <point x="155.891" y="44" type="line"/>
+      <point x="104.411" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="419.805" y="700" type="line" name=".sk4"/>
+      <point x="462.399" y="44" type="line" name=".av03"/>
+      <point x="413.559" y="44" type="line"/>
+      <point x="413.559" y="0" type="line"/>
+      <point x="485.135" y="0" type="line"/>
+      <point x="588.324" y="0" type="line" name=".sk1"/>
+      <point x="652.807" y="0" type="line"/>
+      <point x="652.807" y="44" type="line"/>
+      <point x="608.807" y="44" type="line"/>
+      <point x="567.938" y="656" type="line" name=".sk5"/>
+      <point x="611.938" y="656" type="line"/>
+      <point x="611.938" y="700" type="line"/>
+      <point x="547.455" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="284.395" y="101.088" type="line" name=".at01"/>
+      <point x="324.936" y="101.088" type="line"/>
+      <point x="469.671" y="700.206" type="line" name=".sk2"/>
+      <point x="419.876" y="700.206" type="line" name=".sk3"/>
+    </contour>
+    <contour>
+      <point x="333.449" y="245.816" type="line"/>
+      <point x="221.553" y="701.206" type="line" name=".av03"/>
+      <point x="132.894" y="701.206" type="line" name=".sk1"/>
+      <point x="44.128" y="701.206" type="line"/>
+      <point x="44.128" y="657.206" type="line"/>
+      <point x="104.697" y="657.206" type="line"/>
+      <point x="244.708" y="101.097" type="line"/>
+      <point x="324.052" y="101.196" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>=13</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>3fabaf6d685ccc25f085752bbeb86c9b8fb17310ba65ec83b02ec8aa111866a391c4c7671d6bc87a4b50f59982ed9059428ab0e49f0b9577cf4f93794bc0ae0e</string>
+    <string>c67884d3355f900c71950ea12036da07f8b7c3a9da9411e3a9efbe8791750534a1583766a998bce3932d1a1677796532ff26dcbdfdba2178be6e70ace0a4bb87</string>
     <key>hintSetList</key>
     <array>
       <dict>

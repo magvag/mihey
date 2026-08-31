@@ -5,17 +5,6 @@
   <anchor x="258" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="441" y="675" type="line"/>
-      <point x="165" y="47" type="line"/>
-      <point x="168" y="47" type="line" smooth="yes"/>
-      <point x="269" y="47"/>
-      <point x="366" y="147"/>
-      <point x="406" y="287" type="curve"/>
-      <point x="449" y="278" type="line"/>
-      <point x="389" y="0" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="14" y="25" type="line"/>
-      <point x="291" y="655" type="line"/>
       <point x="288" y="655" type="line" smooth="yes"/>
       <point x="189" y="655"/>
       <point x="110" y="583"/>
@@ -23,16 +12,37 @@
       <point x="37" y="445" type="line"/>
       <point x="67" y="700" type="line"/>
       <point x="441" y="700" type="line"/>
+      <point x="441" y="675" type="line"/>
+      <point x="397" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="46.5" type="line"/>
+      <point x="168" y="46.5" type="line" smooth="yes"/>
+      <point x="269.15" y="46.5"/>
+      <point x="366" y="147"/>
+      <point x="406" y="287" type="curve"/>
+      <point x="449" y="278" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="14" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="675" type="line"/>
+      <point x="155" y="24.5" type="line"/>
+      <point x="14" y="24.5" type="line"/>
+      <point x="300" y="675" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a130bbcfc992770ccaf006e3d01f1244a00a47dc7bc4c1ea8b8ad5afccca8153e65fec45a8ca13af676939b38f0c782f224bfaf8057c10d8491516d2c5b06243</string>
+    <string>d69f7ae1013db4f175c8378b082895912bc3c045f1c8ed6392f6f56e139a7c5a8210b41e62a2f46c342edced0e36b9ccc028b43832b72f58683b16606386a7d4</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -20,6 +20,10 @@
   <string>A_circumflex.glif</string>
   <key>Acyr</key>
   <string>A_cyr.glif</string>
+  <key>Acyr.alt1</key>
+  <string>A_cyr.alt1.glif</string>
+  <key>Acyr.alt2</key>
+  <string>A_cyr.alt2.glif</string>
   <key>Adieresis</key>
   <string>A_dieresis.glif</string>
   <key>Agrave</key>
@@ -384,12 +388,18 @@
   <string>_Z_he_half.glif</string>
   <key>_corner.s_I</key>
   <string>_corner.s_I_.glif</string>
+  <key>_corner.s_I.sc</key>
+  <string>_corner.s_I_.sc.glif</string>
   <key>_corner.s_Tse</key>
   <string>_corner.s_T_se.glif</string>
+  <key>_corner.s_Tse.sc</key>
+  <string>_corner.s_T_se.sc.glif</string>
   <key>_corner.s_Tse2</key>
   <string>_corner.s_T_se2.glif</string>
   <key>_corner.s_num</key>
   <string>_corner.s_num.glif</string>
+  <key>_corner.s_num.sc</key>
+  <string>_corner.s_num.sc.glif</string>
   <key>acute</key>
   <string>acute.glif</string>
   <key>acute.case</key>
@@ -464,6 +474,8 @@
   <string>dieresis.glif</string>
   <key>dieresis.case</key>
   <string>dieresis.case.glif</string>
+  <key>dieresis.sc</key>
+  <string>dieresis.sc.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
   <key>dollar</key>
@@ -472,14 +484,14 @@
   <string>dotaccent.glif</string>
   <key>dotaccent.case</key>
   <string>dotaccent.case.glif</string>
+  <key>dotaccent.sc</key>
+  <string>dotaccent.sc.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
-  <key>encyr</key>
-  <string>encyr.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
   <key>equal</key>
@@ -534,8 +546,6 @@
   <string>minute.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
-  <key>n</key>
-  <string>n.glif</string>
   <key>narrownobreakspace</key>
   <string>narrownobreakspace.glif</string>
   <key>nine</key>
@@ -548,20 +558,18 @@
   <string>numbersign.glif</string>
   <key>numero</key>
   <string>numero.glif</string>
-  <key>ocyr</key>
-  <string>ocyr.glif</string>
   <key>ogonek</key>
   <string>ogonek.glif</string>
   <key>ogonek.case</key>
   <string>ogonek.case.glif</string>
+  <key>ogonek.sc</key>
+  <string>ogonek.sc.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>parenleft</key>
   <string>parenleft.glif</string>
   <key>parenright</key>
   <string>parenright.glif</string>
-  <key>pecyr</key>
-  <string>pecyr.glif</string>
   <key>percent</key>
   <string>percent.glif</string>
   <key>period</key>
@@ -594,14 +602,14 @@
   <string>quotesinglbase.glif</string>
   <key>quotesingle</key>
   <string>quotesingle.glif</string>
-  <key>r</key>
-  <string>r.glif</string>
   <key>registered</key>
   <string>registered.glif</string>
   <key>ring</key>
   <string>ring.glif</string>
   <key>ring.case</key>
   <string>ring.case.glif</string>
+  <key>ring.sc</key>
+  <string>ring.sc.glif</string>
   <key>ruble</key>
   <string>ruble.glif</string>
   <key>second</key>
@@ -628,8 +636,6 @@
   <string>trademark.glif</string>
   <key>two</key>
   <string>two.glif</string>
-  <key>u</key>
-  <string>u.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni0083</key>

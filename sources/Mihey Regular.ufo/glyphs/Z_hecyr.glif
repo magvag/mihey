@@ -3,8 +3,6 @@
   <advance width="745"/>
   <unicode hex="0416"/>
   <outline>
-    <component base="_Zhe_half" xOffset="420"/>
-    <component base="_Zhe_half" xScale="-1" xOffset="324.53"/>
     <contour>
       <point x="300" y="44" type="line" name=".sk1"/>
       <point x="256" y="44" type="line"/>
@@ -12,12 +10,50 @@
       <point x="486" y="0" type="line"/>
       <point x="486" y="44" type="line"/>
       <point x="442" y="44" type="line"/>
+      <point x="442" y="305" type="line"/>
+      <point x="473" y="352" type="line"/>
+      <point x="550" y="131"/>
+      <point x="609" y="8"/>
+      <point x="748" y="-78" type="curve"/>
+      <point x="767" y="-64" type="line"/>
+      <point x="718" y="59"/>
+      <point x="692" y="135"/>
+      <point x="580" y="514" type="curve"/>
+      <point x="674" y="656" type="line" name=".sk5"/>
+      <point x="718" y="656" type="line"/>
+      <point x="718" y="700" type="line"/>
+      <point x="558" y="700" type="line"/>
+      <point x="558" y="656" type="line"/>
+      <point x="607" y="656" type="line"/>
+      <point x="442" y="379" type="line"/>
       <point x="442" y="656" type="line" name=".sk3"/>
       <point x="486" y="656" type="line"/>
       <point x="486" y="700" type="line"/>
       <point x="256" y="700" type="line"/>
       <point x="256" y="656" type="line"/>
       <point x="300" y="656" type="line"/>
+      <point x="300" y="383" type="line"/>
+      <point x="138" y="656" type="line"/>
+      <point x="187" y="656" type="line"/>
+      <point x="187" y="700" type="line"/>
+      <point x="26" y="700" type="line"/>
+      <point x="26" y="656" type="line"/>
+      <point x="70" y="656" type="line" name=".sk5"/>
+      <point x="164" y="514" type="line"/>
+      <point x="52" y="135"/>
+      <point x="27" y="59"/>
+      <point x="-22" y="-64" type="curve"/>
+      <point x="-4" y="-78" type="line"/>
+      <point x="136" y="8"/>
+      <point x="194" y="131"/>
+      <point x="272" y="352" type="curve"/>
+      <point x="300" y="309" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
 </glyph>
