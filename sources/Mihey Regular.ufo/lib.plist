@@ -340,10 +340,6 @@
     <string>Wdieresis</string>
     <string>Tcommaaccent</string>
     <string>Scommaaccent</string>
-    <string>encyr</string>
-    <string>pecyr</string>
-    <string>n</string>
-    <string>ocyr</string>
     <string>_corner.s_I</string>
     <string>_Zhe_half</string>
     <string>_corner.s_Tse</string>
@@ -368,8 +364,15 @@
     <string>commaaccentcomb.case</string>
     <string>kratka.case</string>
     <string>ogonek.case</string>
-    <string>u</string>
-    <string>r</string>
+    <string>_corner.s_I.sc</string>
+    <string>_corner.s_Tse.sc</string>
+    <string>_corner.s_num.sc</string>
+    <string>ogonek.sc</string>
+    <string>dieresis.sc</string>
+    <string>ring.sc</string>
+    <string>dotaccent.sc</string>
+    <string>Acyr.alt1</string>
+    <string>Acyr.alt2</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
@@ -378,6 +381,9 @@
     <string>_corner.s_Tse</string>
     <string>_corner.s_num</string>
     <string>_corner.s_Tse2</string>
+    <string>_corner.s_I.sc</string>
+    <string>_corner.s_Tse.sc</string>
+    <string>_corner.s_num.sc</string>
   </array>
 </dict>
 </plist>

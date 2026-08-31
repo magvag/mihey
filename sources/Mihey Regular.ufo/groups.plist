@@ -19,10 +19,12 @@
   <key>A_left_cropped</key>
   <array>
     <string>A.alt1</string>
+    <string>Acyr.alt1</string>
   </array>
   <key>A_right_cropped</key>
   <array>
     <string>A.alt2</string>
+    <string>Acyr.alt2</string>
   </array>
   <key>El_base</key>
   <array>
@@ -95,6 +97,38 @@
     <string>arrowleft.alt1</string>
     <string>arrowright.alt1</string>
   </array>
+  <key>calt</key>
+  <array>
+    <string>A</string>
+    <string>Acyr</string>
+    <string>Adieresis</string>
+    <string>Aacute</string>
+    <string>Agrave</string>
+    <string>Aring</string>
+    <string>Acircumflex</string>
+    <string>Amacron</string>
+    <string>Atilde</string>
+    <string>Abreve</string>
+    <string>Aogonek</string>
+  </array>
+  <key>calt2</key>
+  <array>
+    <string>Iocyr</string>
+    <string>Becyr</string>
+    <string>Vecyr</string>
+    <string>Iecyr</string>
+    <string>Zecyr</string>
+    <string>Ocyr</string>
+    <string>Escyr</string>
+    <string>Efcyr</string>
+    <string>Hardcyr</string>
+    <string>Softcyr</string>
+    <string>Ereversedcyr</string>
+    <string>Yucyr</string>
+    <string>Dzecyr</string>
+    <string>Ljecyr</string>
+    <string>Njecyr</string>
+  </array>
   <key>dash</key>
   <array>
     <string>emdash</string>
@@ -108,6 +142,7 @@
     <string>Abreve</string>
     <string>Acircumflex</string>
     <string>Acyr</string>
+    <string>Acyr.alt1</string>
     <string>Adieresis</string>
     <string>Agrave</string>
     <string>Amacron</string>
@@ -346,12 +381,14 @@
   <key>public.kern2.A1</key>
   <array>
     <string>A</string>
-    <string>A.alt2</string>
+    <string>A.alt1</string>
     <string>AE</string>
     <string>Aacute</string>
     <string>Abreve</string>
     <string>Acircumflex</string>
     <string>Acyr</string>
+    <string>Acyr.alt1</string>
+    <string>Acyr.alt2</string>
     <string>Adieresis</string>
     <string>Agrave</string>
     <string>Amacron</string>
