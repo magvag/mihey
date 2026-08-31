@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowdown" format="2">
-  <advance width="482"/>
+  <advance width="422"/>
   <unicode hex="2193"/>
   <outline>
-    <component base="arrowup" xScale="-1" yScale="-1" xOffset="482" yOffset="696"/>
+    <component base="arrowup" xScale="-1" yScale="-1" xOffset="422" yOffset="696"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowup</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>arrowup</string>
   <key>public.markColor</key>
   <string>0.604,0.6,1,1</string>
   </dict>

@@ -1,12 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowup" format="2">
-  <advance width="482"/>
+  <advance width="422"/>
   <unicode hex="2191"/>
   <outline>
-    <component base="arrowleft" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="-137" yOffset="735"/>
+    <contour>
+      <point x="165.218" y="-1.96533" type="line"/>
+      <point x="191.107" y="638.708" type="line"/>
+      <point x="210.457" y="638.708" type="line"/>
+      <point x="213.93" y="-0.107178" type="line"/>
+    </contour>
+    <contour>
+      <point x="229.107" y="608.826" type="line"/>
+      <point x="167.935" y="547.639"/>
+      <point x="79.117" y="494.308"/>
+      <point x="42.0515" y="479.111" type="curve"/>
+      <point x="22.3833" y="494.308" type="line"/>
+      <point x="79.117" y="547.639"/>
+      <point x="160.817" y="664.865"/>
+      <point x="191.708" y="719.708" type="curve"/>
+      <point x="211.708" y="719.708" type="line"/>
+    </contour>
+    <contour>
+      <point x="192.309" y="608.826" type="line"/>
+      <point x="253.482" y="547.639"/>
+      <point x="342.299" y="494.308"/>
+      <point x="379.365" y="479.111" type="curve"/>
+      <point x="399.033" y="494.308" type="line"/>
+      <point x="342.299" y="547.639"/>
+      <point x="260.599" y="664.865"/>
+      <point x="229.708" y="719.708" type="curve"/>
+      <point x="209.708" y="719.708" type="line"/>
+    </contour>
+    <contour>
+      <point x="255.825" y="-1.96533" type="line"/>
+      <point x="229.936" y="638.708" type="line"/>
+      <point x="210.586" y="638.708" type="line"/>
+      <point x="207.112" y="-0.107178" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=22</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=22</string>
   <key>public.markColor</key>
   <string>0.604,0.6,1,1</string>
   </dict>
