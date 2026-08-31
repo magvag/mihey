@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.s_Tse.sc" format="2">
+  <advance width="195"/>
+  <anchor x="109" y="0" name="origin"/>
+  <anchor x="0" y="0" name="left"/>
+  <anchor x="109" y="44" name="right"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="move"/>
+      <point x="107" y="-5"/>
+      <point x="139" y="-88"/>
+      <point x="152" y="-163" type="curve"/>
+      <point x="192" y="-163" type="line"/>
+      <point x="192" y="44" type="line"/>
+      <point x="109" y="44" type="line"/>
+    </contour>
+  </outline>
+</glyph>
